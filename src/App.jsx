@@ -1,13 +1,19 @@
 import React from "react";
 import "./App.css";
+import { toast } from "react-toastify";
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 const cover_art_url = process.env.REACT_APP_SERIES_COVER_ART_URL;
 const notion_url = process.env.REACT_APP_NOTION_URL;
 
 function App() {
+  toast.info("Notifications are working :)"); // multi-coloured bar
+
   return (
     <div className="App">
       <header className="App-header">
+        <ToastContainer />
         <div className="landing">
           <h1>The best place to learn about business and investing</h1>
           <img src={cover_art_url} className="App-logo" alt="logo" />
