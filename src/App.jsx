@@ -1,39 +1,30 @@
 import React from "react";
 import "./App.css";
-import { toast } from "react-toastify";
+import { Route, Switch, Redirect } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-
-const cover_art_url = process.env.REACT_APP_SERIES_COVER_ART_URL;
-const notion_url = process.env.REACT_APP_NOTION_URL;
+import Home from "./components/home";
+import NavBar from "./components/navBar";
+import Episode from "./components/episode";
+import NotFound from "./components/notFound";
 
 function App() {
-  toast.info("Notifications are working :)"); // multi-coloured bar
-
   return (
     <div className="App">
+      <NavBar />
       <header className="App-header">
-        <ToastContainer />
-        <div className="landing">
-          <h1>The best place to learn about business and investing</h1>
-          <img src={cover_art_url} className="App-logo" alt="logo" />
-          <p className="subtle">
-            Our mission is to capture and share the best information for
-            business <strong>builders and investors</strong>.
-          </p>
-          <p>
-            Join our <strong>ever-evolving university</strong> for investors,
-            operators, and entrepreneurs.
-          </p>
-          <a
-            className="App-link"
-            href={notion_url}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            View Mark's ideas
-          </a>
-        </div>
+        <ToastContainer autoClose={7000} />
+        <Switch>
+          <Route path="/episode/181" component={Episode} />
+          <Redirect from="/episode/:id" to="/episode/181?redirect=yes" />
+          <Route path="/not-found" component={NotFound} />
+          <Route
+            path="/products"
+            render={(props) => <Episode sortBy="newest" {...props} />}
+          />
+          <Route path="/" exact component={Home} />
+          <Redirect to="/not-found" />
+        </Switch>
       </header>
     </div>
   );
