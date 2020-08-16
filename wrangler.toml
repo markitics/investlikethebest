@@ -1,0 +1,10 @@
+name = "invest"
+type = "webpack"
+account_id = "a139381edda59e39115f93920d1569fd"
+workers_dev = false # must be false if routes are provided
+routes = ["invest.markmoriarty.com/*"]
+zone_id = "2dec6f284214050851305df1903856f5"
+
+[site]
+bucket = "./build"
+entry-point = "workers-site"

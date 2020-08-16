@@ -1,14 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+
+const cover_art_url = "https://ssl-static.libsyn.com/p/assets/0/b/c/e/0bce06651e36264f/Invest_Like_The_Best_Podcast_Cover_1400x1400.jpg"
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={cover_art_url} className="App-logo" alt="logo" />
+        <h1>Invest Like the Best</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          We're live. 
         </p>
         <a
           className="App-link"
