@@ -1,0 +1,2624 @@
+1
+00:00:34,160 --> 00:00:49,480
+[Episode 181]
+
+2
+00:00:49,480 --> 00:00:57,730
+Patrick: My guest this week is Charlie Songhurst the former head of strategy at Microsoft, and a prolific investor having personally invested in nearly 500 companies through his career.
+
+3
+00:00:58,230 --> 00:01:00,130
+I met Charlie at an event hosted in New York.
+
+4
+00:01:00,130 --> 00:01:04,459
+And you can tell within one minute of meeting him that his mind is sparkling with ideas and curiosity.
+
+5
+00:01:05,179 --> 00:01:08,150
+It's no wonder he's been among the most commonly requested guests.
+
+6
+00:01:08,370 --> 00:01:12,570
+When I asked several top investors and CEOs who I should have on the show, Charlie’s name always comes up.
+
+7
+00:01:25,020 --> 00:01:27,130
+Charlie, I like starting these things in a unique way.
+
+8
+00:01:27,170 --> 00:01:33,420
+And one idea that you've had is to have people stack rank their vices of power, money, and fame.
+
+9
+00:01:33,420 --> 00:01:38,929
+I'd love you to begin by explaining why you're interested in this idea and what you've learned from the answers over the years.
+
+10
+00:01:39,510 --> 00:01:47,199
+Charlie: So, it's a two part question, one is stack ranking the virtues: [1] working with people you like; [2] working on amazing problems; and [3] having impact.
+
+11
+00:01:47,520 --> 00:01:49,860
+And then the three vices: [1] power, [2] money; and [3] fame.
+
+12
+00:01:50,150 --> 00:01:52,160
+You can't avoid them, but they have to be viewed separately.
+
+13
+00:01:52,710 --> 00:01:56,179
+And it's really trying to get at the differences between them.
+
+14
+00:01:56,179 --> 00:01:59,170
+There's no good answer, but there are definite good fit answers.
+
+15
+00:01:59,570 --> 00:02:04,509
+So, someone who's interested in power tends to be better at execution.
+
+16
+00:02:05,039 --> 00:02:10,310
+Someone's more interested in money, tends to think more about some capital efficiency.
+
+17
+00:02:10,710 --> 00:02:16,109
+I tend to avoid people interested in fame, but if you are doing something in showbiz, it would presumably be the number one criteria.
+
+18
+00:02:16,690 --> 00:02:25,019
+If you think about the difference between impact, intellectual interest, working with people, you really get impression of where people are going to be happy and where they're not going to be happy.
+
+19
+00:02:25,180 --> 00:02:27,830
+You also start to understand why certain organizations do so well.
+
+20
+00:02:28,020 --> 00:02:31,470
+So, SpaceX if you think about it, stacks high on all three.
+
+21
+00:02:31,640 --> 00:02:32,730
+It's intellectually interesting.
+
+22
+00:02:32,750 --> 00:02:33,930
+You're working with amazing people.
+
+23
+00:02:34,059 --> 00:02:35,950
+You have huge utilitarian impacts in the world.
+
+24
+00:02:36,250 --> 00:02:40,719
+Whereas if you're working at a FinTech, you're less likely to survive that utilitarian positive impact.
+
+25
+00:02:41,170 --> 00:02:46,870
+Patrick: Any especially memorable or interesting series of answers that you've gotten on the two stack ranks that come to mind?
+
+26
+00:02:47,530 --> 00:02:50,350
+Charlie: A lot of people have negative utility from fame.
+
+27
+00:02:50,780 --> 00:02:58,189
+A lot of people start with power and then when you push them it's actually money but they don't want to say it.
+
+28
+00:02:58,929 --> 00:03:03,060
+This is more true outside of the US culture than it is in the US.
+
+29
+00:03:03,550 --> 00:03:04,680
+It's particularly true with Europeans.
+
+30
+00:03:04,680 --> 00:03:12,769
+And so a lot of it is trying to get people to actually say what they truly believe, as opposed to say what they think they should say.
+
+31
+00:03:13,380 --> 00:03:21,299
+Patrick: I'm curious in what context, whether it be interviewing prospective founders, interviewing potential hires or others you find it most interesting and useful?
+
+32
+00:03:21,760 --> 00:03:23,309
+Charlie: All of the above, especially the founder.
+
+33
+00:03:23,309 --> 00:03:29,400
+One is fascinating because you actually end up going down different lines and helping them depending on whether they answer power or money.
+
+34
+00:03:29,559 --> 00:03:34,700
+Founders that answer power tend to need help more on managing the startup capital efficiently.
+
+35
+00:03:34,930 --> 00:03:36,530
+They tend to be the ones that spend more.
+
+36
+00:03:36,730 --> 00:03:40,799
+They tend to be the ones that over expand that are often too aggressive.
+
+37
+00:03:41,170 --> 00:03:54,710
+Conversely, the ones that answer money tend to be very capital efficient, but often, slightly too cautious, slightly under aggressive, sometimes not willing enough to stamp their authority on the company and make it the culture that it needs to be to be successful.
+
+38
+00:03:55,340 --> 00:03:58,049
+Patrick: When it comes to hiring or evaluating founders.
+
+39
+00:03:58,090 --> 00:04:04,130
+Apart from this two-part stack ranking, are there other favorite questions or devices that you return to again and again?
+
+40
+00:04:04,710 --> 00:04:07,890
+Charlie: I think what you're looking for is founder market fit.
+
+41
+00:04:08,160 --> 00:04:09,960
+I think there's a sort of mistaken concept.
+
+42
+00:04:09,990 --> 00:04:12,260
+That's this Platonic ideal of an entrepreneur.
+
+43
+00:04:12,260 --> 00:04:16,469
+But I think maybe there's two very basic things, this energy and this sort of cognitive ability.
+
+44
+00:04:16,730 --> 00:04:18,909
+But after that, you're really looking for fit.
+
+45
+00:04:19,149 --> 00:04:25,070
+So, if you take the sort of prototypical consumer founder, they tend to have more empathy for how people behave.
+
+46
+00:04:25,469 --> 00:04:34,240
+Whereas if you take the classic enterprise founder, they tend to be more rational because in some ways you can just go and ask your customers what features do you want and go build them.
+
+47
+00:04:34,240 --> 00:04:36,460
+And so you go down those different lines.
+
+48
+00:04:36,460 --> 00:04:39,570
+And I think there's a lot of fallacy in that sort of platonic ideal.
+
+49
+00:04:39,580 --> 00:04:43,150
+What you're actually looking for is someone who's a good fit for a business.
+
+50
+00:04:44,110 --> 00:04:47,670
+Patrick: I'd love to take a step back now and introduce you to the audience a little bit.
+
+51
+00:04:47,680 --> 00:04:55,980
+One device that I've been using with people on the podcast is to ask you to give the thumbnail two minutes sketch of your life and career up until this point.
+
+52
+00:04:55,990 --> 00:04:59,510
+Charlie: I studied politics, philosophy, and economics at Oxford.
+
+53
+00:04:59,800 --> 00:05:07,660
+Ended up at McKinsey, then Microsoft, and then sort of bumbled my way into becoming an investor and do a lot of angel investing.
+
+54
+00:05:07,680 --> 00:05:15,270
+So I think I've done about 500 angel investments, the actual numbers is 483, and about 300 in the portfolio at the moment.
+
+55
+00:05:16,230 --> 00:05:18,200
+Patrick: I believe you ran strategy at Microsoft.
+
+56
+00:05:18,300 --> 00:05:19,989
+What exactly did that entail?
+
+57
+00:05:20,120 --> 00:05:22,570
+And what is most memorable about that time?
+
+58
+00:05:23,400 --> 00:05:25,850
+Charlie: There's so many memories working with amazing people.
+
+59
+00:05:26,030 --> 00:05:35,880
+The hostile acquisition of Yahoo as an attempt was just unbelievably intellectually fascinating, trying to buy a company in a hostile position for I think it was 47 billion dollars.
+
+60
+00:05:35,880 --> 00:05:47,219
+And just the drama and the soap opera and realizing how much path dependency matters in big deals, how much a casual comment misinterpreted by one side or the other actually, actually changes the outcome.
+
+61
+00:05:47,510 --> 00:05:57,299
+It's remarkable how little system theory that is in the sense of you ran experiments again, and again, I think you'd get a lot of different results in M&A activity.
+
+62
+00:05:57,420 --> 00:06:02,170
+Where in things like product usage, good products and bad products, that could probably be the same niche experiment.
+
+63
+00:06:02,170 --> 00:06:05,770
+Patrick: 483 investments is a crazy amount.
+
+64
+00:06:05,780 --> 00:06:10,380
+I want to come back to your time at Microsoft probably later on and talk in more depth about strategy.
+
+65
+00:06:10,380 --> 00:06:20,050
+But given the sheer volume of investments that you've made, I think a great place to begin our conversation is your idea or your thinking around why startups succeed and fail.
+
+66
+00:06:20,200 --> 00:06:25,440
+I'd love to begin by you outlining sort of what, if anything is shared in common across those 483.
+
+67
+00:06:25,980 --> 00:06:32,880
+So are there certain features that you're always looking for and sort of how your process works and then we'll get into the success and failure of startups.
+
+68
+00:06:33,690 --> 00:06:34,849
+Charlie: In some ways the two tie together.
+
+69
+00:06:34,850 --> 00:06:40,380
+So I think the dominant sort of failure mode for startups is the same at each different stage.
+
+70
+00:06:40,660 --> 00:06:49,119
+So at sort of pre seed to seed, you basically have a failure to achieve labor productivity, which is just a polite way of saying the team doesn't come together.
+
+71
+00:06:49,120 --> 00:06:50,769
+Doesn't gel and produce good output.
+
+72
+00:06:51,139 --> 00:06:58,390
+Usually a team that just produces good work will generate enough sort of kinetic energy to get continuing funding.
+
+73
+00:06:58,520 --> 00:07:05,349
+Once you sort of going from seed to series A, it's another single cause, which is failure to get product market fit.
+
+74
+00:07:05,509 --> 00:07:07,580
+You're basically on the search for demand curve.
+
+75
+00:07:07,940 --> 00:07:10,200
+And you either find one where you don't find one.
+
+76
+00:07:10,480 --> 00:07:14,040
+And this is where you've got the highest element of pure chance in a start up.
+
+77
+00:07:14,250 --> 00:07:20,469
+It's always feels akin to sort of gold perspective in the California gold rush, which is you can be good or you can be bad.
+
+78
+00:07:20,469 --> 00:07:21,690
+You can do the right thing.
+
+79
+00:07:21,860 --> 00:07:25,203
+You can do the wrong thing, but there's some irreducible amount of chance.
+
+80
+00:07:25,203 --> 00:07:31,190
+Why the wisest prospector with the best maps, the most intelligent strategy, sometimes just won't find it.
+
+81
+00:07:31,460 --> 00:07:35,530
+And someone will just fall asleep, put the pan in a stream and gold will come out.
+
+82
+00:07:35,780 --> 00:07:38,780
+And there really is a little nexus of serendipity at this stage.
+
+83
+00:07:39,160 --> 00:07:53,120
+Then when you move to series A, it's really all about labor productivity, but in a different form, it's “can the manager scale?” And one of the fallacies is most early stage startup founders think they're managers.
+
+84
+00:07:53,120 --> 00:07:54,340
+And their actually not.
+
+85
+00:07:54,570 --> 00:07:56,830
+What the actually have is a team that's actually managing them.
+
+86
+00:07:56,830 --> 00:08:06,929
+Because when you're managing say 10 or less people and spending time with them every day, what's actually happening is they're managing you by influence because they know you well enough.
+
+87
+00:08:07,000 --> 00:08:09,800
+And they talked to you enough to work out what your desires are.
+
+88
+00:08:10,090 --> 00:08:15,289
+So as long as you're articulate and energetic and sort of engaged, you actually don't have to manage.
+
+89
+00:08:15,450 --> 00:08:16,620
+The team manages you up.
+
+90
+00:08:17,240 --> 00:08:26,080
+But when you scale to 30 people, to 90 people or above, you no longer have those personal connections, you have to move to formal management techniques.
+
+91
+00:08:26,330 --> 00:08:28,850
+And that's like a sort of Fermi Paradox Great Filter.
+
+92
+00:08:29,160 --> 00:08:31,249
+It wipes up an amazing amount of startups.
+
+93
+00:08:32,210 --> 00:08:36,309
+And the way that's done is a collapse in the labor productivity per person.
+
+94
+00:08:36,630 --> 00:08:39,900
+There's a term in micro economics called managerial diseconomies of scale.
+
+95
+00:08:40,350 --> 00:08:49,050
+And I think in some ways the angle of the decline of productivity per person is the difference between the sort of the Stripes, the great startups, and the failures.
+
+96
+00:08:49,410 --> 00:08:54,799
+And maybe if you're a great startup, as you go from 10 people to 100 people output per person drops 15%.
+
+97
+00:08:55,179 --> 00:09:06,200
+And if you're a bad startup, it actually drops over 90% with the result that often 100-person startups produce the less than they did when they had 10 people, because the managerial collapse has been so extreme.
+
+98
+00:09:06,450 --> 00:09:24,920
+And one interesting thing is if you could look at companies that get big, maybe there's a sort of interesting explanation where one of the shared attributes was an instinct for the sort of structures and processes and management that were shared between Gates, Zuckerberg, Bezos, the Collisons - all these sort of super talented people, because my guess is they didn't receive formal instruction on it.
+
+99
+00:09:25,160 --> 00:09:27,610
+That VC as an advisors weren't that helpful on it.
+
+100
+00:09:27,870 --> 00:09:30,529
+It may be either by chance or by skill.
+
+101
+00:09:30,530 --> 00:09:31,877
+They just intuited the way through it.
+
+102
+00:09:31,877 --> 00:09:36,840
+Then when you get beyond that sort of series B and beyond, I think it's institution building.
+
+103
+00:09:36,840 --> 00:09:45,970
+And one of the interesting problems is the sort of people that become entrepreneurs often full of energy and sort of flexibility – almost a sort of combination of streets smart and book smart.
+
+104
+00:09:46,290 --> 00:09:52,200
+But there's a point where they've hit product market fit, where actually what they're doing is repeating a process at scale.
+
+105
+00:09:52,520 --> 00:09:55,480
+And to repeat a process at scale, you need to build an institution.
+
+106
+00:09:55,850 --> 00:09:59,219
+And often that sort of is almost an anathematic to their personality.
+
+107
+00:09:59,580 --> 00:10:04,330
+If they've ever taken revenue from 42 countries, you really need a well developed finance department.
+
+108
+00:10:04,690 --> 00:10:22,829
+Once you get to a certain size, you will always be in court cases because of being sued by ex-employees, you'll have patent infringement suits, you'll be debt collecting customers that didn't pay, the shift to sort of building an institution with institutional norms, and institutional boundaries and institutional culture, all the boring stuff of building.
+
+109
+00:10:22,889 --> 00:10:25,530
+From finance departments, from legal departments, from HR department.
+
+110
+00:10:25,690 --> 00:10:27,440
+That again is a big filter.
+
+111
+00:10:27,940 --> 00:10:29,879
+And so those are sort of filters by stages.
+
+112
+00:10:30,139 --> 00:10:33,250
+What's interesting is some of those you can do when you meet someone pre-seed.
+
+113
+00:10:33,380 --> 00:10:37,650
+One interesting thing is, can I close my eyes and imagine this person on a public company conference call.
+
+114
+00:10:37,800 --> 00:10:40,890
+Remembering my days at Microsoft, as in the Microsoft earnings call.
+
+115
+00:10:41,220 --> 00:10:54,089
+And I'm thinking, can I imagine them sitting as a sort of CEO, next to their CFO, talking with all the sort of wall street equity analysts and the buy side on the phone and just being credible enough, deep enough, and mature enough to pull that off.
+
+116
+00:10:54,089 --> 00:10:56,320
+Patrick: It's a fascinating set of framing.
+
+117
+00:10:56,360 --> 00:11:14,079
+The one that jumps out as maybe most interesting to me is this idea of the declining curve of people's productivity and in your experience, whether or not that is something that is typically innate to the founder, meaning they just handle that naturally and with aplomb, or if instead it's something perhaps that could be coached.
+
+118
+00:11:14,190 --> 00:11:19,000
+And if it's really just a set of best practices that are fairly universal, that the founders just don't get.
+
+119
+00:11:19,750 --> 00:11:24,800
+Charlie: I think the irony is it is absolutely something that can and should be coached, but often isn't.
+
+120
+00:11:25,050 --> 00:11:30,370
+So, often the people that get it intuitively are the people that survive, but there's no need for that.
+
+121
+00:11:30,600 --> 00:11:31,850
+It can just be coached in.
+
+122
+00:11:32,260 --> 00:11:35,499
+And I think a lot of it is you get this very strong transition.
+
+123
+00:11:35,870 --> 00:11:41,240
+When you are a very small startup, most of the people you're employing just come in, do their job and go home.
+
+124
+00:11:41,240 --> 00:11:47,020
+And the drawback of that is you tend to end up having to do tight management, a lot of micromanagement.
+
+125
+00:11:47,220 --> 00:11:50,980
+And the beauty of it is you tend to get a very low level politics in the organization.
+
+126
+00:11:51,150 --> 00:11:59,210
+Then you get this transition to where you’re hiring people that are sort of execs, so would be the sort head hunted: VPs, senior people.
+
+127
+00:11:59,320 --> 00:12:08,200
+And the beauty of these more senior people is you can give them much more complex tasks: build me a product division doing this, go open European markets for me.
+
+128
+00:12:08,780 --> 00:12:17,319
+The drawback is it anyone capable of those complex conceptual abstractions necessarily to do that, tends also to be capable of politics.
+
+129
+00:12:17,549 --> 00:12:24,630
+And because the world is not composed of saints as an organization scales the level of politics increases exponentially.
+
+130
+00:12:25,010 --> 00:12:34,100
+Someone once said to me the difference between a great company, as one where the exact spend only 25% of the time playing politics and a bad one is where they spend 50% of the time playing politics.
+
+131
+00:12:34,350 --> 00:12:38,910
+And that delta is the entire gaussian bell-curve from the best Fortune 500 company to the worst.
+
+132
+00:12:39,340 --> 00:12:44,800
+And I think one of the things that really matter as a founder is acting as a dampener on politics.
+
+133
+00:12:46,089 --> 00:12:51,750
+Reducing the tendency for marketing to try and take control of the sales funnel.
+
+134
+00:12:51,960 --> 00:12:57,140
+Reducing the tendency for the head of sales to want to take over sort of inbound marketing.
+
+135
+00:12:57,420 --> 00:13:04,000
+It's trying to stop the CFO controlling spending so tightly that you don't get positive return on capital investments by sales.
+
+136
+00:13:04,000 --> 00:13:08,429
+It’s trying to stop sales, having so much control over spending that your margins get out of control.
+
+137
+00:13:08,599 --> 00:13:17,969
+All those boundary conditions between sort of VP leaders and functional heads, defining those well and managing through that transition is just so important.
+
+138
+00:13:18,080 --> 00:13:22,009
+And there's no where someone learns that through the process of entrepreneurship.
+
+139
+00:13:22,099 --> 00:13:30,719
+One of the things that's, I think very interesting in people's careers in general, is the early stages, and the personalities that go into them often have negative correlation with the later stages.
+
+140
+00:13:30,900 --> 00:13:39,710
+So, if you look at a sort of McKinsey or Goldman Sachs analyst, often what they need is attention to detail, strong work ethic, high diligence, high conscientiousness.
+
+141
+00:13:41,770 --> 00:13:42,650
+Those sorts of things.
+
+142
+00:13:42,830 --> 00:13:55,840
+If you look at middle management at those companies, they need good project management, good ability to abstract and structure problems, good ability to pull a team together and create team moral and the sort of attention to the detail and the technical knowledge matters less.
+
+143
+00:13:56,020 --> 00:14:05,879
+And then if you look at the sort of partner level in those firms, often all that matters is relationship building and sales and charm, and the ability to empathize with the client and connect with them.
+
+144
+00:14:06,190 --> 00:14:11,670
+And so it's very hard to find people that are stars in all three parts of those careers.
+
+145
+00:14:11,930 --> 00:14:14,170
+And I think it's the same with entrepreneurship.
+
+146
+00:14:14,429 --> 00:14:38,680
+The street smart entrepreneur at sort of pre-seed who can raise money with a good narrative, and good energy and recruit people and sort of create a sort of sense of momentum and a esprit de corps, is often very negatively correlated with a sort of personality that wants to put in quarterly HR reviews and QBR reporting, and really make sure that the finance team is taking off at a later stage.
+
+147
+00:14:38,980 --> 00:14:53,600
+And then conversely, often the entrepreneurs that do very well later find the early stage capital raising hell on earth, because in some ways they are so tightly gripped to reality and slightly pessimistic, which makes them fairly good at sort of avoiding chaos, often makes them very bad at pitching.
+
+148
+00:14:54,550 --> 00:15:18,589
+Patrick: I'd love to hear your thought on this interesting concept that actually our mutual friend Graham and I have batted around quite a lot, which is this notion, the term we use based on a blog post by a guy named Rick Burton is the idea of an “alien founder.” An alien here is used as the best possible compliment to a founder where it's somebody that just has sort of what seems to be in like an unfair and privileged access to some sort of underlying substrate - the thing that is going to build the business.
+
+149
+00:15:18,590 --> 00:15:20,350
+And they just kind of know what to do.
+
+150
+00:15:20,430 --> 00:15:25,459
+They have an incredible first principles mindset typically, and say, Bill Gates would be a great example of this.
+
+151
+00:15:25,460 --> 00:15:28,260
+I think Bezos would be a great example of this, to use obvious ones.
+
+152
+00:15:28,309 --> 00:15:35,040
+What do you think of that idea that in some ways the absolute best founders are in some sense, alien, and distinctly unique people.
+
+153
+00:15:36,029 --> 00:15:50,170
+Charlie: I will, maybe for the Socratic sake of it, sort of take the opposite argument and say, I think one of the mistakes to fall into is just sort of seeing a sort of effervescent genius because you're seeing people at the height of their powers, you're not seeing them on the way up.
+
+154
+00:15:50,370 --> 00:16:03,989
+That's that famous clip of Bezos, I think in 1999, with Amazon spray painted in the back of the office, it would be really interesting if you talk to him, whether he is similar to the Bezos of today.
+
+155
+00:16:04,290 --> 00:16:23,240
+Because in the intervening 20 years, remember, you've got this incredible training program for the mind: they are working every hour in the startup, they're talking with the smartest people, they're constantly getting new information, they're hiring, they're firing, that pattern recognition of the executives get so much better.
+
+156
+00:16:23,400 --> 00:16:25,420
+They've got a million failed initiatives.
+
+157
+00:16:25,759 --> 00:16:27,790
+So they have all these learnings of what not to do.
+
+158
+00:16:28,010 --> 00:16:32,130
+They've got all the things that have worked, they’ve seen the scale, they've seen the commonality.
+
+159
+00:16:32,130 --> 00:16:41,509
+And so how much of that is sort of looking at an athlete at the peak of that performance and not seeing the 10,000 hours of practice that got them there.
+
+160
+00:16:41,779 --> 00:16:51,440
+And I can almost argue, you could invert it and say, what are actually the causes of mortality and how do we just avoid suffering that mortality this year?
+
+161
+00:16:51,760 --> 00:16:55,490
+And if you survive long enough, maybe greatness eventually becomes you.
+
+162
+00:16:56,190 --> 00:17:09,630
+One of the things I think that sort of is perhaps underestimated, is if you want to live forever, maybe don't start thinking about studying centenarians, instead, work out how to not die of a DUI or drunk driving or anybody else smoking 20 cigarettes a day.
+
+163
+00:17:09,880 --> 00:17:17,550
+And to some extent, the same in entrepreneurship, is people spend a lot of time studying greatness.
+
+164
+00:17:17,550 --> 00:17:18,650
+They don't study failure.
+
+165
+00:17:18,869 --> 00:17:19,850
+They study Mohammed Ali.
+
+166
+00:17:19,850 --> 00:17:23,959
+They don't study all the heavyweight boxers that faked out after losing that first match.
+
+167
+00:17:24,379 --> 00:17:28,409
+But maybe if you study all of those, you can find a commonality in their mistake.
+
+168
+00:17:28,730 --> 00:17:31,790
+Maybe they will, I don't know, offered their chin to the opponents or something.
+
+169
+00:17:31,950 --> 00:17:35,060
+And in startups, I think there are common mistakes.
+
+170
+00:17:35,270 --> 00:17:37,770
+There's an original sin about capitalism.
+
+171
+00:17:38,139 --> 00:17:48,210
+I see so many startups, three to five years in it's still haunted by bad capital at the beginning, some investor they don't want, some valuation that was hopelessly dilutive and puts VCs off.
+
+172
+00:17:48,910 --> 00:17:54,700
+Often one of the things that I see correlate very well with successes is how quickly they exit their first employee that doesn't fit.
+
+173
+00:17:55,230 --> 00:18:02,270
+And I think what that's actually showing is are they willing enough to be disagreeable, to make the company what they want?
+
+174
+00:18:02,750 --> 00:18:10,050
+And so the willingness to cross the chasm, and often you're dealing with young founders, that's a major inflection point.
+
+175
+00:18:10,050 --> 00:18:15,770
+And if you don't do it that often leads to a toxic culture and bad results, then that's sort of more subtle maladies.
+
+176
+00:18:15,849 --> 00:18:28,930
+Like turning things into an academic project, particularly with founders with very strong academic backgrounds, often in deep tech and PhDs, that's sort of like generals fighting the last war, where they think prestige of a currency because it is an academia.
+
+177
+00:18:29,050 --> 00:18:40,530
+And so they just think if we do amazing work and we tell the world about that amazing work, good things will happen because as a holistic, that did work, but it means they don't engage with the revenue, they don't get quite product market fit.
+
+178
+00:18:40,670 --> 00:18:49,960
+It's too much a sort of ivory tower, intellectual exercise, or conversely, do they just sort of think we get momentum, we get revenue, we get traction – it'll work.
+
+179
+00:18:50,150 --> 00:18:54,960
+And they haven't really thought about the micro economics and unit economics of a scaling company.
+
+180
+00:18:55,150 --> 00:19:02,850
+And so, I almost invert it and say, don't study greatness, study failure, and work out how not to be that.
+
+181
+00:19:02,970 --> 00:19:11,200
+If you're sort of thinking of history, trying to be as good an Emperor as Augustus would be really difficult, but not being as incompetent as Caligula seems really easy.
+
+182
+00:19:11,480 --> 00:19:19,970
+And so as a practical advice, not making the catastrophic mistakes and just surviving long enough feels like a good strategy.
+
+183
+00:19:20,170 --> 00:19:24,820
+There was some military general somewhere that said: “it's not that good soldiers become veterans.
+
+184
+00:19:25,040 --> 00:19:33,909
+It's the lucky soldiers become veterans, but veterans are good soldiers.” Meaning just the luck of surviving the first few hours put you up an experience curve.
+
+185
+00:19:34,210 --> 00:19:39,580
+And I see entrepreneurs transform in those first 36 months of leadership and management.
+
+186
+00:19:39,820 --> 00:19:42,879
+And half of it is just stay alive till you get good.
+
+187
+00:19:43,530 --> 00:19:45,139
+Patrick: We've talked a little bit about recruiting.
+
+188
+00:19:45,149 --> 00:20:00,490
+That's someone that all of a sudden seems like half of my time is spent just recruiting people in all different directions, curious how early you encourage entrepreneurs to make that a major part of what they do and whether or not that effectively lasts the rest of their career if they're successful.
+
+189
+00:20:01,759 --> 00:20:06,920
+Charlie: So I think recruiting is way underestimated precisely because in an early company, people replicate themselves.
+
+190
+00:20:07,350 --> 00:20:16,590
+So because people tend to hire not so much in their own image, but with that own set of biases, all the initial people you hire will influence all the other hires.
+
+191
+00:20:17,070 --> 00:20:21,300
+And so you can either get this sort of upwards iterating culture of excellence.
+
+192
+00:20:21,530 --> 00:20:24,710
+Or you can get this downwards iterating culture of excellence.
+
+193
+00:20:25,080 --> 00:20:28,210
+So those first few hires are utterly critical.
+
+194
+00:20:28,570 --> 00:20:36,910
+And I think people way in the estimate, just the sort of the math of the return which is, it seems excessive to say, spend 100 hours hiring a person.
+
+195
+00:20:37,420 --> 00:20:43,500
+But if you're only hiring 10 people, that person has 10% of the output of your company for the next seven years, if they stay.
+
+196
+00:20:43,730 --> 00:20:55,360
+But then if they hire as well, they may actually contribute to 10% of the productivity of the company for the first decade, both by their own labors in the early years, but also in terms of the way they themselves recruit.
+
+197
+00:20:55,780 --> 00:21:07,629
+So I think people just underestimate the power of the math here, and don't focus on the bias that entrepreneurs often have of going for speed and the desire to move fast.
+
+198
+00:21:08,240 --> 00:21:14,639
+And partly this has sort of come out of startup culture because of the sort of synergies of network effect businesses.
+
+199
+00:21:14,820 --> 00:21:16,280
+Where speed often really does matter.
+
+200
+00:21:16,389 --> 00:21:22,680
+But 99% of startups don't have strong network effects, 80% don't have them at all, maybe 90% only have weak network effects.
+
+201
+00:21:22,800 --> 00:21:24,880
+And in those quality matters far more.
+
+202
+00:21:25,210 --> 00:21:42,550
+And so going slower, spending an enormous amount of time, picking exceptional people that are deeply synergetic, exceptional in and of themselves, and then have deep and meaningful synergies with the other team members, creates this thing, which is a sort of algebraic functional labor output.
+
+203
+00:21:43,020 --> 00:21:52,500
+And I almost think that's how you have to think in the first year: “how do I find amazing standard on people that are also synergetic so that my net labor output of the firm is super high.”
+
+204
+00:21:52,500 --> 00:21:58,550
+And the biggest mistake I see, is when the panic to hire someone because they need sort of a job done.
+
+205
+00:21:58,810 --> 00:22:02,949
+And so they just go for the earliest person.
+
+206
+00:22:02,949 --> 00:22:09,319
+Another pernicious mistake, is the change in hiring rate based on the amount of capital available to the startup.
+
+207
+00:22:09,509 --> 00:22:14,830
+So what you notice is hiring is not consistent on a quarter by quarter basis.
+
+208
+00:22:15,020 --> 00:22:23,760
+It bulges after each capital raise – pre-seed, seed, A, and B – and then it's attenuated to almost to nothing in the six months before the next capital raise.
+
+209
+00:22:24,139 --> 00:22:31,480
+So the sort of entrepreneur is like the proverbial sailor coming into port who spends all their money and then doesn't have any money months afterwards.
+
+210
+00:22:32,670 --> 00:22:35,020
+And if you think about that, that's absolutely insane.
+
+211
+00:22:35,220 --> 00:22:47,420
+Because what's the chance that you can find, say you’re hiring 10 people, what's the chance you can find eight in the first 90 days and then only find two in the next 540 days?
+
+212
+00:22:47,639 --> 00:22:53,220
+Your chance of coming across the exceptional people is so much lower than if you space that out evenly.
+
+213
+00:22:53,550 --> 00:23:04,749
+And, because you'll know the existing people and see them working together, if you hire two in that first quarter, each next one you hire, you will understand the synergies with the existing team so much more.
+
+214
+00:23:05,809 --> 00:23:12,600
+Patrick: What have you seen successful founders do to make sure that when recruiting they're able to win the best candidates out there.
+
+215
+00:23:12,600 --> 00:23:15,730
+So it's one thing to be patient and spend the time to identify them.
+
+216
+00:23:15,920 --> 00:23:22,249
+You also have to hold out an attractive proposition to those very talented people who presumably have other opportunities as well.
+
+217
+00:23:22,400 --> 00:23:27,960
+So what have you learned about the best recruiters in terms of how they market the opportunity and market the firm?
+
+218
+00:23:29,090 --> 00:23:33,695
+Charlie: I'll give sort of base cynical answer and then a more aspirational answer.
+
+219
+00:23:33,860 --> 00:23:37,039
+The cynical one is just being in a labor market with sort of low competition.
+
+220
+00:23:37,440 --> 00:23:45,800
+You really don't want to be sitting there in San Francisco trying to close your candidate when John Collison’s trying to close the candidate as the alternative, because John's going to win.
+
+221
+00:23:45,980 --> 00:23:47,090
+Patrick: Knowing John, I agree.
+
+222
+00:23:47,170 --> 00:23:49,399
+Charlie: He is one of the great execs at his age.
+
+223
+00:23:49,530 --> 00:23:50,590
+But you see this actually happen.
+
+224
+00:23:50,970 --> 00:23:59,290
+Where, if you're hiring that person in Kiev and their other option is working in outsourced IT for Deutsche Bank, it's a much, much easier win.
+
+225
+00:23:59,570 --> 00:24:05,560
+So in some ways, what you want to find is where are the incredibly qualified people in weakly competitive labor markets.
+
+226
+00:24:05,770 --> 00:24:10,580
+And that is a much easier filter than actually being good at recruiting and a much more powerful one.
+
+227
+00:24:11,030 --> 00:24:16,780
+You're much better off being a heavyweight box whose not very good fighting lightweight boxers than you are getting good at being a heavyweight boxer.
+
+228
+00:24:17,300 --> 00:24:25,360
+So, you're better going and competing in a market where the other recruiters are lightweight because they're boring industrial firms with tenure based promotions.
+
+229
+00:24:25,780 --> 00:24:26,530
+So that's one.
+
+230
+00:24:26,710 --> 00:24:34,280
+And then two, it's some combination of sort of painting a vision that people want to be part of, understanding why they themselves are motivated.
+
+231
+00:24:34,280 --> 00:24:36,209
+So it goes back to those sort of earlier questions.
+
+232
+00:24:36,410 --> 00:24:37,990
+Are they motivated by working with great people?
+
+233
+00:24:37,990 --> 00:24:39,889
+Are they motivated by utilitarian impact?
+
+234
+00:24:39,899 --> 00:24:42,180
+Are they're motivated by things like money and power?
+
+235
+00:24:42,430 --> 00:24:46,249
+It goes back to just getting the impression that they want to spend time with you.
+
+236
+00:24:46,860 --> 00:24:51,369
+Do they actually want to spend every day with you as a founder because these companies are small.
+
+237
+00:24:51,630 --> 00:24:53,600
+It's not like you're recruited by a big company.
+
+238
+00:24:53,600 --> 00:24:59,330
+And the hiring VP, you may be going to spend an hour a month with, you're going to spend a lot of time with the founder.
+
+239
+00:24:59,560 --> 00:25:02,220
+So there has to be an actual desire to do this.
+
+240
+00:25:02,470 --> 00:25:07,070
+And then third, I think there's just a sort of sense of being in a sort of gang that's going to succeed.
+
+241
+00:25:07,349 --> 00:25:09,210
+A sense of - we are happy for you.
+
+242
+00:25:09,389 --> 00:25:22,140
+Let's quote some Shakespeare of just “I want to be with this because this is going to be something that changes the world, and it's going to be an adventure and fun.” And that cliché, the journey will be the reward, will be true and the economic outcome will be a reward.
+
+243
+00:25:22,320 --> 00:25:24,439
+And when I look back to impact, we'll have a reward.
+
+244
+00:25:24,439 --> 00:25:26,225
+And if you get that triple threat, you'll close them.
+
+245
+00:25:26,225 --> 00:25:26,563
+West Coast vs.
+
+246
+00:25:26,563 --> 00:25:27,127
+East Coast: Investing and Culture
+
+247
+00:25:27,240 --> 00:25:38,220
+Patrick: I would love your take on the sort of interesting tension between what I'll call in the US sort of East Coast versus West Coast investing where I would say East Coast investing is very traditional wall street, more quantitative.
+
+248
+00:25:38,230 --> 00:25:45,560
+Where West Coast is more startup-y and technology, and more qualitative and almost cavalier about, in some cases about the quantitative aspect of things.
+
+249
+00:25:45,759 --> 00:25:50,920
+I'd love you to riff on the pros and cons of these two styles and where you see the appropriate mix of them.
+
+250
+00:25:51,750 --> 00:25:53,889
+Charlie: I think this is sort of multi-part explanation for that.
+
+251
+00:25:54,010 --> 00:26:04,599
+One part, I think is the absence of existing status hierarchies on the West Coast meant there was less of an opportunity cost and sort of not joining Goldman.
+
+252
+00:26:04,949 --> 00:26:13,300
+And you could almost do a counter history and say maybe all the story about DARPA and the Valley and all of that is much less important than people think.
+
+253
+00:26:13,610 --> 00:26:24,250
+Maybe you just have a new country formed of 70 to 100 million people, without an existing status hierarchy, it would obviously glom on to the new tech, to the new industry.
+
+254
+00:26:24,400 --> 00:26:26,540
+The new industry is obviously going to be tech.
+
+255
+00:26:26,840 --> 00:26:35,770
+And so it was obvious that our sort of new country, which is really what the West Coast has been since sort of World War II when you at just the population numbers, the West Coast would obviously win.
+
+256
+00:26:36,230 --> 00:26:36,790
+That's one part of it.
+
+257
+00:26:36,790 --> 00:26:37,100
+[“I'm not sure you can build trillion-dollar market cap companies without that high trust culture.”]
+
+258
+00:26:37,100 --> 00:26:41,159
+I think the second part is differences in the nature of trust and zero sum-ness.
+
+259
+00:26:41,379 --> 00:26:45,130
+Partly because financial markets are in the traditional sense zero-sum.
+
+260
+00:26:45,510 --> 00:26:48,590
+One person’s stock alpha is another person's negative alpha.
+
+261
+00:26:48,890 --> 00:26:54,770
+East Coast investing has this sort of sense of, I need to beat the other person, I need to get a deal.
+
+262
+00:26:55,040 --> 00:26:59,569
+And that has led to sort of lower trust between participants.
+
+263
+00:26:59,569 --> 00:27:08,030
+And the West Coast maybe it's sort of part of California, hippie culture tradition coming in, has this very high sense of trust.
+
+264
+00:27:08,300 --> 00:27:16,490
+And if you look at these – the convertible note, if you look at the sort of letting the founder make decisions without supervision – these things can only emerge in a very high trust culture.
+
+265
+00:27:16,930 --> 00:27:22,940
+I'm not sure you can build trillion dollar market cap companies without that high trust culture.
+
+266
+00:27:23,180 --> 00:27:24,639
+I think if you don't have it.
+
+267
+00:27:24,940 --> 00:27:31,290
+You end up building something with a billion dollars and then arguing over how to sell it or how to optimize it.
+
+268
+00:27:31,660 --> 00:27:39,169
+And you don't get that sort of, “je ne sais quoi” aspiration that you see in all the trillion market cap companies, all of which are on the West Coast.
+
+269
+00:27:39,510 --> 00:27:52,020
+And then I think there's some interesting little sort of cultural foibles possibly with an actual dress by the East and West Coast, but more by the nature of investing, maybe what people do as analysts between the age of 21 and 23.
+
+270
+00:27:52,250 --> 00:27:59,540
+So if you spend your time between 21 and 23 building Excel models, you tend to think more about numbers.
+
+271
+00:27:59,540 --> 00:28:03,159
+And so you tend to have a much better intuition for margin economics.
+
+272
+00:28:03,309 --> 00:28:13,419
+And so where is the East coast often right over the West about the way they look at businesses, it's they correctly identify businesses with shaky unit economics, but fast revenue growth and “good” product market fit.
+
+273
+00:28:13,620 --> 00:28:18,470
+And they're like: “Look, you have product-market fit, but only because you're giving away $100 to 90.
+
+274
+00:28:18,710 --> 00:28:20,159
+So of course you've got good product market fit.”
+
+275
+00:28:20,450 --> 00:28:36,090
+I'll give the sort of counterpoint where West Coast investors do very well, is where you have a product lead that doesn't get evinced in the numbers immediately, but it's such a sort of tactile and visceral experience when you use it, you have to make an imaginative leap to turn that into numbers.
+
+276
+00:28:36,330 --> 00:28:37,270
+And there are two examples.
+
+277
+00:28:37,340 --> 00:28:41,040
+One is the iPhone, and I was doing some investigations for Microsoft at the time.
+
+278
+00:28:41,320 --> 00:28:46,719
+And it was always easier to talk back competitors than talk about yourself because you're less likely to say something you shouldn't.
+
+279
+00:28:46,949 --> 00:28:50,300
+So you always try and steer the conversation to talking about Apple, Google or something.
+
+280
+00:28:50,300 --> 00:29:06,459
+And one of the things you realized is there was a bunch of investors that sort of thought Apple was overvalued when it was sort of a hundred, 200 billion market cap, because they took the TAM of Nokia and said, even if they take all Nokia's market share, this business can't be big because phones only sell whatever it was back then.
+
+281
+00:29:06,660 --> 00:29:13,470
+And they couldn't intuit the increase in pricing power that were are going to get from turning the phone into a computer.
+
+282
+00:29:13,770 --> 00:29:16,163
+And the West Coast, VC community immediately intuited that.
+
+283
+00:29:16,163 --> 00:29:21,670
+And then you see the same in this sort of almost comic battle over Tesla as a stock.
+
+284
+00:29:21,790 --> 00:29:23,850
+The Apple one, we can say it's a win on the West Coast.
+
+285
+00:29:23,910 --> 00:29:25,820
+The Tesla story isn't fully written yet.
+
+286
+00:29:25,940 --> 00:29:34,616
+But again, it's this difference between a culture that says look, this product is so amazing, it will define its own category, and other investors saying, when you look at this in a spreadsheet, it just doesn't work.
+
+287
+00:29:34,849 --> 00:29:43,675
+And I think one interesting thing in general in the search for alpha, is where do you get intuitions that are hard to make because there's no natural person to think of it.
+
+288
+00:29:43,675 --> 00:29:48,400
+There's a public company called Xero, which is a small business accounting company.
+
+289
+00:29:48,790 --> 00:29:51,490
+It's headquartered in New Zealand listed on the ASX.
+
+290
+00:29:52,480 --> 00:29:55,770
+It's biggest market is accounting software in the UK.
+
+291
+00:29:55,770 --> 00:30:10,429
+But the people that fundamentally understand accounting software, would be people that have followed Intuit, which is a West Coast NASDAQ listed stock, would be more the people that maybe look at Intuit, H&R Block, that maybe go into Tableau and business analytics, right?
+
+292
+00:30:10,590 --> 00:30:15,150
+And so then you had a company [Xero] that quietly went from 50 million market cap to 10 billion market cap.
+
+293
+00:30:15,280 --> 00:30:26,560
+And I'm not sure anyone intuited it, because New Zealand investors weren’t use to tech, the Australian investors came out of a sort of mining culture and the US investors tended not to look at ASX listed companies.
+
+294
+00:30:26,560 --> 00:30:31,619
+And so one thing that's taught me, is trying to be smarter than other people is very hard and it doesn't work very often.
+
+295
+00:30:31,790 --> 00:30:37,730
+Trying to have an insight that you get because you sit in a different information flow just seems exponentially easier.
+
+296
+00:30:38,800 --> 00:30:39,160
+[Qualitative vs.
+
+297
+00:30:39,160 --> 00:30:39,165
+Quantitative Approaches]
+
+298
+00:30:39,165 --> 00:30:46,500
+Patrick: Everything you highlight suggests exactly what's happened in the last 10 years, which is that the primary sin for public market investors is being overly quantitative.
+
+299
+00:30:46,690 --> 00:30:59,470
+That basically anything quantitative, whether pure quantitative strategies or people that rely heavily on spreadsheets, as you say, have tended to get trounced by people that have the more qualitative, fundamental insight about what will become a very big market.
+
+300
+00:30:59,570 --> 00:31:04,790
+I'm curious how you apply those concepts in your own style of investing at an earlier stage.
+
+301
+00:31:04,790 --> 00:31:08,480
+So where does, obviously there's a lot of qualitative, but where does the quantitative come to play?
+
+302
+00:31:08,480 --> 00:31:26,790
+Charlie: Let me just go a little bit further on the thoughts of that, which is, I think one thing that's very interesting is the way you model companies in Excel with a DCF, there's this sort of set of cultural norms, like trending down the growth rate to a terminal value over time that obviously we collect for industrial era companies.
+
+303
+00:31:27,150 --> 00:31:29,139
+The sort of companies that are KKR would buy.
+
+304
+00:31:29,209 --> 00:31:31,540
+You were sort of modeling Nabisco and Barbarians at the Gate.
+
+305
+00:31:31,670 --> 00:31:45,609
+It's obviously the right conceptual . Maybe that's just not right for network effects businesses because instead, literally, how do you model an Excel the concept of in year six, something becomes a standard and therefore gets sustained to accelerating growth.
+
+306
+00:31:45,609 --> 00:31:49,000
+There was some sort of joke in the eighties that you'd never get fired for buying IBM.
+
+307
+00:31:49,630 --> 00:31:54,440
+Well maybe in 2006, it suddenly became you never got fired for buying salesforce.com.
+
+308
+00:31:55,030 --> 00:31:58,179
+How do you model in that as a concept?
+
+309
+00:31:58,460 --> 00:32:11,290
+Suddenly kicking into revenue growth, maybe what you should actually be doing is writing the sort of 3,000 word essay on revenue growth drivers, as opposed to sort of trending down over time as an automatic default.
+
+310
+00:32:11,490 --> 00:32:17,350
+So there's sort of certain things where I think the industrial era protocols actually just mislead you.
+
+311
+00:32:17,980 --> 00:32:30,350
+Conversely, I think the counterpoint to that, which is the sort of two product driven mistake, is when you look for network effects everywhere and you sort of assume they exist and actually you're just getting into it standard competitive market.
+
+312
+00:32:30,760 --> 00:32:41,259
+Trying to turn that to start-up investing, I think a fairly good rule of thumb is to think, it's very hard to extract economic gains to get revenue without solving someone's problem.
+
+313
+00:32:41,430 --> 00:32:41,761
+So go right back to a sort of Jeremy Bentham utilitarianism.
+
+314
+00:32:41,761 --> 00:32:46,070
+Why are you making people happier?
+
+315
+00:32:46,570 --> 00:32:48,150
+How much happier are you making them?
+
+316
+00:32:48,360 --> 00:32:54,583
+And what percent of that can you extract as economic surplus and what percent goes to them?
+
+317
+00:32:54,583 --> 00:32:55,480
+So, an interesting one is you pick Google.
+
+318
+00:32:55,719 --> 00:32:59,360
+There's lots of charts saying people would pay thousands and thousands of dollars for search.
+
+319
+00:32:59,530 --> 00:33:02,780
+Yet Google's ad revenue per person is much lower.
+
+320
+00:33:03,040 --> 00:33:10,054
+So potentially the utilitarian output of Google it's 10x, maybe even 20x, the economic value derived from that.
+
+321
+00:33:10,054 --> 00:33:18,279
+Whereas I imagine, if you look at something like Oracle, you would actually find the utilitarian benefits that’s economically created, and so much higher percent of the utilitarian benefits.
+
+322
+00:33:18,279 --> 00:33:24,060
+Like there's more value capture as a percentage of the total sum created than the total common utility.
+
+323
+00:33:24,310 --> 00:33:31,340
+But I think even when you're talking to a company at seed, you can sort of start to have that conversation over how big a problem are you solving?
+
+324
+00:33:31,570 --> 00:33:34,009
+How many people are you solving that for?
+
+325
+00:33:34,279 --> 00:33:39,050
+Or how much money have those institutions got to spend in your product, if it's an enterprise.
+
+326
+00:33:39,350 --> 00:33:42,675
+And then if that's utility created, that's part one, how big is that?
+
+327
+00:33:42,675 --> 00:33:45,560
+And then two, is what are the competitive dynamics in this marketplace?
+
+328
+00:33:45,780 --> 00:33:52,169
+So how much of that utility will you capture and how much will just be given to your customers as consumer surplus.
+
+329
+00:33:52,459 --> 00:34:02,899
+And one of the sort of interesting, wonderful tragedy of the economy of the last forty years, is there are so many companies, where 110% of the economic energy passed over to consumer surplus.
+
+330
+00:34:03,030 --> 00:34:07,219
+So you just have massive increases in living standards, sort of accidental Wikipedias.
+
+331
+00:34:07,820 --> 00:34:13,870
+So there's strange examples like LCD televisions, everyone switched from catheter tube to LCD in the early 2000s.
+
+332
+00:34:14,100 --> 00:34:18,475
+That's an increase in utility, but no TV companies make money because the market's too competitive.
+
+333
+00:34:18,820 --> 00:34:23,319
+Same with things like in consumer modems, laptops, switches.
+
+334
+00:34:23,489 --> 00:34:30,020
+You don't see 200 billion market cap companies like Intel, but we all benefit from far faster speeds than we did 20 years ago.
+
+335
+00:34:30,109 --> 00:34:35,640
+And so what you're looking, for as an investor is high utilitarian outcome, and the ability to capture it.
+
+336
+00:34:36,160 --> 00:34:41,840
+Patrick: Are there markers of that latter piece, the ability to catch it, that you see again and again, that interests you?
+
+337
+00:34:42,580 --> 00:34:45,060
+Charlie: Most extreme example is obviously network effects.
+
+338
+00:34:45,670 --> 00:34:47,009
+You get these in marketplaces.
+
+339
+00:34:47,219 --> 00:34:49,540
+You get them in anything with  Metcalf’s law.
+
+340
+00:34:49,760 --> 00:34:55,699
+You get some examples where, talking to a company today, you combine data from other companies to generate insights.
+
+341
+00:34:55,710 --> 00:35:02,359
+So each time you get a new customer, you improve the product for all the existing customers, because you get a bigger data set to work on.
+
+342
+00:35:02,559 --> 00:35:06,709
+Strangely, I think spotting them has less use then spotting the fallacies.
+
+343
+00:35:06,900 --> 00:35:16,219
+If we go to data, there’s an amazing sort of last gasp of a company whose unit economics don't work, who says the values is in the data and 99% of the times that isn't true.
+
+344
+00:35:16,219 --> 00:35:29,700
+And the idea is that you've got unique dataset that's going to be incredibly value maybe for advertisers, maybe for other customers, maybe for enterprises, because the insights that could be generated, but it actually turns out most datasets will get you the same insight on people.
+
+345
+00:35:29,700 --> 00:35:50,850
+There was once a company, I don't know if this is true from first principles, but they said, if you gave them the last five browsing sites they’d been to, or the last five latitude/longitude locations they’d been to, or the last five Google search terms, or the last five credit card purchases, you could basically get to the same level of accuracy on that person's predicted behavior.
+
+346
+00:35:51,010 --> 00:35:56,290
+Which means there's a sort of false mirage of an Oasis, which is this going to be value in the data.
+
+347
+00:35:56,290 --> 00:35:58,866
+And it turns out to be mirage because there's so many other ways to get to that answer.
+
+348
+00:35:58,866 --> 00:36:05,041
+And so half the time what you're looking for is sort of the exact opposite, it’s where it appears there should be value capture, but there won't be.
+
+349
+00:36:05,041 --> 00:36:05,446
+[Highly boring, highly complex]
+
+350
+00:36:05,446 --> 00:36:13,580
+Patrick: Patrick [00:36:05]: I asked once a group of people, what if any specific sector or category of companies they would invest in, if they could only choose one for the rest of their career.
+
+351
+00:36:13,719 --> 00:36:20,650
+And one person said communications, because you'll always have some monopoly to pick from, which is sort of a classic expression of the network effect idea.
+
+352
+00:36:20,650 --> 00:36:27,190
+Charlie: Charlie [00:36:21]: I'll go for, if you pick two axes, one co-axis is boredom and the other is complexity.
+
+353
+00:36:27,380 --> 00:36:29,700
+You want highly boring and highly complex.
+
+354
+00:36:29,809 --> 00:36:37,470
+Because everything in the universe is a supply and demand curve, and you just get insufficient supply of entrepreneurs in the highly boring but highly complex space.
+
+355
+00:36:37,680 --> 00:36:39,220
+And therefore you get elevated return.
+
+356
+00:36:39,229 --> 00:36:44,259
+So if you go to the quadrants, you've sort of got the whole simple side, boring and simple, and complex and simple.
+
+357
+00:36:44,410 --> 00:36:47,119
+It's just too hard to get differentiation without enough complexity.
+
+358
+00:36:47,119 --> 00:36:48,339
+That's when you get commoditization.
+
+359
+00:36:48,339 --> 00:36:51,979
+If you go for interesting and complex, you get brilliant entrepreneurs.
+
+360
+00:36:52,299 --> 00:36:54,840
+This is the problem say with Space Tech as an area of innovation.
+
+361
+00:36:55,030 --> 00:37:01,160
+Every single person involved with space is basically a brilliant genius who's passionate about their work and loves it.
+
+362
+00:37:01,210 --> 00:37:12,269
+On the other hand, if you hang out in audit software, accounting software, just sitting in an area that's complex, but no one wants to boast they do it at a dinner party.
+
+363
+00:37:12,380 --> 00:37:18,227
+And what might call the sort of spiritual reward of the industry are lower, and therefore you just get less entrepreneurs.
+
+364
+00:37:18,227 --> 00:37:21,660
+Therefore, the chance of having entrepreneurs succeeding is significantly higher.
+
+365
+00:37:21,660 --> 00:37:31,910
+Patrick: Patrick [00:37:22]: Do you think that two by two matrix squares with say the trillion dollar club today of Amazon and Apple and some of the FANG stocks, do you think that they generally were, at their start, boring?
+
+366
+00:37:31,910 --> 00:37:32,810
+Charlie: Charlie [00:37:32]: No.
+
+367
+00:37:32,810 --> 00:37:41,720
+I think it would more work in the sort of case of Salesforce, Workday, Tableau, Datadog, all those classic enterprise SAAS names.
+
+368
+00:37:41,910 --> 00:37:51,500
+I think the truly exceptional ones are so idiosyncratic that there's no way to find them because if they were predictable, you'd get so much competition they wouldn’t exist.
+
+369
+00:37:51,810 --> 00:37:56,649
+Interesting when you say Google, how many failed search companies proceeded them?
+
+370
+00:37:57,250 --> 00:38:03,140
+Alto Vista, Excite, Lycos, Infoseek, AskJeeves.
+
+371
+00:38:03,140 --> 00:38:10,950
+Imagine that someone sent you something about Google when it was a small company, you'd say, “ oh it's just another search engine.” In some ways you almost need the opposite.
+
+372
+00:38:11,170 --> 00:38:14,120
+You need a case for why it was so unobvious.
+
+373
+00:38:14,240 --> 00:38:23,750
+If you look at early Facebook, there's all these comments on “but surely MySpace has already won this market.” I think the exceptions are just so exceptional you can't formulate rules for them.
+
+374
+00:38:23,940 --> 00:38:27,649
+I think it's the next tier down where there's probably more repeatable behavior.
+
+375
+00:38:27,649 --> 00:38:31,600
+Patrick: Patrick [00:38:28]: Of the 483 angel investments that you've made.
+
+376
+00:38:31,610 --> 00:38:33,799
+What percent would you say are clearly boring?
+
+377
+00:38:34,789 --> 00:38:37,660
+Charlie: Charlie [00:38:35]: To whom would be the sort of counter question?
+
+378
+00:38:37,719 --> 00:38:41,640
+I think to sort of the average person, probably 350 of them.
+
+379
+00:38:41,969 --> 00:38:45,360
+Obviously they're not boring to the founder and they're never boring to me.
+
+380
+00:38:45,430 --> 00:38:51,960
+I find things like accounting software deeply interesting because it's an intellectual puzzle, you're solving someone's problem.
+
+381
+00:38:52,120 --> 00:38:56,790
+And I also think that utilitarian output to the world is way underestimated in these things.
+
+382
+00:38:57,049 --> 00:39:01,810
+If you were to think what was the precursor technology to Manhattan - sewers.
+
+383
+00:39:02,420 --> 00:39:06,359
+Very hard to have Manhattan without sewers.
+
+384
+00:39:06,510 --> 00:39:08,009
+But they don’t sound exciting, right?
+
+385
+00:39:08,210 --> 00:39:13,250
+If you were to somehow remove them, then human living standards would drop exponentially.
+
+386
+00:39:13,469 --> 00:39:21,550
+And so those base technologies, sort of double entry accounting of the 14th century under the Medici or whoever, those things really matter.
+
+387
+00:39:21,550 --> 00:39:25,070
+That's sort of system-wide improvements to the thing.
+
+388
+00:39:25,350 --> 00:39:27,374
+Sometimes the joy of those can be missed.
+
+389
+00:39:27,374 --> 00:39:32,770
+Patrick: Patrick [00:39:28]: Before we started recording, you mentioned this interesting word, which you don't often hear in investing, which is aesthetics.
+
+390
+00:39:32,889 --> 00:39:37,500
+I'd love you to talk a bit about investor aesthetics, why they matter and why they may create bias.
+
+391
+00:39:37,500 --> 00:39:43,460
+Charlie: Charlie [00:39:38]: I think this is thing where if you think about the investing career, most people join a place where they fit.
+
+392
+00:39:43,640 --> 00:39:46,350
+And so they join an organization that gets them.
+
+393
+00:39:46,550 --> 00:39:49,169
+So you do have this sort of birds of a feather flock together.
+
+394
+00:39:49,340 --> 00:39:56,660
+So you tend to find that you get a set of people that either like the gritty and the real and the physical and the tangible.
+
+395
+00:39:56,850 --> 00:40:02,520
+Look at, say the overlap between stock investors, looking at things like mining companies and shipping companies.
+
+396
+00:40:02,760 --> 00:40:12,885
+And then you get people that like the abstract and the sort of conceptual thinkers, think of Atlassian, Stripe, companies of that ilk.
+
+397
+00:40:13,060 --> 00:40:18,790
+Then I once saw this tweet, some joke about value investors that they love owning things with names like “American” is best off.
+
+398
+00:40:19,080 --> 00:40:21,769
+And it made me chuckle because it seemed that there was some sort of truth to that.
+
+399
+00:40:21,929 --> 00:40:35,129
+It felt grittier and truer and more real and more like, just better to own something that's a steel mill plant Pittsburgh than it is to own a Tableau or some company doing this sort of weird software stuff.
+
+400
+00:40:35,300 --> 00:40:39,920
+And so the interesting trend about that is does that create biases and oversights?
+
+401
+00:40:40,190 --> 00:40:53,359
+So maybe because VC sort of in the 2010 to 2013, 2014, network effects consumer businesses were so good, maybe too much capital went into those in the subsequent years.
+
+402
+00:40:53,670 --> 00:41:00,560
+I think of ride sharing and scooters and things like that, because there wasn't enough Darwinian survival people that focused on unit economics.
+
+403
+00:41:00,690 --> 00:41:08,290
+Those partners had diminished in their political power within the VC organization, versus the partners, the bet more on a network effect of the product.
+
+404
+00:41:08,440 --> 00:41:16,029
+There's actually a chapter in Dawkins’ Selfish Gene on hawks and doves and the emotionally stable populations of different behavioral strategies.
+
+405
+00:41:16,170 --> 00:41:18,609
+And maybe that also replicates in investors.
+
+406
+00:41:18,719 --> 00:41:26,240
+And of course, as an investing type succeeds, so it attracts more capital and more disciples and therefore there's more people looking for it.
+
+407
+00:41:26,400 --> 00:41:28,100
+And therefore the alpha is more diminished.
+
+408
+00:41:28,100 --> 00:41:28,520
+[Alien Investors]
+
+409
+00:41:28,520 --> 00:41:33,570
+Patrick: Patrick [00:41:29]: We've talked a lot about the founders and characters of entrepreneurs.
+
+410
+00:41:33,809 --> 00:41:40,040
+Less so about characteristics of investors that you've worked with or seen operate, what are your observations there?
+
+411
+00:41:40,070 --> 00:41:44,080
+Probably haven't processed 483 of them in the same way, but I'm sure you've been around them.
+
+412
+00:41:44,200 --> 00:41:46,470
+What do you think makes for the right mix?
+
+413
+00:41:47,150 --> 00:41:48,980
+Charlie: Charlie [00:41:49]: Success is very idiosyncratic.
+
+414
+00:41:49,070 --> 00:41:53,270
+Rather like entrepreneurs, it's sort of finding a fit for that style.
+
+415
+00:41:53,460 --> 00:42:11,379
+So I know one investor at seed, a fantastic investor, and just has the absolute essence of getting to the nub of the character of an entrepreneur, just the descriptions, the articulation, the strengths, the weaknesses, you would have thought she’d spent 300 hours doing the psychological profile.
+
+416
+00:42:11,460 --> 00:42:16,000
+It's sort of like those TV shows, when you have someone profile the serial killer in like 30 seconds.
+
+417
+00:42:16,180 --> 00:42:17,649
+It's almost sort of a gift for that.
+
+418
+00:42:17,820 --> 00:42:30,460
+Then there's another investor at the same stage who almost ignores the person as the founder and is all about the structural economics of the business, the market power, that ability to capture value.
+
+419
+00:42:30,620 --> 00:42:32,460
+Both those styles work beautifully.
+
+420
+00:42:32,460 --> 00:42:37,020
+And then I've seen a third type, which almost doesn't think about the underlying company.
+
+421
+00:42:37,020 --> 00:42:42,740
+What they actually watch is other investors and sort of like a pack of lions, they don't try and kill the antelope.
+
+422
+00:42:42,890 --> 00:42:50,060
+They just wait and swoop in and win deals that they saw other good investors go for.
+
+423
+00:42:50,060 --> 00:42:52,270
+So it's three wildly different strategies.
+
+424
+00:42:52,420 --> 00:42:54,229
+All three I've seen work superbly.
+
+425
+00:42:54,359 --> 00:42:55,630
+And so no cookie cutter solution.
+
+426
+00:42:55,630 --> 00:42:56,154
+[COVID Impacts]
+
+427
+00:42:56,154 --> 00:43:06,990
+Patrick: Patrick [00:42:57]: I'd love to hear your take on the effects that COVID now three, four months into it are having on the world at large, both from a company standpoint and societal standpoint.
+
+428
+00:43:07,120 --> 00:43:15,279
+And at what point, sort of the behaviors that have changed become very set and in some way permanently change how we live.
+
+429
+00:43:15,290 --> 00:43:17,390
+Charlie: Charlie [00:43:16]: I see two main effects.
+
+430
+00:43:17,400 --> 00:43:19,160
+One is the sort of tech acceleration.
+
+431
+00:43:19,220 --> 00:43:24,310
+You've got this shift in behaviors that would have happened only over the long term from demographics.
+
+432
+00:43:24,540 --> 00:43:33,670
+As a sociologist at Microsoft once said, “There's a thing called a the Rule of 1975, which is people born before that just never had computers at school.
+
+433
+00:43:33,780 --> 00:43:38,130
+And so they'll never have the same intuitive behaviors as people born after that.”
+
+434
+00:43:38,349 --> 00:43:44,200
+And it's sort of the Einstein comment of : science advances one funeral at a time.
+
+435
+00:43:44,200 --> 00:43:49,720
+And so in some ways the natural movement progress is as generations of people get older.
+
+436
+00:43:49,850 --> 00:43:51,410
+Video gaming is a classic example of this.
+
+437
+00:43:51,470 --> 00:43:56,189
+It was seen as something only for kids, until those kids got older and kept on doing it.
+
+438
+00:43:56,460 --> 00:43:57,810
+I think COVID has changed that.
+
+439
+00:43:57,860 --> 00:44:06,689
+Because what you've had is 70 and 80 year olds get on and use Zoom and use digital apps in a way that was much more akin to 25 year olds.
+
+440
+00:44:07,079 --> 00:44:09,800
+That's a permanent one-off shift.
+
+441
+00:44:09,880 --> 00:44:12,320
+And you always see it in numbers for all e-commerce startups.
+
+442
+00:44:12,320 --> 00:44:14,860
+Every e-commerce startup, the numbers have gone insane.
+
+443
+00:44:15,080 --> 00:44:22,110
+To the point where you almost start wondering whether they've made a mistake because it can't be that good, that you can't get that fast in acceleration.
+
+444
+00:44:22,389 --> 00:44:24,290
+But no, it really is that fast an acceleration.
+
+445
+00:44:24,500 --> 00:44:30,826
+And my guess is the emotional experience of retail will just be less appealing than it was.
+
+446
+00:44:30,826 --> 00:44:36,860
+And so even in a world of re-opening, my guess is you get this continued elevation of e-commerce.
+
+447
+00:44:37,240 --> 00:44:46,470
+And then once people have shifted, from doing some activity like going to a bar to playing some video game competitively, probably a bigger percentage of that will stick.
+
+448
+00:44:46,470 --> 00:44:50,520
+And it seems obvious because this has lasted long enough that you get habit formation.
+
+449
+00:44:50,660 --> 00:44:53,360
+It's certainly longer than the 30 days that that's meant to take.
+
+450
+00:44:53,509 --> 00:44:58,150
+Then there's a much more subtle impacts, which is you've definitely had a globalization of investing.
+
+451
+00:44:58,340 --> 00:45:02,525
+One of the things that never made any sense to me with investors that define themselves by geography.
+
+452
+00:45:02,780 --> 00:45:11,460
+So they were in Berlin and they invested in companies in Berlin, because the commonality in running a startup by geography seems almost de minimis.
+
+453
+00:45:11,460 --> 00:45:23,860
+Whereas the commonality of say FinTech globally, seems much more similar to each other, or quantum computing startups globally seems much more similar than a quantum computing company and a credit card company, both within a few streets of each other.
+
+454
+00:45:24,120 --> 00:45:28,800
+So it always seemed more logical to me, the startups to be defined by functional area, than by geography.
+
+455
+00:45:28,880 --> 00:45:35,409
+And that's starting to happen because if you're doing Zoom calls with someone, there's no difference whether they're a mile away from you or a thousand miles away.
+
+456
+00:45:35,490 --> 00:45:37,200
+And then the same with the labor pools.
+
+457
+00:45:37,350 --> 00:45:42,650
+Startups are starting to do remote in a way that was inconceivable before.
+
+458
+00:45:42,750 --> 00:45:47,290
+And what it started to do is make me think very deeply about where they can find talented people.
+
+459
+00:45:47,580 --> 00:46:01,210
+Maybe I'm too optimistic, but I think that may just lead to a permanent shift in overall productivity upwards because you're putting together a team, not defined by the accidents of geography, but defined by finding the best people you can anywhere in the world.
+
+460
+00:46:01,210 --> 00:46:06,810
+And if everyone does that, you just have a bigger liquidity in every type of output.
+
+461
+00:46:06,960 --> 00:46:09,780
+And that leads to just a massively higher output function.
+
+462
+00:46:10,090 --> 00:46:17,779
+What are these changes in sort of demographics and the way we live now, it does seem that there's likely to be some sort of city to suburban transition.
+
+463
+00:46:17,990 --> 00:46:31,569
+And one of the things I like to do is sort of, I think history is really useful for investing because I think one of the mistakes you can make as a sort of temporal elegance of thinking the time one lives through it's sort of overly unique.
+
+464
+00:46:31,899 --> 00:46:40,240
+There's a book by Will Durant called Caesar and Christ, it’s a whole history of Rome, from the founding to 500 AD and sort of the full history and afterwards.
+
+465
+00:46:40,390 --> 00:46:42,770
+So it's interesting to think, how would you invest through that?
+
+466
+00:46:42,940 --> 00:46:47,090
+Do you buy or sell Roman real estate when Caesar's murdered?
+
+467
+00:46:47,350 --> 00:46:51,790
+Cause you get a civil war and you get chaos, but then you get Augustus and peace afterwards.
+
+468
+00:46:51,940 --> 00:47:02,029
+Then when you get this whole state of bad emperors and it looks like everything's going to fall apart, maybe you would sell and then you get Hadrian and the good emperors and you get a great hundred years.
+
+469
+00:47:02,259 --> 00:47:10,270
+It makes you think about sort of volatility and about having to make decisions with only information available at that time.
+
+470
+00:47:10,500 --> 00:47:23,009
+And what's so interesting is, you do get this sort of pattern of going from a power and sort of fashion being to have your base in city of Rome, to being out in Capua or out in the smaller provinces.
+
+471
+00:47:23,010 --> 00:47:28,130
+And that cycle seems to co-exist for like the 500 years of history.
+
+472
+00:47:28,240 --> 00:47:31,960
+And if you look at London, I think the peak population was in the 1930s.
+
+473
+00:47:32,380 --> 00:47:34,500
+I think it's still higher than the present population.
+
+474
+00:47:34,750 --> 00:47:42,630
+Or it may just have peaked so maybe that's the beginning of one of these great 40 year demographic changes, but people move back to the suburbs or not.
+
+475
+00:47:42,920 --> 00:47:43,959
+This is speculation.
+
+476
+00:47:44,250 --> 00:47:48,339
+I certainly don't have as much conviction on it as I do on startup stuff.
+
+477
+00:47:48,339 --> 00:47:51,549
+Patrick: Patrick [00:47:49]: What do you make on the other end of that barbell?
+
+478
+00:47:51,550 --> 00:47:56,279
+So certainly agree that the far off collaboration is probably going to permanently change.
+
+479
+00:47:56,429 --> 00:48:07,290
+I've seen it happen just personally in many examples where now you don't care where the person is zooming in from, it opens up an enormous pool of talent and you seem ridiculous for not having tried to tap that earlier.
+
+480
+00:48:07,390 --> 00:48:09,700
+The other extreme would be like hyper local.
+
+481
+00:48:09,950 --> 00:48:12,170
+What I've also noticed is the middle is gone.
+
+482
+00:48:12,250 --> 00:48:18,169
+New York city for me, which is 50 minutes away is way less relevant, but my town is now way more relevant and the people in it.
+
+483
+00:48:18,389 --> 00:48:24,779
+Do you think there's investing opportunity there or I would just be curious for any thoughts you have on kind of the local community versus the distance zoom.
+
+484
+00:48:24,779 --> 00:48:28,540
+Charlie: Charlie [00:48:25]: I'm sadly out of insight on it.
+
+485
+00:48:28,550 --> 00:48:31,980
+But I think your intuitively right in predicting the outcome.
+
+486
+00:48:32,160 --> 00:48:43,000
+I think one of the things that's going to be very interesting is I do think there's this sort of U shape curve, where for companies, you either have to be remote, or you have to be centralized.
+
+487
+00:48:43,270 --> 00:48:55,509
+The bit that's going to be absolutely nightmarish is if you have a hybrid mix, because what that'll lead to is everyone at head quarters will have a political advantage over everyone that works remotely.
+
+488
+00:48:55,720 --> 00:49:02,149
+And so you'll end up promoting people who chose to move to headquarters, rather than work remotely.
+
+489
+00:49:02,360 --> 00:49:09,643
+So you'll end up promoting the more politically aware, which is probably the most toxic criteria you could have for long-term productivity of the firm.
+
+490
+00:49:09,643 --> 00:49:09,672
+Patrick: [Crypto]
+
+491
+00:49:09,672 --> 00:49:17,150
+Patrick [00:49:12]: As a quick aside, Sarah told me to ask you about crypto and farmland.
+
+492
+00:49:17,160 --> 00:49:21,380
+And I'm curious if those were meant to be topics that are grouped together in your mind or separate.
+
+493
+00:49:21,380 --> 00:49:23,230
+And of course, I'm interested in your thoughts on both.
+
+494
+00:49:23,230 --> 00:49:30,500
+Charlie: Charlie [00:49:24]: Crypto is super interesting because it's so un-analogous to anything that's come before it.
+
+495
+00:49:30,640 --> 00:49:37,000
+So one of the interesting things with investing is people get a dopamine effect from things they've made money on before.
+
+496
+00:49:37,140 --> 00:49:42,940
+And so they like to invest in similar things or at least things that their friends made money from before so they think there will be a dopamine hit.
+
+497
+00:49:43,420 --> 00:49:50,410
+So if you look at decks and startups in 2016, you'd be amazed how often the Uber of, or Airbnb of appear.
+
+498
+00:49:50,590 --> 00:49:58,319
+That's sort of a marketing ploy to say you're going to get the dopamine effect investing in the business that is similar to these existing successes.
+
+499
+00:49:58,639 --> 00:50:04,029
+Once every so often you get something that just sort of has no epistemological priors.
+
+500
+00:50:04,029 --> 00:50:05,629
+There's just nothing like it before.
+
+501
+00:50:05,799 --> 00:50:07,450
+And I think crypto has that.
+
+502
+00:50:07,720 --> 00:50:14,190
+And then what's so interesting about crypto is it has such strong psychological Rorschach tests.
+
+503
+00:50:14,530 --> 00:50:20,950
+So the biggest variable I've seen amongst people I know of whether they believe something like a Bitcoin is viable is age.
+
+504
+00:50:21,099 --> 00:50:23,540
+In a way that I don't see for any other element of tech.
+
+505
+00:50:23,709 --> 00:50:27,690
+Younger people find digital money, more intuitive, older people find it less so.
+
+506
+00:50:27,690 --> 00:50:31,130
+There may also be something subtle there about the strength of the nation state.
+
+507
+00:50:31,390 --> 00:50:35,759
+Then US investors find it less intuitive than non-US investors.
+
+508
+00:50:35,849 --> 00:50:43,099
+Because they think of the US government say banning crypto like FDR confiscated gold, they think of it as unlikely.
+
+509
+00:50:43,229 --> 00:50:50,839
+Where, if they're from a country like Belgium, it's less obvious that your government really has the capability to do something like ban crypto.
+
+510
+00:50:51,030 --> 00:51:00,009
+So all these strange variables, like the size of the country you're in and the government capability, affect your conception of its viability.
+
+511
+00:51:00,049 --> 00:51:08,490
+Charlie [00:51:08]: And then it's also interesting within crypto itself that you have these two major platforms, Bitcoin and Ethereum, and they sort of attract different investor types.
+
+512
+00:51:08,520 --> 00:51:24,910
+So Bitcoin's got the sort of association almost with Austrian monetary policy, with sort of gold, with preservation of value, with this sort of trust minimized sort of slightly dark, almost Gothic view of humanity and sort of Bitcoin as a sort of place to go to safety.
+
+513
+00:51:24,940 --> 00:51:36,470
+Whereas Ethereum is much more sort of visionary about DeFi changing staff, much more software, much more network effects, much less consciousness of trust and store of value.
+
+514
+00:51:36,549 --> 00:51:39,710
+And you start to see the sort of bickering between those two cultures.
+
+515
+00:51:39,820 --> 00:51:43,680
+And it's fascinating how you've got two sort of s points of shilling points.
+
+516
+00:51:43,910 --> 00:51:49,830
+Not only are they shilling points at an economic level, but they are also showing points for investor personality types that go into them.
+
+517
+00:51:49,950 --> 00:52:01,830
+What's interesting is if they continue to do that, they probably diverged far enough that there's no longer in fact, any competition between them, because they've diverged so much culturally and in their aspirations that they're no longer direct competitors.
+
+518
+00:52:02,090 --> 00:52:05,769
+One of the things that sort of interest me is how is wealth preserved over time.
+
+519
+00:52:05,940 --> 00:52:09,710
+And if you look at one of the best stores of value, it was forestry.
+
+520
+00:52:09,880 --> 00:52:12,069
+And there's two very interesting attributes to forestry.
+
+521
+00:52:12,180 --> 00:52:15,609
+One is it's so boring, no one ever bothers to seize it.
+
+522
+00:52:15,730 --> 00:52:31,650
+So if you look at people that were in a country on the wrong side of a war and occupied by an invading power over the last thousand years, things like houses and artworks were confiscated, things that businesses were nationalized, no one ever thought about forestry.
+
+523
+00:52:31,720 --> 00:52:33,715
+It just sort of slid under the radar.
+
+524
+00:52:34,040 --> 00:52:41,140
+And then the second interesting attributes of it was that the cash flow characteristics are so terrible, you have to wait 50 years for trees to grow.
+
+525
+00:52:41,580 --> 00:52:52,860
+You've got very few investors and very few corporations doing it because imagine building an Excel model, showing the payback in 51 years, that's really sort of only 2 to 3% of your principal.
+
+526
+00:52:52,970 --> 00:52:55,200
+It's so appalling you never go into it.
+
+527
+00:52:55,270 --> 00:52:59,290
+And therefore it had these characteristics and did work superbly well.
+
+528
+00:52:59,350 --> 00:53:11,770
+It's sort of interesting to think what are the digital equivalents of things that have some psychological repellants to them and therefore actually will have great economic capture because there's something unappealing about them.
+
+529
+00:53:12,310 --> 00:53:18,010
+Patrick: Patrick [00:53:12]: What do you think some of the best examples of that last concept are digital equivalents of repelling assets?
+
+530
+00:53:18,010 --> 00:53:24,629
+Charlie: Charlie [00:53:18]: I think certainly up to 2017 crypto had that, it's such a strange topic.
+
+531
+00:53:24,789 --> 00:53:30,180
+The association with things like Mount Gox and fraud and things just made it slightly sketchy.
+
+532
+00:53:30,410 --> 00:53:36,050
+And then the abstraction, that the lack of physical reality of it, I think makes it unintuitive to people.
+
+533
+00:53:36,310 --> 00:53:36,870
+You can't touch it.
+
+534
+00:53:36,870 --> 00:53:37,769
+You can't feel it.
+
+535
+00:53:38,009 --> 00:53:40,220
+It's sort of numbers in the sky.
+
+536
+00:53:40,400 --> 00:53:43,649
+Things like that just don't have psychological appeal.
+
+537
+00:53:43,740 --> 00:53:46,272
+And that absence psychological appeal is a source of alpha.
+
+538
+00:53:46,272 --> 00:53:46,603
+[Mis-valued Assets]
+
+539
+00:53:46,603 --> 00:53:50,569
+Patrick: Patrick [00:53:47]: What do you think the most mis-valued asset in the world is today?
+
+540
+00:53:50,569 --> 00:53:58,220
+Charlie: Charlie [00:53:51]: I would say it's probably entrepreneurs in markets that are non-obvious.
+
+541
+00:53:58,629 --> 00:54:01,129
+And I don't mean because their end market is not obvious.
+
+542
+00:54:01,220 --> 00:54:10,969
+It's people addressing global problems, but in some secondary city in Romania, because capital markets at that stage, are just not efficient enough to find them.
+
+543
+00:54:10,969 --> 00:54:12,550
+There's a famous company, UI path.
+
+544
+00:54:12,550 --> 00:54:15,060
+I think now worth about 10 billion, that came out of Romania.
+
+545
+00:54:15,120 --> 00:54:17,229
+And so there's a dramatic example of that.
+
+546
+00:54:17,650 --> 00:54:21,560
+I think if you were to say, well, where is there a core option?
+
+547
+00:54:21,620 --> 00:54:23,549
+It's probably something in crypto.
+
+548
+00:54:24,090 --> 00:54:25,840
+It may exist or it may not exist.
+
+549
+00:54:25,950 --> 00:54:33,930
+I think one of the great questions is, is everything in that space now in the Lycos/Alta Vista high cost space or is it at the Google and Amazon stage?
+
+550
+00:54:34,180 --> 00:54:52,150
+That's a very hard question to answer in foresight, irritating obvious in hindsight, but it does seem there's a probability mass of something being very big there because there's something about finance where it's demarcated by nation state, even though it's a pure electronic good.
+
+551
+00:54:52,330 --> 00:55:07,159
+And so, anything that's just pure numbers in the sky should actually be globally scalable, but it isn't because of the existing finance regulatory environment and the existing historical paths, sort of banks when they were physical institutions.
+
+552
+00:55:07,340 --> 00:55:14,640
+That makes me think this globalization of finance has the potential for multiple trillion dollar market cap companies over the next decades.
+
+553
+00:55:15,710 --> 00:55:19,100
+Patrick: Patrick [00:55:15]: You mentioned Romania, which just makes me think of Europe more broadly speaking.
+
+554
+00:55:19,150 --> 00:55:23,759
+I'd be curious your relative take on opportunity in Europe for business and investing.
+
+555
+00:55:23,840 --> 00:55:29,180
+When the last decade has been relatively underwhelming, certainly relative to the performance of us companies.
+
+556
+00:55:29,730 --> 00:55:38,100
+Charlie: Charlie [00:55:30]: It is amazing that if you look at the top 10, maybe even the top 20 by now, companies in the world by market cap, they're exclusively US and China.
+
+557
+00:55:38,710 --> 00:55:41,420
+That’s an absolutely fascinating stats and says so much about the last 10 years.
+
+558
+00:55:41,670 --> 00:55:52,040
+There's a very sort of dark line of thought, which says one of the best things about Europe is that you probably have a less geopolitical risk than any other place.
+
+559
+00:55:52,230 --> 00:56:00,294
+There's something about the horrors of Somme, Verdun and Stalingrad that makes it some unimaginable for Germany and France to have a conflict.
+
+560
+00:56:00,294 --> 00:56:07,170
+Whereas, as I think it is much more imaginable to have China, India, US those sort of countries have conflict.
+
+561
+00:56:07,240 --> 00:56:13,870
+So in some ways, one of the things you have in Europe is a sort of absence of systemic risk of wipe out.
+
+562
+00:56:14,099 --> 00:56:17,939
+Because if you look at what really destroys investing returns, it's geopolitical conflict.
+
+563
+00:56:18,050 --> 00:56:24,630
+If you look at the collapse of European wealth in World War One, World War Two, it's just absolutely epic.
+
+564
+00:56:24,630 --> 00:56:27,665
+And I think that may be an under-priced benefit of Europe.
+
+565
+00:56:27,840 --> 00:56:44,640
+I think the other much more cheerful and practical one, is there are countries with institutions weren't developed enough to build a Google, arguably that's every other country apart from the US, but I think it is certainly true of very small European countries because they just don't have the complexity of legal system.
+
+566
+00:56:44,860 --> 00:56:47,150
+They don't obviously have a means of going public.
+
+567
+00:56:47,300 --> 00:56:51,370
+They don't have the institutional norms or the depth of financing or anything like that.
+
+568
+00:56:51,520 --> 00:57:04,480
+But now I see so many companies come out of Europe that are Delaware corporations LLCs, that have say West Coast investors, the legal documents by Wilson Sonsini or some other US firm.
+
+569
+00:57:04,480 --> 00:57:28,340
+And you have this amazing mix of sort of Soviet quality education, which is very high in math and logic, post-Soviet GDP per head, which basically means your capital goes very far, but with US high trust institutions acting to sort of scale it to the corporation and that unique coming together, feels special.
+
+570
+00:57:29,070 --> 00:57:30,799
+Patrick: Patrick [00:57:29]: It's a fascinating take on everything.
+
+571
+00:57:30,799 --> 00:57:37,560
+I mean, I had never considered really any of those angles, again appealing to the 483 companies that you've invested in.
+
+572
+00:57:37,600 --> 00:57:41,100
+I'd love to know the geographic dispersion of those things generally speaking,
+
+573
+00:57:41,680 --> 00:57:57,030
+Charlie: Charlie [00:57:41]: Almost an even mix between US, UK, continental Europe would account for 90% with the remaining 10% scattered in Asia, Africa, Latin America, with the particular hub in Singapore, because of an incubator called Entrepreneurs First that I invest in with a great deal.
+
+574
+00:57:57,030 --> 00:57:57,423
+Patrick: Patrick [00:57:57]: Yeah.
+
+575
+00:57:57,590 --> 00:57:59,960
+I've had Matt on the show, which was a fantastic episode.
+
+576
+00:58:00,010 --> 00:58:02,480
+I love his idea of the history of the technology of ambition.
+
+577
+00:58:03,200 --> 00:58:10,060
+Charlie: Charlie [00:58:03]: It's completely Matt's IP, which was, it's very interesting to think where talented people go as a framework.
+
+578
+00:58:10,230 --> 00:58:15,610
+And so, if you go back and go the other way and say, what can you learn from investing when you look at history.
+
+579
+00:58:15,700 --> 00:58:27,920
+It's interesting to think what is underestimated because of the decline of some institution, not all the stuff people think about when they wrote about it, but just that very talented people who are young chose to go a different direction.
+
+580
+00:58:28,379 --> 00:58:34,540
+So there was a time when you're a young man and you can choose, do I go and do an administration of a Roman province?
+
+581
+00:58:34,810 --> 00:58:36,380
+Or do I join the early Christian church?
+
+582
+00:58:36,600 --> 00:58:41,839
+Possibly the talent started to flow towards the church and away from Roman institutions and that actually caused a weakening.
+
+583
+00:58:41,980 --> 00:58:46,159
+That is a generalized framework of where exceptional talent choose to go is super interesting.
+
+584
+00:58:46,320 --> 00:59:01,089
+So one thought that occurs in our world is perhaps the sort of investment banks and consulting firms and law firms of tomorrow will be much less good than their precursors 20, 30 years ago, because so many talented people are going into entrepreneurship and that talent has to pull out of somewhere.
+
+585
+00:59:01,280 --> 00:59:16,210
+Now, I think again, from a sort of societal viewpoint, I think putting talented people, in things that can scale their products to millions of people is higher utility than putting them in effectively in a high end artisan perfection like consulting or the law where the output doesn't scale.
+
+586
+00:59:16,210 --> 00:59:16,213
+[Information Curation]
+
+587
+00:59:16,213 --> 00:59:24,190
+Patrick: Patrick [00:59:16]: It seems to me that a lot of what you're doing with your life and career is curation of people, ideas, companies, history.
+
+588
+00:59:24,190 --> 00:59:26,510
+I mean so many different examples in our conversation today.
+
+589
+00:59:26,590 --> 00:59:36,200
+I'd love you to riff on that idea of curation and whether or not it's going to become an increasingly important skill in a world that is exploding with information and content and data.
+
+590
+00:59:37,149 --> 00:59:44,000
+Charlie: Charlie [00:59:37]: Very simply as if you think back to sort of 30 years ago, your basic problem is lack of information.
+
+591
+00:59:44,230 --> 00:59:51,290
+So you sort of read about capital markets investors in the 1990s, and they are reading SEC filings, reading sell side reports.
+
+592
+00:59:51,420 --> 00:59:55,244
+They're trying to get time with management, but it's a fundamental lack of information problem.
+
+593
+00:59:55,244 --> 00:59:55,805
+[“If you hang out with people smarter, harder working, and morally better than oneself, you always live in a funnel of positive serendipity because effectively you are dragged upwards to the mean benchmark, which is higher than oneself.”]
+
+594
+00:59:55,820 --> 01:00:02,010
+Now you look at the massive growth of available information, and I think it becomes much more of a filtering problem.
+
+595
+01:00:02,270 --> 01:00:11,060
+And in some ways, the best way to filter is to have second stage filters before your filter, which is just to find amazing people and use them as filter points.
+
+596
+01:00:11,340 --> 01:00:28,240
+So there's a sort of phase, which is: “if you hang out with people smarter, harder working, and morally better than oneself, you always live in a funnel of positive serendipity because effectively you are dragged upwards to the mean benchmark, which is higher than oneself.” So that's what I try to do.
+
+597
+01:00:28,240 --> 01:00:30,589
+Patrick: Patrick [01:00:29]: You just described my whole life.
+
+598
+01:00:30,639 --> 01:00:34,270
+I'm playing with this idea now of it's better to be interested than interesting.
+
+599
+01:00:34,350 --> 01:00:40,859
+And if someone that's never been particularly interesting, a great way to eventually become interesting is to be purely interested all the time.
+
+600
+01:00:40,859 --> 01:00:41,870
+Charlie: Charlie [01:00:41]: Yes.
+
+601
+01:00:41,960 --> 01:00:42,790
+A hundred percent.
+
+602
+01:00:42,860 --> 01:00:54,349
+And I think Patrick, if you could overlay amazing people in a unique configuration, you get an information for you that is both a accretive to you, it pulls you up, but it's also a unique lens in the world.
+
+603
+01:00:54,490 --> 01:00:56,962
+And from unique lenses, you get unique opportunities.
+
+604
+01:00:56,962 --> 01:00:58,190
+Patrick: Patrick [01:00:57]: By that.
+
+605
+01:00:58,190 --> 01:01:03,420
+Do you just mean non-overlapping kind of backgrounds and areas of interest in the people in your network?
+
+606
+01:01:03,870 --> 01:01:04,200
+Charlie: Charlie [01:01:03]: Yeah.
+
+607
+01:01:04,200 --> 01:01:09,259
+And one of the ones that I think is always fascinates me is just have geographically disparate networks.
+
+608
+01:01:09,480 --> 01:01:16,310
+Often you get these very sort of tight communities in some ways, the Valley, in some ways, sort of New York, say the hedge fund community.
+
+609
+01:01:16,770 --> 01:01:26,030
+Sometimes the most obvious insights are just from going between one to the other and just seeing the difference in worldviews in stark relief from each other.
+
+610
+01:01:26,190 --> 01:01:28,199
+And so I sort of think about that constantly.
+
+611
+01:01:28,199 --> 01:01:40,000
+I mean, one of the ones that's most powerful is just imagine thinking about the same problem, not from a US perspective, but from say a Finnish perspective on our Albanian perspective.
+
+612
+01:01:40,090 --> 01:01:43,490
+And suddenly topics look very different.
+
+613
+01:01:43,730 --> 01:01:49,530
+And there's a danger of defaulting to this, because the US is sort of the world hegemon, to defaulting to that mindset.
+
+614
+01:01:49,780 --> 01:01:52,645
+And that's not always the best, most predictive view.
+
+615
+01:01:52,645 --> 01:01:53,051
+[Temporal Inevitability]
+
+616
+01:01:53,051 --> 01:01:54,740
+Patrick: Patrick [01:01:53]: We've talked about a lot.
+
+617
+01:01:54,990 --> 01:02:00,570
+And as we wind down, I'm curious what topic that we haven't talked about at all you are most interested in.
+
+618
+01:02:00,570 --> 01:02:06,329
+Charlie: Charlie [01:02:01]: Of course, after we finish this, I'll think of tons, but I'm sort of failing to think of anything in the moment.
+
+619
+01:02:06,660 --> 01:02:17,920
+I think there's one I would pick it would be, and one of the things that's sort of fascinating in sort of the history of tech, is how much startups are temporal inevitabilities.
+
+620
+01:02:18,150 --> 01:02:27,720
+So as a phrase someone one said to me, what's the difference between a heretic and a prophet in tech, the heretic gets burned at the stake, the prophet becomes famous - about two years.
+
+621
+01:02:29,080 --> 01:02:33,729
+And you sometimes wonder how much timing matters.
+
+622
+01:02:34,080 --> 01:02:46,310
+Was a site like Pinterest, always going to exist within a year, that you could download a page of images on the internet in under a hundred milliseconds, was that the sort of temporal inevitability of a product like that?
+
+623
+01:02:46,310 --> 01:02:49,520
+And is it the same for most products?
+
+624
+01:02:49,820 --> 01:02:57,800
+For GPS and mobile phone, did that make an Uber like thing inevitable in around 2009, 2010?
+
+625
+01:02:58,119 --> 01:02:58,752
+One of the greater moments is the temporal one.
+
+626
+01:02:58,752 --> 01:03:11,720
+And then I think the other sort of great unknown is how much of value is actually created for the top layers of the stack by the bottom layers that don't capture it.
+
+627
+01:03:12,110 --> 01:03:14,630
+So are we all just the beneficiaries?
+
+628
+01:03:14,880 --> 01:03:33,110
+Is angel investing just the beneficiary of the emergence of AWS and Azure, because I can tell a story whereby angel investing just didn't exist because it was negative ROIC, because you have spent so much on SUN Microsystems servers and sort of physical equipment that you've just had poor IRR across the whole industry.
+
+629
+01:03:33,160 --> 01:03:41,230
+Then AWS and Azure come along, and critically as a startup, you don't know your own future demand curve because you don't know what you're going to get put on market fit.
+
+630
+01:03:41,940 --> 01:03:46,600
+So you either have to buy too many servers in which case you waste capital or too few, in which case you couldn't meet demand.
+
+631
+01:03:46,600 --> 01:03:51,620
+Whereas with AWS and Azure, they've effectively taken that risk out of the equation.
+
+632
+01:03:51,750 --> 01:03:55,149
+And you can almost know that your cost base only scales with your success.
+
+633
+01:03:55,410 --> 01:03:57,820
+Is the entire industry just sitting on that?
+
+634
+01:03:57,820 --> 01:04:00,720
+Kind of an intuitive feel but it probably is.
+
+635
+01:04:01,010 --> 01:04:01,770
+Better lucky than good.
+
+636
+01:04:01,910 --> 01:04:08,200
+Maybe we get an AI boom in the next couple of years, maybe that would be written about as ML.
+
+637
+01:04:08,469 --> 01:04:18,460
+Maybe it's actually, and Nvidia’s chips and emergence sort of five and seven nanometer nodes, which just drive improvements in throughput that drives ML up.
+
+638
+01:04:18,700 --> 01:04:21,390
+So it's nothing to do with the companies that are actually working on it.
+
+639
+01:04:21,510 --> 01:04:27,219
+It's to do with sort of the pickaxes being turned from wood to iron, making their work far more efficient.
+
+640
+01:04:27,379 --> 01:04:31,920
+And, Nvidia will probably capture some value of that, but probably won't capture the greatest value.
+
+641
+01:04:32,050 --> 01:04:47,459
+Same if you were to do sort of history of early computing 90s and 2000s, would be interesting to write it from the importance of the evolution of Intel chips and modem speeds as the primary drivers, as opposed to the narrative of history of the growth of these great companies.
+
+642
+01:04:47,459 --> 01:04:57,660
+Patrick: Patrick [01:04:48]: Well, Charlie, I feel like I could do this with you almost weekly basis, sort of endlessly entertained by your prolific interest in so many different things.
+
+643
+01:04:57,830 --> 01:05:02,369
+I'll certainly remember this conversation as one, that's a reminder that investing in business are complicated.
+
+644
+01:05:02,870 --> 01:05:10,490
+And if you want to spend your career in those spaces, you better love it because there are so many variables and so many things happening and you have to develop your own niche and your own strategy.
+
+645
+01:05:10,590 --> 01:05:16,410
+My closing question for everybody in each of these conversations is to ask for the kindest thing that anyone's ever done for you.
+
+646
+01:05:16,410 --> 01:05:20,742
+Charlie: Charlie [01:05:17]: Oh my God, there are so many.
+
+647
+01:05:20,742 --> 01:05:22,439
+There are so many examples.
+
+648
+01:05:22,900 --> 01:05:34,534
+I think it's probably a recurrent one of often my enthusiasm has been greater than my competence and it's the people that bet on the enthusiasm more than the competence.
+
+649
+01:05:34,690 --> 01:05:36,110
+I'm internally grateful to them.
+
+650
+01:05:36,110 --> 01:05:37,939
+Patrick: Patrick [01:05:37]: I love that.
+
+651
+01:05:38,080 --> 01:05:40,190
+Again, you're sometimes describing my life.
+
+652
+01:05:40,190 --> 01:05:42,770
+So I know exactly what you mean, and it is a wonderful thing.
+
+653
+01:05:42,770 --> 01:05:50,089
+And a major category of these answers is betting on somebody early, seeing something in them and taking that risk is always a great kindness.
+
+654
+01:05:50,320 --> 01:05:57,239
+Well, Charlie, this has been a highlight of my early week, even though it's just Monday, I really appreciate your time and I've loved all your insight.
+
+655
+01:05:57,330 --> 01:05:57,670
+Thank you.
+
+656
+01:06:01,210 --> 01:06:06,380
+Charlie: Charlie [01:05:57]: Thank you.
+

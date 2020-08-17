@@ -25,3 +25,16 @@
   font-size: calc(10px + 2vmin);
   max-width: 800px;
 }
+
+.player {
+  min-height: 80px;
+  background-color: red;
+  margin-top: auto;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.hidden {
+  display: none;
+}
