@@ -11,13 +11,15 @@ function PlayFromButton({ part }) {
   return (
     <Fragment>
       <div class="timestampAndPlayButton">
-        {simplifyTimestamp(part.start_hhmmss)}
         <span
-          className={"btn btn-info play-button speaker-" + part.speaker_num}
+          className={
+            "btn btn-info ml-1 play-button speaker-" + part.speaker_num
+          }
           data-from={part.start_secs}
         >
           <i className="fa fa-play"></i>
         </span>
+        {simplifyTimestamp(part.start_hhmmss)}
       </div>
     </Fragment>
   );

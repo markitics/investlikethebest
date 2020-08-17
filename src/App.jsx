@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import "./App.css";
 import { Route, Switch, Redirect } from "react-router-dom";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import "./App.css";
 import Home from "./components/home";
 import NavBar from "./components/navBar";
 import Episode from "./components/episode";
@@ -33,7 +33,7 @@ class App extends Component {
   handleClap = () => {
     const episode = { ...this.state.episode };
     if (episode.claps === 14)
-      toast(
+      toast.info(
         "This is a quick demo; number of claps is reset when you close this page."
       );
 

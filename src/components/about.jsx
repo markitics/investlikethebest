@@ -1,9 +1,10 @@
 import React from "react";
+import OneClickButtons from "./oneClickButtons";
 const notion_url = process.env.REACT_APP_NOTION_URL;
 
 function About(props) {
   return (
-    <div className="about mainContent">
+    <div className="about p-4">
       <h1>What's this all about?</h1>
       <p>
         I have built a variety of tools over the years, for educational
@@ -47,15 +48,10 @@ function About(props) {
         </a>
       </p>
       <h3>Mind-dump of other easy-wins</h3>
-      <p>
-        <i>
-          Example: Simply adding chapter-marks to mp3 files could go a long way!
-        </i>
-      </p>
       <p className="centeredP">
         Read more:{" "}
         <a
-          className="btn btn-info"
+          className="blueLink"
           href={notion_url}
           target="_blank"
           rel="noopener noreferrer"
@@ -96,6 +92,8 @@ function About(props) {
           </a>
         </li>
       </ul>
+      <h3>Chapter marks in mp3 file</h3>
+      <OneClickButtons />
       <br />
       <br />
       <br />

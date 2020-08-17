@@ -42,20 +42,23 @@ function Episode({ match, location }) {
 
   return (
     <Fragment>
-      <h1 className="guest-name">Charlie Songhurst</h1>
-      <div className="episode-top-bar">
-        <img src={getCoverArtUrl(episode)} width="100" />
-        <div className="clapper">
-          <p>{claps} claps</p>
-          <button className="btn btn-sm btn-light" onClick={() => onClap()}>
-            Clap
-          </button>
+      <div className="episode-top p-4">
+        <h1 className="guest-name">Charlie Songhurst</h1>
+        <h2 className="guest-name">Lessons from investing in 483 companies</h2>
+        <div className="episode-top-bar py-2">
+          <img src={getCoverArtUrl(episode)} width="100" />
+          <div className="clapper">
+            <p>{claps} claps</p>
+            <button className="btn btn-sm btn-light" onClick={() => onClap()}>
+              Clap
+            </button>
+          </div>
         </div>
+        <p>
+          <i>'Search' and 'My notes' are just dummy – for now.</i>
+        </p>
       </div>
-      <p>
-        <i>'Search' and 'My notes' are just dummy – for now.</i>
-      </p>
-      <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
+      <nav className="navbar navbar-expand navbar-dark bg-dark">
         <div className="collapse navbar-collapse" id="navbarNav">
           <div className="navbar-nav mr-auto">
             <NavLink className="nav-link" to="/episode/181">

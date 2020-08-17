@@ -25,7 +25,7 @@ function Transcript(props) {
   };
   return (
     <div className="transcript">
-      <div className="ml-auto">
+      <div className="searchBoxRow ml-auto p-2">
         <form className="form-inline my-2 my-lg-0">
           <input
             className="form-control mr-sm-2"
