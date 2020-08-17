@@ -5,6 +5,9 @@ import QueryString from "query-string";
 import EpisodeContext from "../context/episodeContext";
 import { getTranscript } from "../services/getTranscriptService";
 import Transcript from "./transcript";
+import { NavLink, Link } from "react-router-dom";
+import { Route, Switch, Redirect } from "react-router-dom";
+import KeyPoints from "./keyPoints";
 
 function Episode({ match, location }) {
   const { episode, updateEpisode, onClap } = useContext(EpisodeContext);
@@ -19,6 +22,8 @@ function Episode({ match, location }) {
       updateEpisode(currentEpisode);
     }
   };
+
+  const getCoverArtUrl = () => episode.cover_art_url;
 
   useEffect(() => {
     document.title = `${claps} 👏 Charlie Songhurst `;
@@ -37,13 +42,47 @@ function Episode({ match, location }) {
 
   return (
     <Fragment>
-      <h1>Charlie Songhurst</h1>
-      <div className="">Here we have details about one episode</div>
-      <p>{claps} claps</p>
-      <button className="btn btn-sm btn-light" onClick={() => onClap()}>
-        Clap
-      </button>
-      {episode.transcript && <Transcript transcript={episode.transcript} />}
+      <h1 className="guest-name">Charlie Songhurst</h1>
+      <div className="episode-top-bar">
+        <img src={getCoverArtUrl(episode)} width="100" />
+        <div className="clapper">
+          <p>{claps} claps</p>
+          <button className="btn btn-sm btn-light" onClick={() => onClap()}>
+            Clap
+          </button>
+        </div>
+      </div>
+      <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
+        <div className="collapse navbar-collapse" id="navbarNav">
+          <div className="navbar-nav mr-auto">
+            <NavLink className="nav-link" to="/episode/181">
+              🔑 Ideas
+            </NavLink>
+            <NavLink className="nav-link" to="/episode/181/transcript">
+              Transcript
+            </NavLink>
+            <NavLink className="nav-link" to="/episode/181/mine">
+              My notes
+            </NavLink>
+          </div>
+        </div>
+      </nav>
+
+      <Switch>
+        <Route exact path="/episode/181" component={KeyPoints} />
+        <Route
+          path="/episode/181/transcript"
+          render={(props) =>
+            episode.transcript && <Transcript transcript={episode.transcript} />
+          }
+        />
+        <Route
+          path="/episode/181/mine"
+          render={(props) =>
+            episode.transcript && <Transcript transcript={episode.transcript} />
+          }
+        />
+      </Switch>
     </Fragment>
   );
 }

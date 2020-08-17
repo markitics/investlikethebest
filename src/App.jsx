@@ -16,9 +16,13 @@ const START_CLAPS = 14;
 
 class App extends Component {
   state = {
-    episode: { claps: START_CLAPS },
+    episode: {
+      claps: START_CLAPS,
+      cover_art_url:
+        "http://investorfieldguide.com/wp-content/uploads/2020/07/Charlie-Songhurst-1024x1024.png",
+    },
     player: {
-      playerVisible: false,
+      playerIsVisible: false,
       playingState: "stopped",
       currentTime: 0.0,
       episodePlaying: { title: "Charlie Songhurst", url: "/episode/181" },

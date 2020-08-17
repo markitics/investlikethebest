@@ -83,7 +83,7 @@ def import_srt(filename):
         parts = []
         for line in srtfile:
             if line.endswith("\n"):
-                line = line[:-2]
+                line = line[:-1]
             if line_num % 4 == 1:
                 # it's a card number
                 part = {} # reset for the next object
@@ -95,16 +95,17 @@ def import_srt(filename):
                 # Now remove decimal point for seconds, for human-friendly labels
                 part["start_hhmmss"] = start_hhmmss.split('.')[0].split(',')[0]
                 part["end_hhmmss"]  = end_hhmmss.split('.')[0].split(',')[0]
-            elif line_num %4 == 3:
-                if line.startswith('[') and line.endswith(']'):
+            elif line_num % 4 == 3:
+                if line.startswith('['): #  and line.endswith(']'):
                     part["kind"] = "section_title"
-                    part["text"] = line[1:-1] # remove opening and trailing []
+                    part["text"] = line[1:-1] # remove opening [, and maybe the trailing ]
+                    # originally had line[1:-1], but was truncating last char when it shouldn't
                 else:
                     part["kind"] = "spoken"
-                    if line.startswith("%s: "% SPEAKER_2_NAME) or line.startswith("%s [" % SPEAKER_2_NAME):
+                    if line.startswith("%s: "% SPEAKER_1_NAME) or line.startswith("%s [" % SPEAKER_1_NAME):
                         line = line.split(": ", 1)[1]
-                        speaker_num = 2
-                        speaker_name = SPEAKER_2_NAME
+                        speaker_num = 1
+                        speaker_name = SPEAKER_1_NAME
                         part["starts_new_paragraph"] = "true"
                     elif line.startswith("%s: "% SPEAKER_2_NAME) or line.startswith("%s [" % SPEAKER_2_NAME):
                         line = line.split(": ", 1)[1]

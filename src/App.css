@@ -38,3 +38,69 @@
 .hidden {
   display: none;
 }
+
+.transcript {
+}
+.transcriptPart {
+  display: flex;
+}
+div.spoken {
+  max-width: 400px;
+}
+div.speaker-1,
+div.speaker-2 {
+  border-radius: 8px;
+  text-align: left;
+  padding: 2px 6px;
+  margin: 2px;
+}
+span.play-button.speaker-1 {
+  background-color: rgba(235, 235, 181, 0.3);
+  color: black;
+  border: none;
+}
+span.speaker-2 {
+  background-color: rgba(0, 0, 0, 0.3);
+  border: none;
+}
+div.speaker-1 {
+  border-bottom-right-radius: 0px;
+  /* border: 1px solid red; */
+  color: black;
+  background-color: rgb(235, 235, 181);
+  font-weight: 700;
+  margin-left: 7vw;
+}
+div.speaker-2 {
+  border-bottom-left-radius: 0px;
+  /* border: 1px solid yellow; */
+  background-color: black;
+  /* color: yellow; */
+  margin-right: 5vw;
+  margin-left: 2vw;
+}
+.quote {
+  font-size: 150%;
+  text-align: right;
+}
+.episode-top-bar {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+.timestampAndPlayButton {
+  display: flex;
+  flex-direction: column;
+  color: gray;
+}
+.section_title {
+  font-size: 200%;
+  margin-top: 20px;
+  margin-bottom: 12px;
+}
+@media (max-width: 768px) {
+  .timestampAndPlayButton {
+    font-size: 70%;
+  }
+}
