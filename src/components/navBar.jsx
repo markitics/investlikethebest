@@ -22,7 +22,7 @@ function navBar(props) {
       </button>
       <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div className="navbar-nav">
-          <NavLink key="1" className="nav-link" to="/episode/181">
+          <NavLink key="1" className="nav-link" to="/episode/181/transcript">
             Listen
           </NavLink>
           <NavLink key="2" className="nav-link" to="/about">

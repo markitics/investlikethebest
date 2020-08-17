@@ -38,7 +38,7 @@ function Episode({ match, location }) {
 
   const { redirect } = QueryString.parse(location.search);
   if (redirect) toast.warning("We just have ep 181 as an example");
-  //   else toast("This transcript was time-stamped by Descript");
+  // else toast("'Search' and 'My notes' are dummy for now.");
 
   return (
     <Fragment>
@@ -52,6 +52,9 @@ function Episode({ match, location }) {
           </button>
         </div>
       </div>
+      <p>
+        <i>'Search' and 'My notes' are just dummy – for now.</i>
+      </p>
       <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
         <div className="collapse navbar-collapse" id="navbarNav">
           <div className="navbar-nav mr-auto">
@@ -79,7 +82,12 @@ function Episode({ match, location }) {
         <Route
           path="/episode/181/mine"
           render={(props) =>
-            episode.transcript && <Transcript transcript={episode.transcript} />
+            episode.transcript && (
+              <Transcript
+                transcript={episode.transcript}
+                showOnlyLiked={true}
+              />
+            )
           }
         />
       </Switch>

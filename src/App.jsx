@@ -27,6 +27,7 @@ class App extends Component {
       currentTime: 0.0,
       episodePlaying: { title: "Charlie Songhurst", url: "/episode/181" },
     },
+    notifications: { shown: false },
   };
 
   handleClap = () => {
@@ -42,6 +43,10 @@ class App extends Component {
 
   updateEpisode = (episode) => {
     this.setState({ episode });
+  };
+
+  updateNotificationsState = (newState) => {
+    this.setState({ notifications: newState });
   };
 
   updatePlayer = (player) => this.setState({ player });
