@@ -86,7 +86,7 @@ def import_srt(filename):
                 line = line[:-1]
             if line_num % 4 == 1:
                 # it's a card number
-                part = {} # reset for the next object
+                part = {'id': int(line)} # reset for the next object
             elif line_num % 4 == 2:
                 start_hhmmss = line.split(' ', 1)[0].replace(',','.')
                 end_hhmmss = line.split(' --> ',1)[1].replace(',','.')
@@ -106,14 +106,14 @@ def import_srt(filename):
                         line = line.split(": ", 1)[1]
                         speaker_num = 1
                         speaker_name = SPEAKER_1_NAME
-                        part["starts_new_paragraph"] = "true"
+                        part["starts_new_paragraph"] = True
                     elif line.startswith("%s: "% SPEAKER_2_NAME) or line.startswith("%s [" % SPEAKER_2_NAME):
                         line = line.split(": ", 1)[1]
                         speaker_num = 2
                         speaker_name = SPEAKER_2_NAME
-                        part["starts_new_paragraph"] = "true"
+                        part["starts_new_paragraph"] = True
                     else:
-                        part["starts_new_paragraph"] = "false"
+                        part["starts_new_paragraph"] = False
                         pass # leave speaker name unchanged
                     part["speaker_num"] = speaker_num
                     part["speaker_name"] = speaker_name

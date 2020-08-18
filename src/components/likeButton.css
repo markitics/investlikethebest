@@ -1,0 +1,10 @@
+.likeContainer {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  padding-left: 4px;
+  font-size: 132%;
+  color: rgba(128, 128, 128, 0.5);
+}
+.likeButton {
+}

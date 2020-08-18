@@ -27,15 +27,23 @@ class App extends Component {
       currentTime: 0.0,
       episodePlaying: { title: "Charlie Songhurst", url: "/episode/181" },
     },
-    notifications: { shown: false },
+    notifications: {
+      clapNotificationShown: false,
+      likeNotificationShown: false,
+      homeNotificationShown: false,
+    },
   };
 
   handleClap = () => {
     const episode = { ...this.state.episode };
-    if (episode.claps === 14)
+    if (!this.state.notifications.clapNotificationShown) {
       toast.info(
         "This is a quick demo; number of claps is reset when you close this page."
       );
+      const notifications = { ...this.state.notifications };
+      notifications.clapNotificationShown = true;
+      this.setState({ notifications });
+    }
 
     episode.claps += 1;
     this.setState({ episode });
@@ -51,6 +59,29 @@ class App extends Component {
 
   updatePlayer = (player) => this.setState({ player });
 
+  clickLike = (part) => {
+    if (!this.state.notifications.likeNotificationShown) {
+      toast.success(
+        "Great! You can view all your highlights in the 'My highlights' tab."
+      );
+      toast(
+        "Note: In this demo, your likes are not saved when you close this page."
+      );
+      const notifications = { ...this.state.notifications };
+      notifications.likeNotificationShown = true;
+      this.setState({ notifications });
+    } // since we have nust one episode for now,
+    // episodeId isn't actually used
+    console.log("Clicked to like part:", part.text);
+    let episode = { ...this.state.episode };
+    let parts = [...episode.transcript.parts];
+    const index = parts.indexOf(part); // index of liked movie
+    parts[index] = { ...parts[index] }; // modify only this one object
+    parts[index].liked = !parts[index].liked;
+    episode.transcript.parts = parts;
+    this.setState({ episode });
+  };
+
   render() {
     const episode = this.state.episode;
     return (
@@ -63,6 +94,7 @@ class App extends Component {
             episode,
             onClap: this.handleClap,
             updateEpisode: this.updateEpisode,
+            onLike: this.clickLike,
           }}
         >
           <div className="App">

@@ -4,7 +4,7 @@ import VimeoEmbed from "./vimeoEmbed";
 function OneClickButtons(props) {
   const feedurl_without_protocol = "feed.awesound.com/iltb";
   const generateQRCodeUrl = (url) => {
-    return;
+    return "https://chart.googleapis.com/chart?cht=qr&chs=240x240&chl=podcast://feed.awesound.com/iltb";
   };
   return (
     <div className="oneClickSubscribeInApp">
@@ -35,7 +35,7 @@ function OneClickButtons(props) {
           <br />
           <br />
           <div className="imageWrapper qrCode mx-auto">
-            <img src="https://chart.googleapis.com/chart?cht=qr&chs=240x240&chl=podcast://feed.awesound.com/iltb"></img>
+            <img src={generateQRCodeUrl()}></img>
           </div>
         </a>
         <br />

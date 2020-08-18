@@ -10,6 +10,7 @@ from pyscripts.srt_to_json import save_json_transcript
 filename = 'public/ep181_subtitles.srt'
 
 result=save_json_transcript(filename)
+
 # .json file is saved in public/ folder, alongside the .srt file
 
 ```

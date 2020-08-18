@@ -5,8 +5,8 @@ import QueryString from "query-string";
 import EpisodeContext from "../context/episodeContext";
 import { getTranscript } from "../services/getTranscriptService";
 import Transcript from "./transcript";
-import { NavLink, Link } from "react-router-dom";
-import { Route, Switch, Redirect } from "react-router-dom";
+import { NavLink } from "react-router-dom";
+import { Route, Switch } from "react-router-dom";
 import KeyPoints from "./keyPoints";
 
 function Episode({ match, location }) {
@@ -54,11 +54,9 @@ function Episode({ match, location }) {
             </button>
           </div>
         </div>
-        <p>
-          <i>'Search' and 'My notes' are just dummy – for now.</i>
-        </p>
+        {/* <p> <i>'Search' and 'My notes' are just dummy – for now.</i> </p> */}
       </div>
-      <nav className="navbar navbar-expand navbar-dark bg-dark">
+      <nav className="navbar navbar-expand navbar-dark bg-dark sticky-top">
         <div className="collapse navbar-collapse" id="navbarNav">
           <div className="navbar-nav mr-auto">
             <NavLink className="nav-link" to="/episode/181">
@@ -67,15 +65,14 @@ function Episode({ match, location }) {
             <NavLink className="nav-link" to="/episode/181/transcript">
               Transcript
             </NavLink>
-            <NavLink className="nav-link" to="/episode/181/mine">
-              My notes
+            <NavLink className="nav-link" to="/episode/181/my-highlights">
+              My highlights
             </NavLink>
           </div>
         </div>
       </nav>
 
       <Switch>
-        <Route exact path="/episode/181" component={KeyPoints} />
         <Route
           path="/episode/181/transcript"
           render={(props) =>
@@ -83,7 +80,7 @@ function Episode({ match, location }) {
           }
         />
         <Route
-          path="/episode/181/mine"
+          path="/episode/181/my-highlights"
           render={(props) =>
             episode.transcript && (
               <Transcript
@@ -93,6 +90,7 @@ function Episode({ match, location }) {
             )
           }
         />
+        <Route exact path="/episode/181" component={KeyPoints} />
       </Switch>
     </Fragment>
   );

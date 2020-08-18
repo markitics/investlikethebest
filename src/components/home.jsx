@@ -9,9 +9,9 @@ function Home(props) {
   toast("🏗 This is a work in progress! Check back soon."); // multi-coloured bar
   return (
     <header className="App-header">
-      <div className="landing">
-        <h1>The best place to learn about business and investing</h1>
-        <img src={cover_art_url} className="homepage-logo" alt="logo" />
+      <div className="landing p-3" style={{ "text-align": "center" }}>
+        <h2>“The best place to learn about business and investing”</h2>
+        <img src={cover_art_url} className="homepage-logo m-2" alt="logo" />
         <p className="subtle">
           Our mission is to capture and share the best information for business{" "}
           <strong>builders and investors</strong>.
@@ -21,17 +21,16 @@ function Home(props) {
           operators, and entrepreneurs.
         </p>
         <a
-          className="App-link btn btn-info"
+          className="App-link btn btn-info m-2"
           href={notion_url}
           target="_blank"
           rel="noopener noreferrer"
         >
           View Mark's initial ideas
         </a>
-        <br />
         <Link to="/episode/181/transcript">
-          <span className="btn btn-default btn-dark">
-            Check out one interview
+          <span className="btn btn-default btn-dark m-2">
+            See one sample transcript
           </span>
         </Link>
       </div>

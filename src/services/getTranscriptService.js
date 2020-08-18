@@ -7,11 +7,12 @@ export const transcript_songhurst = {
       speaker_num: 1,
       start_hhmmss: "00:00:49",
       text:
-        "My guest this week is Charlie Songhurst the former head of strategy at Microsoft, and a prolific investor having personally invested in nearly 500 companies through his career.",
+        "My guest this week is Charlie Songhurst: the former head of strategy at Microsoft, and a prolific investor having personally invested in nearly 500 companies through his career.",
       starts_new_paragraph: "true",
       end_hhmmss: "00:00:57",
       end_secs: 57.73,
       speaker_name: "Patrick",
+      id: 2,
       start_secs: 49.48,
     },
     {
@@ -23,6 +24,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:01:00",
       end_secs: 60.13,
       speaker_name: "Patrick",
+      id: 3,
       start_secs: 58.23,
     },
     {
@@ -35,7 +37,9 @@ export const transcript_songhurst = {
       end_hhmmss: "00:01:04",
       end_secs: 64.459,
       speaker_name: "Patrick",
+      id: 4,
       start_secs: 60.13,
+      liked: true,
     },
     {
       kind: "spoken",
@@ -47,6 +51,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:01:08",
       end_secs: 68.15,
       speaker_name: "Patrick",
+      id: 5,
       start_secs: 65.179,
     },
     {
@@ -59,6 +64,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:01:12",
       end_secs: 72.57,
       speaker_name: "Patrick",
+      id: 6,
       start_secs: 68.37,
     },
     {
@@ -70,6 +76,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:01:27",
       end_secs: 87.13,
       speaker_name: "Patrick",
+      id: 7,
       start_secs: 85.02,
     },
     {
@@ -82,6 +89,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:01:33",
       end_secs: 93.42,
       speaker_name: "Patrick",
+      id: 8,
       start_secs: 87.17,
     },
     {
@@ -94,6 +102,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:01:38",
       end_secs: 98.929,
       speaker_name: "Patrick",
+      id: 9,
       start_secs: 93.42,
     },
     {
@@ -106,7 +115,9 @@ export const transcript_songhurst = {
       end_hhmmss: "00:01:47",
       end_secs: 107.199,
       speaker_name: "Charlie",
+      id: 10,
       start_secs: 99.51,
+      liked: true,
     },
     {
       kind: "spoken",
@@ -117,7 +128,9 @@ export const transcript_songhurst = {
       end_hhmmss: "00:01:49",
       end_secs: 109.86,
       speaker_name: "Charlie",
+      id: 11,
       start_secs: 107.52,
+      liked: true,
     },
     {
       kind: "spoken",
@@ -128,6 +141,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:01:52",
       end_secs: 112.16,
       speaker_name: "Charlie",
+      id: 12,
       start_secs: 110.15,
     },
     {
@@ -139,6 +153,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:01:56",
       end_secs: 116.179,
       speaker_name: "Charlie",
+      id: 13,
       start_secs: 112.71,
     },
     {
@@ -150,7 +165,9 @@ export const transcript_songhurst = {
       end_hhmmss: "00:01:59",
       end_secs: 119.17,
       speaker_name: "Charlie",
+      id: 14,
       start_secs: 116.179,
+      liked: true,
     },
     {
       kind: "spoken",
@@ -162,7 +179,9 @@ export const transcript_songhurst = {
       end_hhmmss: "00:02:04",
       end_secs: 124.509,
       speaker_name: "Charlie",
+      id: 15,
       start_secs: 119.57,
+      liked: true,
     },
     {
       kind: "spoken",
@@ -174,7 +193,9 @@ export const transcript_songhurst = {
       end_hhmmss: "00:02:10",
       end_secs: 130.31,
       speaker_name: "Charlie",
+      id: 16,
       start_secs: 125.039,
+      liked: true,
     },
     {
       kind: "spoken",
@@ -186,6 +207,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:02:16",
       end_secs: 136.109,
       speaker_name: "Charlie",
+      id: 17,
       start_secs: 130.71,
     },
     {
@@ -198,6 +220,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:02:25",
       end_secs: 145.019,
       speaker_name: "Charlie",
+      id: 18,
       start_secs: 136.69,
     },
     {
@@ -210,6 +233,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:02:27",
       end_secs: 147.83,
       speaker_name: "Charlie",
+      id: 19,
       start_secs: 145.18,
     },
     {
@@ -221,6 +245,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:02:31",
       end_secs: 151.47,
       speaker_name: "Charlie",
+      id: 20,
       start_secs: 148.02,
     },
     {
@@ -232,6 +257,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:02:32",
       end_secs: 152.73,
       speaker_name: "Charlie",
+      id: 21,
       start_secs: 151.64,
     },
     {
@@ -243,6 +269,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:02:33",
       end_secs: 153.93,
       speaker_name: "Charlie",
+      id: 22,
       start_secs: 152.75,
     },
     {
@@ -254,6 +281,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:02:35",
       end_secs: 155.95,
       speaker_name: "Charlie",
+      id: 23,
       start_secs: 154.059,
     },
     {
@@ -266,6 +294,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:02:40",
       end_secs: 160.719,
       speaker_name: "Charlie",
+      id: 24,
       start_secs: 156.25,
     },
     {
@@ -278,6 +307,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:02:46",
       end_secs: 166.87,
       speaker_name: "Patrick",
+      id: 25,
       start_secs: 161.17,
     },
     {
@@ -289,6 +319,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:02:50",
       end_secs: 170.35,
       speaker_name: "Charlie",
+      id: 26,
       start_secs: 167.53,
     },
     {
@@ -301,6 +332,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:02:58",
       end_secs: 178.189,
       speaker_name: "Charlie",
+      id: 27,
       start_secs: 170.78,
     },
     {
@@ -312,6 +344,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:03:03",
       end_secs: 183.06,
       speaker_name: "Charlie",
+      id: 28,
       start_secs: 178.929,
     },
     {
@@ -323,6 +356,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:03:04",
       end_secs: 184.68,
       speaker_name: "Charlie",
+      id: 29,
       start_secs: 183.55,
     },
     {
@@ -335,6 +369,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:03:12",
       end_secs: 192.769,
       speaker_name: "Charlie",
+      id: 30,
       start_secs: 184.68,
     },
     {
@@ -347,6 +382,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:03:21",
       end_secs: 201.299,
       speaker_name: "Patrick",
+      id: 31,
       start_secs: 193.38,
     },
     {
@@ -358,6 +394,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:03:23",
       end_secs: 203.309,
       speaker_name: "Charlie",
+      id: 32,
       start_secs: 201.76,
     },
     {
@@ -370,6 +407,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:03:29",
       end_secs: 209.4,
       speaker_name: "Charlie",
+      id: 33,
       start_secs: 203.309,
     },
     {
@@ -382,6 +420,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:03:34",
       end_secs: 214.7,
       speaker_name: "Charlie",
+      id: 34,
       start_secs: 209.559,
     },
     {
@@ -393,6 +432,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:03:36",
       end_secs: 216.53,
       speaker_name: "Charlie",
+      id: 35,
       start_secs: 214.93,
     },
     {
@@ -405,6 +445,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:03:40",
       end_secs: 220.799,
       speaker_name: "Charlie",
+      id: 36,
       start_secs: 216.73,
     },
     {
@@ -417,6 +458,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:03:54",
       end_secs: 234.71,
       speaker_name: "Charlie",
+      id: 37,
       start_secs: 221.17,
     },
     {
@@ -428,6 +470,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:03:58",
       end_secs: 238.049,
       speaker_name: "Patrick",
+      id: 38,
       start_secs: 235.34,
     },
     {
@@ -440,6 +483,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:04:04",
       end_secs: 244.13,
       speaker_name: "Patrick",
+      id: 39,
       start_secs: 238.09,
     },
     {
@@ -451,6 +495,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:04:07",
       end_secs: 247.89,
       speaker_name: "Charlie",
+      id: 40,
       start_secs: 244.71,
     },
     {
@@ -462,6 +507,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:04:09",
       end_secs: 249.96,
       speaker_name: "Charlie",
+      id: 41,
       start_secs: 248.16,
     },
     {
@@ -473,6 +519,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:04:12",
       end_secs: 252.26,
       speaker_name: "Charlie",
+      id: 42,
       start_secs: 249.99,
     },
     {
@@ -485,6 +532,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:04:16",
       end_secs: 256.469,
       speaker_name: "Charlie",
+      id: 43,
       start_secs: 252.26,
     },
     {
@@ -496,6 +544,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:04:18",
       end_secs: 258.909,
       speaker_name: "Charlie",
+      id: 44,
       start_secs: 256.73,
     },
     {
@@ -508,6 +557,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:04:25",
       end_secs: 265.07,
       speaker_name: "Charlie",
+      id: 45,
       start_secs: 259.149,
     },
     {
@@ -520,6 +570,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:04:34",
       end_secs: 274.24,
       speaker_name: "Charlie",
+      id: 46,
       start_secs: 265.469,
     },
     {
@@ -531,6 +582,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:04:36",
       end_secs: 276.46,
       speaker_name: "Charlie",
+      id: 47,
       start_secs: 274.24,
     },
     {
@@ -543,6 +595,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:04:39",
       end_secs: 279.57,
       speaker_name: "Charlie",
+      id: 48,
       start_secs: 276.46,
     },
     {
@@ -555,6 +608,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:04:43",
       end_secs: 283.15,
       speaker_name: "Charlie",
+      id: 49,
       start_secs: 279.58,
     },
     {
@@ -567,6 +621,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:04:47",
       end_secs: 287.67,
       speaker_name: "Patrick",
+      id: 50,
       start_secs: 284.11,
     },
     {
@@ -579,6 +634,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:04:55",
       end_secs: 295.98,
       speaker_name: "Patrick",
+      id: 51,
       start_secs: 287.68,
     },
     {
@@ -590,6 +646,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:04:59",
       end_secs: 299.51,
       speaker_name: "Charlie",
+      id: 52,
       start_secs: 295.99,
     },
     {
@@ -602,6 +659,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:05:07",
       end_secs: 307.66,
       speaker_name: "Charlie",
+      id: 53,
       start_secs: 299.8,
     },
     {
@@ -614,6 +672,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:05:15",
       end_secs: 315.27,
       speaker_name: "Charlie",
+      id: 54,
       start_secs: 307.68,
     },
     {
@@ -625,6 +684,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:05:18",
       end_secs: 318.2,
       speaker_name: "Patrick",
+      id: 55,
       start_secs: 316.23,
     },
     {
@@ -636,6 +696,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:05:19",
       end_secs: 319.989,
       speaker_name: "Patrick",
+      id: 56,
       start_secs: 318.3,
     },
     {
@@ -647,6 +708,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:05:22",
       end_secs: 322.57,
       speaker_name: "Patrick",
+      id: 57,
       start_secs: 320.12,
     },
     {
@@ -658,6 +720,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:05:25",
       end_secs: 325.85,
       speaker_name: "Charlie",
+      id: 58,
       start_secs: 323.4,
     },
     {
@@ -670,6 +733,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:05:35",
       end_secs: 335.88,
       speaker_name: "Charlie",
+      id: 59,
       start_secs: 326.03,
     },
     {
@@ -682,6 +746,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:05:47",
       end_secs: 347.219,
       speaker_name: "Charlie",
+      id: 60,
       start_secs: 335.88,
     },
     {
@@ -694,6 +759,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:05:57",
       end_secs: 357.299,
       speaker_name: "Charlie",
+      id: 61,
       start_secs: 347.51,
     },
     {
@@ -706,6 +772,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:06:02",
       end_secs: 362.17,
       speaker_name: "Charlie",
+      id: 62,
       start_secs: 357.42,
     },
     {
@@ -717,6 +784,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:06:05",
       end_secs: 365.77,
       speaker_name: "Patrick",
+      id: 63,
       start_secs: 362.17,
     },
     {
@@ -729,6 +797,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:06:10",
       end_secs: 370.38,
       speaker_name: "Patrick",
+      id: 64,
       start_secs: 365.78,
     },
     {
@@ -741,6 +810,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:06:20",
       end_secs: 380.05,
       speaker_name: "Patrick",
+      id: 65,
       start_secs: 370.38,
     },
     {
@@ -753,6 +823,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:06:25",
       end_secs: 385.44,
       speaker_name: "Patrick",
+      id: 66,
       start_secs: 380.2,
     },
     {
@@ -765,6 +836,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:06:32",
       end_secs: 392.88,
       speaker_name: "Patrick",
+      id: 67,
       start_secs: 385.98,
     },
     {
@@ -776,6 +848,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:06:34",
       end_secs: 394.849,
       speaker_name: "Charlie",
+      id: 68,
       start_secs: 393.69,
     },
     {
@@ -788,6 +861,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:06:40",
       end_secs: 400.38,
       speaker_name: "Charlie",
+      id: 69,
       start_secs: 394.85,
     },
     {
@@ -800,6 +874,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:06:49",
       end_secs: 409.119,
       speaker_name: "Charlie",
+      id: 70,
       start_secs: 400.66,
     },
     {
@@ -811,6 +886,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:06:50",
       end_secs: 410.769,
       speaker_name: "Charlie",
+      id: 71,
       start_secs: 409.12,
     },
     {
@@ -823,6 +899,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:06:58",
       end_secs: 418.39,
       speaker_name: "Charlie",
+      id: 72,
       start_secs: 411.139,
     },
     {
@@ -835,6 +912,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:07:05",
       end_secs: 425.349,
       speaker_name: "Charlie",
+      id: 73,
       start_secs: 418.52,
     },
     {
@@ -846,6 +924,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:07:07",
       end_secs: 427.58,
       speaker_name: "Charlie",
+      id: 74,
       start_secs: 425.509,
     },
     {
@@ -857,6 +936,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:07:10",
       end_secs: 430.2,
       speaker_name: "Charlie",
+      id: 75,
       start_secs: 427.94,
     },
     {
@@ -869,6 +949,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:07:14",
       end_secs: 434.04,
       speaker_name: "Charlie",
+      id: 76,
       start_secs: 430.48,
     },
     {
@@ -881,6 +962,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:07:20",
       end_secs: 440.469,
       speaker_name: "Charlie",
+      id: 77,
       start_secs: 434.25,
     },
     {
@@ -892,6 +974,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:07:21",
       end_secs: 441.69,
       speaker_name: "Charlie",
+      id: 78,
       start_secs: 440.469,
     },
     {
@@ -904,6 +987,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:07:25",
       end_secs: 445.203,
       speaker_name: "Charlie",
+      id: 79,
       start_secs: 441.86,
     },
     {
@@ -916,6 +1000,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:07:31",
       end_secs: 451.19,
       speaker_name: "Charlie",
+      id: 80,
       start_secs: 445.203,
     },
     {
@@ -928,6 +1013,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:07:35",
       end_secs: 455.53,
       speaker_name: "Charlie",
+      id: 81,
       start_secs: 451.46,
     },
     {
@@ -939,6 +1025,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:07:38",
       end_secs: 458.78,
       speaker_name: "Charlie",
+      id: 82,
       start_secs: 455.78,
     },
     {
@@ -951,6 +1038,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:07:53",
       end_secs: 473.12,
       speaker_name: "Charlie",
+      id: 83,
       start_secs: 459.16,
     },
     {
@@ -962,6 +1050,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:07:54",
       end_secs: 474.34,
       speaker_name: "Charlie",
+      id: 84,
       start_secs: 473.12,
     },
     {
@@ -973,6 +1062,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:07:56",
       end_secs: 476.83,
       speaker_name: "Charlie",
+      id: 85,
       start_secs: 474.57,
     },
     {
@@ -985,6 +1075,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:08:06",
       end_secs: 486.929,
       speaker_name: "Charlie",
+      id: 86,
       start_secs: 476.83,
     },
     {
@@ -996,6 +1087,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:08:09",
       end_secs: 489.8,
       speaker_name: "Charlie",
+      id: 87,
       start_secs: 487.0,
     },
     {
@@ -1008,6 +1100,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:08:15",
       end_secs: 495.289,
       speaker_name: "Charlie",
+      id: 88,
       start_secs: 490.09,
     },
     {
@@ -1019,6 +1112,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:08:16",
       end_secs: 496.62,
       speaker_name: "Charlie",
+      id: 89,
       start_secs: 495.45,
     },
     {
@@ -1031,6 +1125,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:08:26",
       end_secs: 506.08,
       speaker_name: "Charlie",
+      id: 90,
       start_secs: 497.24,
     },
     {
@@ -1042,6 +1137,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:08:28",
       end_secs: 508.85,
       speaker_name: "Charlie",
+      id: 91,
       start_secs: 506.33,
     },
     {
@@ -1053,6 +1149,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:08:31",
       end_secs: 511.249,
       speaker_name: "Charlie",
+      id: 92,
       start_secs: 509.16,
     },
     {
@@ -1065,6 +1162,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:08:36",
       end_secs: 516.309,
       speaker_name: "Charlie",
+      id: 93,
       start_secs: 512.21,
     },
     {
@@ -1077,6 +1175,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:08:39",
       end_secs: 519.9,
       speaker_name: "Charlie",
+      id: 94,
       start_secs: 516.63,
     },
     {
@@ -1089,6 +1188,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:08:49",
       end_secs: 529.05,
       speaker_name: "Charlie",
+      id: 95,
       start_secs: 520.35,
     },
     {
@@ -1101,6 +1201,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:08:54",
       end_secs: 534.799,
       speaker_name: "Charlie",
+      id: 96,
       start_secs: 529.41,
     },
     {
@@ -1113,6 +1214,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:09:06",
       end_secs: 546.2,
       speaker_name: "Charlie",
+      id: 97,
       start_secs: 535.179,
     },
     {
@@ -1125,6 +1227,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:09:24",
       end_secs: 564.92,
       speaker_name: "Charlie",
+      id: 98,
       start_secs: 546.45,
     },
     {
@@ -1136,6 +1239,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:09:27",
       end_secs: 567.61,
       speaker_name: "Charlie",
+      id: 99,
       start_secs: 565.16,
     },
     {
@@ -1147,6 +1251,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:09:30",
       end_secs: 570.529,
       speaker_name: "Charlie",
+      id: 100,
       start_secs: 567.87,
     },
     {
@@ -1158,6 +1263,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:09:31",
       end_secs: 571.877,
       speaker_name: "Charlie",
+      id: 101,
       start_secs: 570.53,
     },
     {
@@ -1170,6 +1276,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:09:36",
       end_secs: 576.84,
       speaker_name: "Charlie",
+      id: 102,
       start_secs: 571.877,
     },
     {
@@ -1182,6 +1289,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:09:45",
       end_secs: 585.97,
       speaker_name: "Charlie",
+      id: 103,
       start_secs: 576.84,
     },
     {
@@ -1194,6 +1302,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:09:52",
       end_secs: 592.2,
       speaker_name: "Charlie",
+      id: 104,
       start_secs: 586.29,
     },
     {
@@ -1206,6 +1315,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:09:55",
       end_secs: 595.48,
       speaker_name: "Charlie",
+      id: 105,
       start_secs: 592.52,
     },
     {
@@ -1218,6 +1328,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:09:59",
       end_secs: 599.219,
       speaker_name: "Charlie",
+      id: 106,
       start_secs: 595.85,
     },
     {
@@ -1230,6 +1341,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:10:04",
       end_secs: 604.33,
       speaker_name: "Charlie",
+      id: 107,
       start_secs: 599.58,
     },
     {
@@ -1242,6 +1354,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:10:22",
       end_secs: 622.829,
       speaker_name: "Charlie",
+      id: 108,
       start_secs: 604.69,
     },
     {
@@ -1254,6 +1367,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:10:25",
       end_secs: 625.53,
       speaker_name: "Charlie",
+      id: 109,
       start_secs: 622.889,
     },
     {
@@ -1265,6 +1379,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:10:27",
       end_secs: 627.44,
       speaker_name: "Charlie",
+      id: 110,
       start_secs: 625.69,
     },
     {
@@ -1276,6 +1391,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:10:29",
       end_secs: 629.879,
       speaker_name: "Charlie",
+      id: 111,
       start_secs: 627.94,
     },
     {
@@ -1288,6 +1404,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:10:33",
       end_secs: 633.25,
       speaker_name: "Charlie",
+      id: 112,
       start_secs: 630.139,
     },
     {
@@ -1300,6 +1417,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:10:37",
       end_secs: 637.65,
       speaker_name: "Charlie",
+      id: 113,
       start_secs: 633.38,
     },
     {
@@ -1312,6 +1430,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:10:40",
       end_secs: 640.89,
       speaker_name: "Charlie",
+      id: 114,
       start_secs: 637.8,
     },
     {
@@ -1324,6 +1443,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:10:54",
       end_secs: 654.089,
       speaker_name: "Charlie",
+      id: 115,
       start_secs: 641.22,
     },
     {
@@ -1335,6 +1455,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:10:56",
       end_secs: 656.32,
       speaker_name: "Patrick",
+      id: 116,
       start_secs: 654.089,
     },
     {
@@ -1347,6 +1468,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:11:14",
       end_secs: 674.079,
       speaker_name: "Patrick",
+      id: 117,
       start_secs: 656.36,
     },
     {
@@ -1359,6 +1481,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:11:19",
       end_secs: 679.0,
       speaker_name: "Patrick",
+      id: 118,
       start_secs: 674.19,
     },
     {
@@ -1371,6 +1494,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:11:24",
       end_secs: 684.8,
       speaker_name: "Charlie",
+      id: 119,
       start_secs: 679.75,
     },
     {
@@ -1383,6 +1507,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:11:30",
       end_secs: 690.37,
       speaker_name: "Charlie",
+      id: 120,
       start_secs: 685.05,
     },
     {
@@ -1394,6 +1519,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:11:31",
       end_secs: 691.85,
       speaker_name: "Charlie",
+      id: 121,
       start_secs: 690.6,
     },
     {
@@ -1405,6 +1531,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:11:35",
       end_secs: 695.499,
       speaker_name: "Charlie",
+      id: 122,
       start_secs: 692.26,
     },
     {
@@ -1417,6 +1544,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:11:41",
       end_secs: 701.24,
       speaker_name: "Charlie",
+      id: 123,
       start_secs: 695.87,
     },
     {
@@ -1429,6 +1557,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:11:47",
       end_secs: 707.02,
       speaker_name: "Charlie",
+      id: 124,
       start_secs: 701.24,
     },
     {
@@ -1441,6 +1570,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:11:50",
       end_secs: 710.98,
       speaker_name: "Charlie",
+      id: 125,
       start_secs: 707.22,
     },
     {
@@ -1453,6 +1583,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:11:59",
       end_secs: 719.21,
       speaker_name: "Charlie",
+      id: 126,
       start_secs: 711.15,
     },
     {
@@ -1465,6 +1596,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:12:08",
       end_secs: 728.2,
       speaker_name: "Charlie",
+      id: 127,
       start_secs: 719.32,
     },
     {
@@ -1477,6 +1609,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:12:17",
       end_secs: 737.319,
       speaker_name: "Charlie",
+      id: 128,
       start_secs: 728.78,
     },
     {
@@ -1489,6 +1622,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:12:24",
       end_secs: 744.63,
       speaker_name: "Charlie",
+      id: 129,
       start_secs: 737.549,
     },
     {
@@ -1501,6 +1635,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:12:34",
       end_secs: 754.1,
       speaker_name: "Charlie",
+      id: 130,
       start_secs: 745.01,
     },
     {
@@ -1513,6 +1648,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:12:38",
       end_secs: 758.91,
       speaker_name: "Charlie",
+      id: 131,
       start_secs: 754.35,
     },
     {
@@ -1525,6 +1661,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:12:44",
       end_secs: 764.8,
       speaker_name: "Charlie",
+      id: 132,
       start_secs: 759.34,
     },
     {
@@ -1537,6 +1674,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:12:51",
       end_secs: 771.75,
       speaker_name: "Charlie",
+      id: 133,
       start_secs: 766.089,
     },
     {
@@ -1549,6 +1687,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:12:57",
       end_secs: 777.14,
       speaker_name: "Charlie",
+      id: 134,
       start_secs: 771.96,
     },
     {
@@ -1561,6 +1700,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:13:04",
       end_secs: 784.0,
       speaker_name: "Charlie",
+      id: 135,
       start_secs: 777.42,
     },
     {
@@ -1573,6 +1713,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:13:08",
       end_secs: 788.429,
       speaker_name: "Charlie",
+      id: 136,
       start_secs: 784.0,
     },
     {
@@ -1585,6 +1726,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:13:17",
       end_secs: 797.969,
       speaker_name: "Charlie",
+      id: 137,
       start_secs: 788.599,
     },
     {
@@ -1597,6 +1739,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:13:22",
       end_secs: 802.009,
       speaker_name: "Charlie",
+      id: 138,
       start_secs: 798.08,
     },
     {
@@ -1609,6 +1752,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:13:30",
       end_secs: 810.719,
       speaker_name: "Charlie",
+      id: 139,
       start_secs: 802.099,
     },
     {
@@ -1621,6 +1765,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:13:39",
       end_secs: 819.71,
       speaker_name: "Charlie",
+      id: 140,
       start_secs: 810.9,
     },
     {
@@ -1632,6 +1777,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:13:42",
       end_secs: 822.65,
       speaker_name: "Charlie",
+      id: 141,
       start_secs: 821.77,
     },
     {
@@ -1644,6 +1790,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:13:55",
       end_secs: 835.84,
       speaker_name: "Charlie",
+      id: 142,
       start_secs: 822.83,
     },
     {
@@ -1656,6 +1803,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:14:05",
       end_secs: 845.879,
       speaker_name: "Charlie",
+      id: 143,
       start_secs: 836.02,
     },
     {
@@ -1668,6 +1816,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:14:11",
       end_secs: 851.67,
       speaker_name: "Charlie",
+      id: 144,
       start_secs: 846.19,
     },
     {
@@ -1679,6 +1828,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:14:14",
       end_secs: 854.17,
       speaker_name: "Charlie",
+      id: 145,
       start_secs: 851.93,
     },
     {
@@ -1691,6 +1841,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:14:38",
       end_secs: 878.68,
       speaker_name: "Charlie",
+      id: 146,
       start_secs: 854.429,
     },
     {
@@ -1703,6 +1854,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:14:53",
       end_secs: 893.6,
       speaker_name: "Charlie",
+      id: 147,
       start_secs: 878.98,
     },
     {
@@ -1715,6 +1867,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:15:18",
       end_secs: 918.589,
       speaker_name: "Patrick",
+      id: 148,
       start_secs: 894.55,
     },
     {
@@ -1726,6 +1879,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:15:20",
       end_secs: 920.35,
       speaker_name: "Patrick",
+      id: 149,
       start_secs: 918.59,
     },
     {
@@ -1738,6 +1892,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:15:25",
       end_secs: 925.459,
       speaker_name: "Patrick",
+      id: 150,
       start_secs: 920.43,
     },
     {
@@ -1750,6 +1905,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:15:28",
       end_secs: 928.26,
       speaker_name: "Patrick",
+      id: 151,
       start_secs: 925.46,
     },
     {
@@ -1762,6 +1918,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:15:35",
       end_secs: 935.04,
       speaker_name: "Patrick",
+      id: 152,
       start_secs: 928.309,
     },
     {
@@ -1774,6 +1931,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:15:50",
       end_secs: 950.17,
       speaker_name: "Charlie",
+      id: 153,
       start_secs: 936.029,
     },
     {
@@ -1786,6 +1944,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:16:03",
       end_secs: 963.989,
       speaker_name: "Charlie",
+      id: 154,
       start_secs: 950.37,
     },
     {
@@ -1798,6 +1957,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:16:23",
       end_secs: 983.24,
       speaker_name: "Charlie",
+      id: 155,
       start_secs: 964.29,
     },
     {
@@ -1809,6 +1969,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:16:25",
       end_secs: 985.42,
       speaker_name: "Charlie",
+      id: 156,
       start_secs: 983.4,
     },
     {
@@ -1820,6 +1981,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:16:27",
       end_secs: 987.79,
       speaker_name: "Charlie",
+      id: 157,
       start_secs: 985.759,
     },
     {
@@ -1832,6 +1994,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:16:32",
       end_secs: 992.13,
       speaker_name: "Charlie",
+      id: 158,
       start_secs: 988.01,
     },
     {
@@ -1844,6 +2007,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:16:41",
       end_secs: 1001.509,
       speaker_name: "Charlie",
+      id: 159,
       start_secs: 992.13,
     },
     {
@@ -1856,6 +2020,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:16:51",
       end_secs: 1011.44,
       speaker_name: "Charlie",
+      id: 160,
       start_secs: 1001.779,
     },
     {
@@ -1868,6 +2033,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:16:55",
       end_secs: 1015.49,
       speaker_name: "Charlie",
+      id: 161,
       start_secs: 1011.76,
     },
     {
@@ -1880,6 +2046,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:17:09",
       end_secs: 1029.63,
       speaker_name: "Charlie",
+      id: 162,
       start_secs: 1016.19,
     },
     {
@@ -1892,6 +2059,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:17:17",
       end_secs: 1037.55,
       speaker_name: "Charlie",
+      id: 163,
       start_secs: 1029.88,
     },
     {
@@ -1903,6 +2071,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:17:18",
       end_secs: 1038.65,
       speaker_name: "Charlie",
+      id: 164,
       start_secs: 1037.55,
     },
     {
@@ -1914,6 +2083,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:17:19",
       end_secs: 1039.85,
       speaker_name: "Charlie",
+      id: 165,
       start_secs: 1038.869,
     },
     {
@@ -1926,6 +2096,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:17:23",
       end_secs: 1043.959,
       speaker_name: "Charlie",
+      id: 166,
       start_secs: 1039.85,
     },
     {
@@ -1938,6 +2109,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:17:28",
       end_secs: 1048.409,
       speaker_name: "Charlie",
+      id: 167,
       start_secs: 1044.379,
     },
     {
@@ -1950,6 +2122,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:17:31",
       end_secs: 1051.79,
       speaker_name: "Charlie",
+      id: 168,
       start_secs: 1048.73,
     },
     {
@@ -1961,6 +2134,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:17:35",
       end_secs: 1055.06,
       speaker_name: "Charlie",
+      id: 169,
       start_secs: 1051.95,
     },
     {
@@ -1972,6 +2146,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:17:37",
       end_secs: 1057.77,
       speaker_name: "Charlie",
+      id: 170,
       start_secs: 1055.27,
     },
     {
@@ -1984,6 +2159,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:17:48",
       end_secs: 1068.21,
       speaker_name: "Charlie",
+      id: 171,
       start_secs: 1058.139,
     },
     {
@@ -1996,6 +2172,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:17:54",
       end_secs: 1074.7,
       speaker_name: "Charlie",
+      id: 172,
       start_secs: 1068.91,
     },
     {
@@ -2008,6 +2185,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:18:02",
       end_secs: 1082.27,
       speaker_name: "Charlie",
+      id: 173,
       start_secs: 1075.23,
     },
     {
@@ -2020,6 +2198,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:18:10",
       end_secs: 1090.05,
       speaker_name: "Charlie",
+      id: 174,
       start_secs: 1082.75,
     },
     {
@@ -2032,6 +2211,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:18:15",
       end_secs: 1095.77,
       speaker_name: "Charlie",
+      id: 175,
       start_secs: 1090.05,
     },
     {
@@ -2044,6 +2224,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:18:28",
       end_secs: 1108.93,
       speaker_name: "Charlie",
+      id: 176,
       start_secs: 1095.849,
     },
     {
@@ -2056,6 +2237,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:18:40",
       end_secs: 1120.53,
       speaker_name: "Charlie",
+      id: 177,
       start_secs: 1109.05,
     },
     {
@@ -2068,6 +2250,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:18:49",
       end_secs: 1129.96,
       speaker_name: "Charlie",
+      id: 178,
       start_secs: 1120.67,
     },
     {
@@ -2080,6 +2263,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:18:54",
       end_secs: 1134.96,
       speaker_name: "Charlie",
+      id: 179,
       start_secs: 1130.15,
     },
     {
@@ -2092,6 +2276,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:19:02",
       end_secs: 1142.85,
       speaker_name: "Charlie",
+      id: 180,
       start_secs: 1135.15,
     },
     {
@@ -2104,6 +2289,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:19:11",
       end_secs: 1151.2,
       speaker_name: "Charlie",
+      id: 181,
       start_secs: 1142.97,
     },
     {
@@ -2116,6 +2302,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:19:19",
       end_secs: 1159.97,
       speaker_name: "Charlie",
+      id: 182,
       start_secs: 1151.48,
     },
     {
@@ -2128,6 +2315,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:19:24",
       end_secs: 1164.82,
       speaker_name: "Charlie",
+      id: 183,
       start_secs: 1160.17,
     },
     {
@@ -2140,6 +2328,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:19:33",
       end_secs: 1173.909,
       speaker_name: "Charlie",
+      id: 184,
       start_secs: 1165.04,
     },
     {
@@ -2152,6 +2341,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:19:39",
       end_secs: 1179.58,
       speaker_name: "Charlie",
+      id: 185,
       start_secs: 1174.21,
     },
     {
@@ -2163,6 +2353,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:19:42",
       end_secs: 1182.879,
       speaker_name: "Charlie",
+      id: 186,
       start_secs: 1179.82,
     },
     {
@@ -2174,6 +2365,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:19:45",
       end_secs: 1185.139,
       speaker_name: "Patrick",
+      id: 187,
       start_secs: 1183.53,
     },
     {
@@ -2186,6 +2378,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:20:00",
       end_secs: 1200.49,
       speaker_name: "Patrick",
+      id: 188,
       start_secs: 1185.149,
     },
     {
@@ -2198,6 +2391,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:20:06",
       end_secs: 1206.92,
       speaker_name: "Charlie",
+      id: 189,
       start_secs: 1201.759,
     },
     {
@@ -2210,6 +2404,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:20:16",
       end_secs: 1216.59,
       speaker_name: "Charlie",
+      id: 190,
       start_secs: 1207.35,
     },
     {
@@ -2222,6 +2417,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:20:21",
       end_secs: 1221.3,
       speaker_name: "Charlie",
+      id: 191,
       start_secs: 1217.07,
     },
     {
@@ -2233,6 +2429,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:20:24",
       end_secs: 1224.71,
       speaker_name: "Charlie",
+      id: 192,
       start_secs: 1221.53,
     },
     {
@@ -2244,6 +2441,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:20:28",
       end_secs: 1228.21,
       speaker_name: "Charlie",
+      id: 193,
       start_secs: 1225.08,
     },
     {
@@ -2256,6 +2454,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:20:36",
       end_secs: 1236.91,
       speaker_name: "Charlie",
+      id: 194,
       start_secs: 1228.57,
     },
     {
@@ -2268,6 +2467,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:20:43",
       end_secs: 1243.5,
       speaker_name: "Charlie",
+      id: 195,
       start_secs: 1237.42,
     },
     {
@@ -2280,6 +2480,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:20:55",
       end_secs: 1255.36,
       speaker_name: "Charlie",
+      id: 196,
       start_secs: 1243.73,
     },
     {
@@ -2292,6 +2493,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:21:07",
       end_secs: 1267.629,
       speaker_name: "Charlie",
+      id: 197,
       start_secs: 1255.78,
     },
     {
@@ -2304,6 +2506,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:21:14",
       end_secs: 1274.639,
       speaker_name: "Charlie",
+      id: 198,
       start_secs: 1268.24,
     },
     {
@@ -2315,6 +2518,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:21:16",
       end_secs: 1276.28,
       speaker_name: "Charlie",
+      id: 199,
       start_secs: 1274.82,
     },
     {
@@ -2327,6 +2531,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:21:22",
       end_secs: 1282.68,
       speaker_name: "Charlie",
+      id: 200,
       start_secs: 1276.389,
     },
     {
@@ -2338,6 +2543,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:21:24",
       end_secs: 1284.88,
       speaker_name: "Charlie",
+      id: 201,
       start_secs: 1282.8,
     },
     {
@@ -2350,6 +2556,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:21:42",
       end_secs: 1302.55,
       speaker_name: "Charlie",
+      id: 202,
       start_secs: 1285.21,
     },
     {
@@ -2362,6 +2569,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:21:52",
       end_secs: 1312.5,
       speaker_name: "Charlie",
+      id: 203,
       start_secs: 1303.02,
     },
     {
@@ -2374,6 +2582,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:21:58",
       end_secs: 1318.55,
       speaker_name: "Charlie",
+      id: 204,
       start_secs: 1312.5,
     },
     {
@@ -2385,6 +2594,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:22:02",
       end_secs: 1322.949,
       speaker_name: "Charlie",
+      id: 205,
       start_secs: 1318.81,
     },
     {
@@ -2397,6 +2607,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:22:09",
       end_secs: 1329.319,
       speaker_name: "Charlie",
+      id: 206,
       start_secs: 1322.949,
     },
     {
@@ -2409,6 +2620,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:22:14",
       end_secs: 1334.83,
       speaker_name: "Charlie",
+      id: 207,
       start_secs: 1329.509,
     },
     {
@@ -2421,6 +2633,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:22:23",
       end_secs: 1343.76,
       speaker_name: "Charlie",
+      id: 208,
       start_secs: 1335.02,
     },
     {
@@ -2433,6 +2646,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:22:31",
       end_secs: 1351.48,
       speaker_name: "Charlie",
+      id: 209,
       start_secs: 1344.139,
     },
     {
@@ -2444,6 +2658,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:22:35",
       end_secs: 1355.02,
       speaker_name: "Charlie",
+      id: 210,
       start_secs: 1352.67,
     },
     {
@@ -2456,6 +2671,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:22:47",
       end_secs: 1367.42,
       speaker_name: "Charlie",
+      id: 211,
       start_secs: 1355.22,
     },
     {
@@ -2468,6 +2684,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:22:53",
       end_secs: 1373.22,
       speaker_name: "Charlie",
+      id: 212,
       start_secs: 1367.639,
     },
     {
@@ -2480,6 +2697,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:23:04",
       end_secs: 1384.749,
       speaker_name: "Charlie",
+      id: 213,
       start_secs: 1373.55,
     },
     {
@@ -2492,6 +2710,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:23:12",
       end_secs: 1392.6,
       speaker_name: "Patrick",
+      id: 214,
       start_secs: 1385.809,
     },
     {
@@ -2504,6 +2723,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:23:15",
       end_secs: 1395.73,
       speaker_name: "Patrick",
+      id: 215,
       start_secs: 1392.6,
     },
     {
@@ -2516,6 +2736,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:23:22",
       end_secs: 1402.249,
       speaker_name: "Patrick",
+      id: 216,
       start_secs: 1395.92,
     },
     {
@@ -2528,6 +2749,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:23:27",
       end_secs: 1407.96,
       speaker_name: "Patrick",
+      id: 217,
       start_secs: 1402.4,
     },
     {
@@ -2540,6 +2762,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:23:33",
       end_secs: 1413.695,
       speaker_name: "Charlie",
+      id: 218,
       start_secs: 1409.09,
     },
     {
@@ -2552,6 +2775,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:23:37",
       end_secs: 1417.039,
       speaker_name: "Charlie",
+      id: 219,
       start_secs: 1413.86,
     },
     {
@@ -2564,6 +2788,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:23:45",
       end_secs: 1425.8,
       speaker_name: "Charlie",
+      id: 220,
       start_secs: 1417.44,
     },
     {
@@ -2575,6 +2800,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:23:47",
       end_secs: 1427.09,
       speaker_name: "Patrick",
+      id: 221,
       start_secs: 1425.98,
     },
     {
@@ -2586,6 +2812,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:23:49",
       end_secs: 1429.399,
       speaker_name: "Charlie",
+      id: 222,
       start_secs: 1427.17,
     },
     {
@@ -2597,6 +2824,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:23:50",
       end_secs: 1430.59,
       speaker_name: "Charlie",
+      id: 223,
       start_secs: 1429.53,
     },
     {
@@ -2609,6 +2837,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:23:59",
       end_secs: 1439.29,
       speaker_name: "Charlie",
+      id: 224,
       start_secs: 1430.97,
     },
     {
@@ -2621,6 +2850,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:24:05",
       end_secs: 1445.56,
       speaker_name: "Charlie",
+      id: 225,
       start_secs: 1439.57,
     },
     {
@@ -2633,6 +2863,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:24:10",
       end_secs: 1450.58,
       speaker_name: "Charlie",
+      id: 226,
       start_secs: 1445.77,
     },
     {
@@ -2645,6 +2876,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:24:16",
       end_secs: 1456.78,
       speaker_name: "Charlie",
+      id: 227,
       start_secs: 1451.03,
     },
     {
@@ -2657,6 +2889,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:24:25",
       end_secs: 1465.36,
       speaker_name: "Charlie",
+      id: 228,
       start_secs: 1457.3,
     },
     {
@@ -2668,6 +2901,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:24:26",
       end_secs: 1466.53,
       speaker_name: "Charlie",
+      id: 229,
       start_secs: 1465.78,
     },
     {
@@ -2680,6 +2914,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:24:34",
       end_secs: 1474.28,
       speaker_name: "Charlie",
+      id: 230,
       start_secs: 1466.71,
     },
     {
@@ -2691,6 +2926,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:24:36",
       end_secs: 1476.209,
       speaker_name: "Charlie",
+      id: 231,
       start_secs: 1474.28,
     },
     {
@@ -2702,6 +2938,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:24:37",
       end_secs: 1477.99,
       speaker_name: "Charlie",
+      id: 232,
       start_secs: 1476.41,
     },
     {
@@ -2713,6 +2950,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:24:39",
       end_secs: 1479.889,
       speaker_name: "Charlie",
+      id: 233,
       start_secs: 1477.99,
     },
     {
@@ -2724,6 +2962,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:24:42",
       end_secs: 1482.18,
       speaker_name: "Charlie",
+      id: 234,
       start_secs: 1479.899,
     },
     {
@@ -2736,6 +2975,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:24:46",
       end_secs: 1486.249,
       speaker_name: "Charlie",
+      id: 235,
       start_secs: 1482.43,
     },
     {
@@ -2748,6 +2988,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:24:51",
       end_secs: 1491.369,
       speaker_name: "Charlie",
+      id: 236,
       start_secs: 1486.86,
     },
     {
@@ -2759,6 +3000,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:24:53",
       end_secs: 1493.6,
       speaker_name: "Charlie",
+      id: 237,
       start_secs: 1491.63,
     },
     {
@@ -2771,6 +3013,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:24:59",
       end_secs: 1499.33,
       speaker_name: "Charlie",
+      id: 238,
       start_secs: 1493.6,
     },
     {
@@ -2782,6 +3025,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:25:02",
       end_secs: 1502.22,
       speaker_name: "Charlie",
+      id: 239,
       start_secs: 1499.56,
     },
     {
@@ -2794,6 +3038,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:25:07",
       end_secs: 1507.07,
       speaker_name: "Charlie",
+      id: 240,
       start_secs: 1502.47,
     },
     {
@@ -2805,6 +3050,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:25:09",
       end_secs: 1509.21,
       speaker_name: "Charlie",
+      id: 241,
       start_secs: 1507.349,
     },
     {
@@ -2817,6 +3063,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:25:22",
       end_secs: 1522.14,
       speaker_name: "Charlie",
+      id: 242,
       start_secs: 1509.389,
     },
     {
@@ -2828,6 +3075,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:25:24",
       end_secs: 1524.439,
       speaker_name: "Charlie",
+      id: 243,
       start_secs: 1522.32,
     },
     {
@@ -2839,6 +3087,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:25:26",
       end_secs: 1526.225,
       speaker_name: "Charlie",
+      id: 244,
       start_secs: 1524.439,
     },
     {
@@ -2850,6 +3099,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:25:26",
       end_secs: 1526.563,
       speaker_name: "Charlie",
+      id: 245,
       start_secs: 1526.225,
     },
     {
@@ -2861,6 +3111,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:25:27",
       end_secs: 1527.127,
       speaker_name: "Charlie",
+      id: 246,
       start_secs: 1526.563,
     },
     {
@@ -2873,6 +3124,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:25:38",
       end_secs: 1538.22,
       speaker_name: "Patrick",
+      id: 247,
       start_secs: 1527.24,
     },
     {
@@ -2885,6 +3137,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:25:45",
       end_secs: 1545.56,
       speaker_name: "Patrick",
+      id: 248,
       start_secs: 1538.23,
     },
     {
@@ -2897,6 +3150,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:25:50",
       end_secs: 1550.92,
       speaker_name: "Patrick",
+      id: 249,
       start_secs: 1545.759,
     },
     {
@@ -2908,6 +3162,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:25:53",
       end_secs: 1553.889,
       speaker_name: "Charlie",
+      id: 250,
       start_secs: 1551.75,
     },
     {
@@ -2920,6 +3175,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:26:04",
       end_secs: 1564.599,
       speaker_name: "Charlie",
+      id: 251,
       start_secs: 1554.01,
     },
     {
@@ -2932,6 +3188,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:26:13",
       end_secs: 1573.3,
       speaker_name: "Charlie",
+      id: 252,
       start_secs: 1564.949,
     },
     {
@@ -2944,6 +3201,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:26:24",
       end_secs: 1584.25,
       speaker_name: "Charlie",
+      id: 253,
       start_secs: 1573.61,
     },
     {
@@ -2955,6 +3213,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:26:26",
       end_secs: 1586.54,
       speaker_name: "Charlie",
+      id: 254,
       start_secs: 1584.4,
     },
     {
@@ -2967,6 +3226,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:26:35",
       end_secs: 1595.77,
       speaker_name: "Charlie",
+      id: 255,
       start_secs: 1586.84,
     },
     {
@@ -2978,6 +3238,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:26:36",
       end_secs: 1596.79,
       speaker_name: "Charlie",
+      id: 256,
       start_secs: 1596.23,
     },
     {
@@ -2987,7 +3248,9 @@ export const transcript_songhurst = {
         "“I'm not sure you can build trillion-dollar market cap companies without that high trust culture.”",
       end_hhmmss: "00:26:37",
       end_secs: 1597.1,
+      id: 257,
       start_secs: 1596.79,
+      liked: true,
     },
     {
       kind: "spoken",
@@ -2999,6 +3262,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:26:41",
       end_secs: 1601.159,
       speaker_name: "Charlie",
+      id: 258,
       start_secs: 1597.1,
     },
     {
@@ -3011,6 +3275,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:26:45",
       end_secs: 1605.13,
       speaker_name: "Charlie",
+      id: 259,
       start_secs: 1601.379,
     },
     {
@@ -3022,6 +3287,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:26:48",
       end_secs: 1608.59,
       speaker_name: "Charlie",
+      id: 260,
       start_secs: 1605.51,
     },
     {
@@ -3034,6 +3300,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:26:54",
       end_secs: 1614.77,
       speaker_name: "Charlie",
+      id: 261,
       start_secs: 1608.89,
     },
     {
@@ -3045,6 +3312,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:26:59",
       end_secs: 1619.569,
       speaker_name: "Charlie",
+      id: 262,
       start_secs: 1615.04,
     },
     {
@@ -3057,6 +3325,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:27:08",
       end_secs: 1628.03,
       speaker_name: "Charlie",
+      id: 263,
       start_secs: 1619.569,
     },
     {
@@ -3069,6 +3338,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:27:16",
       end_secs: 1636.49,
       speaker_name: "Charlie",
+      id: 264,
       start_secs: 1628.3,
     },
     {
@@ -3081,30 +3351,22 @@ export const transcript_songhurst = {
       end_hhmmss: "00:27:22",
       end_secs: 1642.94,
       speaker_name: "Charlie",
+      id: 265,
       start_secs: 1636.93,
     },
     {
       kind: "spoken",
       speaker_num: 2,
       start_hhmmss: "00:27:23",
-      text: "I think if you don't have it.",
-      starts_new_paragraph: "false",
-      end_hhmmss: "00:27:24",
-      end_secs: 1644.639,
-      speaker_name: "Charlie",
-      start_secs: 1643.18,
-    },
-    {
-      kind: "spoken",
-      speaker_num: 2,
-      start_hhmmss: "00:27:24",
       text:
-        "You end up building something with a billion dollars and then arguing over how to sell it or how to optimize it.",
+        "I think if you don't have it, you end up building something with a billion dollars and then arguing over how to sell it or how to optimize it.",
       starts_new_paragraph: "false",
       end_hhmmss: "00:27:31",
       end_secs: 1651.29,
       speaker_name: "Charlie",
+      id: 267,
       start_secs: 1644.94,
+      liked: true,
     },
     {
       kind: "spoken",
@@ -3116,6 +3378,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:27:39",
       end_secs: 1659.169,
       speaker_name: "Charlie",
+      id: 268,
       start_secs: 1651.66,
     },
     {
@@ -3128,6 +3391,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:27:52",
       end_secs: 1672.02,
       speaker_name: "Charlie",
+      id: 269,
       start_secs: 1659.51,
     },
     {
@@ -3140,6 +3404,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:27:59",
       end_secs: 1679.54,
       speaker_name: "Charlie",
+      id: 270,
       start_secs: 1672.25,
     },
     {
@@ -3152,6 +3417,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:28:03",
       end_secs: 1683.159,
       speaker_name: "Charlie",
+      id: 271,
       start_secs: 1679.54,
     },
     {
@@ -3164,6 +3430,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:28:13",
       end_secs: 1693.419,
       speaker_name: "Charlie",
+      id: 272,
       start_secs: 1683.309,
     },
     {
@@ -3176,6 +3443,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:28:18",
       end_secs: 1698.47,
       speaker_name: "Charlie",
+      id: 273,
       start_secs: 1693.62,
     },
     {
@@ -3187,6 +3455,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:28:20",
       end_secs: 1700.159,
       speaker_name: "Charlie",
+      id: 274,
       start_secs: 1698.71,
     },
     {
@@ -3199,6 +3468,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:28:36",
       end_secs: 1716.09,
       speaker_name: "Charlie",
+      id: 275,
       start_secs: 1700.45,
     },
     {
@@ -3210,6 +3480,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:28:37",
       end_secs: 1717.27,
       speaker_name: "Charlie",
+      id: 276,
       start_secs: 1716.33,
     },
     {
@@ -3222,6 +3493,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:28:41",
       end_secs: 1721.04,
       speaker_name: "Charlie",
+      id: 277,
       start_secs: 1717.34,
     },
     {
@@ -3234,6 +3506,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:28:46",
       end_secs: 1726.719,
       speaker_name: "Charlie",
+      id: 278,
       start_secs: 1721.32,
     },
     {
@@ -3246,6 +3519,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:28:50",
       end_secs: 1730.3,
       speaker_name: "Charlie",
+      id: 279,
       start_secs: 1726.949,
     },
     {
@@ -3258,7 +3532,9 @@ export const transcript_songhurst = {
       end_hhmmss: "00:29:06",
       end_secs: 1746.459,
       speaker_name: "Charlie",
+      id: 280,
       start_secs: 1730.3,
+      liked: true,
     },
     {
       kind: "spoken",
@@ -3270,7 +3546,9 @@ export const transcript_songhurst = {
       end_hhmmss: "00:29:13",
       end_secs: 1753.47,
       speaker_name: "Charlie",
+      id: 281,
       start_secs: 1746.66,
+      liked: true,
     },
     {
       kind: "spoken",
@@ -3281,6 +3559,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:29:16",
       end_secs: 1756.163,
       speaker_name: "Charlie",
+      id: 282,
       start_secs: 1753.77,
     },
     {
@@ -3293,7 +3572,9 @@ export const transcript_songhurst = {
       end_hhmmss: "00:29:21",
       end_secs: 1761.67,
       speaker_name: "Charlie",
+      id: 283,
       start_secs: 1756.163,
+      liked: true,
     },
     {
       kind: "spoken",
@@ -3304,6 +3585,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:29:23",
       end_secs: 1763.85,
       speaker_name: "Charlie",
+      id: 284,
       start_secs: 1761.79,
     },
     {
@@ -3315,6 +3597,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:29:25",
       end_secs: 1765.82,
       speaker_name: "Charlie",
+      id: 285,
       start_secs: 1763.91,
     },
     {
@@ -3327,6 +3610,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:29:34",
       end_secs: 1774.616,
       speaker_name: "Charlie",
+      id: 286,
       start_secs: 1765.94,
     },
     {
@@ -3339,6 +3623,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:29:43",
       end_secs: 1783.675,
       speaker_name: "Charlie",
+      id: 287,
       start_secs: 1774.849,
     },
     {
@@ -3351,6 +3636,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:29:48",
       end_secs: 1788.4,
       speaker_name: "Charlie",
+      id: 288,
       start_secs: 1783.675,
     },
     {
@@ -3362,6 +3648,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:29:51",
       end_secs: 1791.49,
       speaker_name: "Charlie",
+      id: 289,
       start_secs: 1788.79,
     },
     {
@@ -3373,6 +3660,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:29:55",
       end_secs: 1795.77,
       speaker_name: "Charlie",
+      id: 290,
       start_secs: 1792.48,
     },
     {
@@ -3385,6 +3673,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:30:10",
       end_secs: 1810.429,
       speaker_name: "Charlie",
+      id: 291,
       start_secs: 1795.77,
     },
     {
@@ -3397,7 +3686,9 @@ export const transcript_songhurst = {
       end_hhmmss: "00:30:15",
       end_secs: 1815.15,
       speaker_name: "Charlie",
+      id: 292,
       start_secs: 1810.59,
+      liked: true,
     },
     {
       kind: "spoken",
@@ -3409,7 +3700,9 @@ export const transcript_songhurst = {
       end_hhmmss: "00:30:26",
       end_secs: 1826.56,
       speaker_name: "Charlie",
+      id: 293,
       start_secs: 1815.28,
+      liked: true,
     },
     {
       kind: "spoken",
@@ -3421,6 +3714,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:30:31",
       end_secs: 1831.619,
       speaker_name: "Charlie",
+      id: 294,
       start_secs: 1826.56,
     },
     {
@@ -3433,15 +3727,29 @@ export const transcript_songhurst = {
       end_hhmmss: "00:30:37",
       end_secs: 1837.73,
       speaker_name: "Charlie",
+      id: 295,
       start_secs: 1831.79,
     },
     {
       kind: "section_title",
       start_hhmmss: "00:30:38",
-      text: "Qualitative vs Quantitative Approaches",
+      text: "Qualitative vs",
       end_hhmmss: "00:30:39",
       end_secs: 1839.16,
+      id: 296,
       start_secs: 1838.8,
+    },
+    {
+      kind: "spoken",
+      speaker_num: 2,
+      start_hhmmss: "00:30:39",
+      text: "Quantitative Approaches]",
+      starts_new_paragraph: "false",
+      end_hhmmss: "00:30:39",
+      end_secs: 1839.165,
+      speaker_name: "Charlie",
+      id: 297,
+      start_secs: 1839.16,
     },
     {
       kind: "spoken",
@@ -3453,6 +3761,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:30:46",
       end_secs: 1846.5,
       speaker_name: "Patrick",
+      id: 298,
       start_secs: 1839.165,
     },
     {
@@ -3465,6 +3774,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:30:59",
       end_secs: 1859.47,
       speaker_name: "Patrick",
+      id: 299,
       start_secs: 1846.69,
     },
     {
@@ -3477,6 +3787,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:31:04",
       end_secs: 1864.79,
       speaker_name: "Patrick",
+      id: 300,
       start_secs: 1859.57,
     },
     {
@@ -3489,6 +3800,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:31:08",
       end_secs: 1868.48,
       speaker_name: "Patrick",
+      id: 301,
       start_secs: 1864.79,
     },
     {
@@ -3501,6 +3813,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:31:26",
       end_secs: 1886.79,
       speaker_name: "Charlie",
+      id: 302,
       start_secs: 1868.48,
     },
     {
@@ -3512,6 +3825,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:31:29",
       end_secs: 1889.139,
       speaker_name: "Charlie",
+      id: 303,
       start_secs: 1887.15,
     },
     {
@@ -3523,6 +3837,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:31:31",
       end_secs: 1891.54,
       speaker_name: "Charlie",
+      id: 304,
       start_secs: 1889.209,
     },
     {
@@ -3535,6 +3850,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:31:45",
       end_secs: 1905.609,
       speaker_name: "Charlie",
+      id: 305,
       start_secs: 1891.67,
     },
     {
@@ -3547,6 +3863,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:31:49",
       end_secs: 1909.0,
       speaker_name: "Charlie",
+      id: 306,
       start_secs: 1905.609,
     },
     {
@@ -3559,6 +3876,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:31:54",
       end_secs: 1914.44,
       speaker_name: "Charlie",
+      id: 307,
       start_secs: 1909.63,
     },
     {
@@ -3570,6 +3888,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:31:58",
       end_secs: 1918.179,
       speaker_name: "Charlie",
+      id: 308,
       start_secs: 1915.03,
     },
     {
@@ -3582,6 +3901,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:32:11",
       end_secs: 1931.29,
       speaker_name: "Charlie",
+      id: 309,
       start_secs: 1918.46,
     },
     {
@@ -3594,6 +3914,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:32:17",
       end_secs: 1937.35,
       speaker_name: "Charlie",
+      id: 310,
       start_secs: 1931.49,
     },
     {
@@ -3606,6 +3927,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:32:30",
       end_secs: 1950.35,
       speaker_name: "Charlie",
+      id: 311,
       start_secs: 1937.98,
     },
     {
@@ -3618,6 +3940,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:32:41",
       end_secs: 1961.259,
       speaker_name: "Charlie",
+      id: 312,
       start_secs: 1950.76,
     },
     {
@@ -3629,6 +3952,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:32:41",
       end_secs: 1961.761,
       speaker_name: "Charlie",
+      id: 313,
       start_secs: 1961.43,
     },
     {
@@ -3640,6 +3964,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:32:46",
       end_secs: 1966.07,
       speaker_name: "Charlie",
+      id: 314,
       start_secs: 1961.761,
     },
     {
@@ -3651,6 +3976,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:32:48",
       end_secs: 1968.15,
       speaker_name: "Charlie",
+      id: 315,
       start_secs: 1966.57,
     },
     {
@@ -3663,6 +3989,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:32:54",
       end_secs: 1974.583,
       speaker_name: "Charlie",
+      id: 316,
       start_secs: 1968.36,
     },
     {
@@ -3674,6 +4001,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:32:55",
       end_secs: 1975.48,
       speaker_name: "Charlie",
+      id: 317,
       start_secs: 1974.583,
     },
     {
@@ -3686,6 +4014,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:32:59",
       end_secs: 1979.36,
       speaker_name: "Charlie",
+      id: 318,
       start_secs: 1975.719,
     },
     {
@@ -3697,6 +4026,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:33:02",
       end_secs: 1982.78,
       speaker_name: "Charlie",
+      id: 319,
       start_secs: 1979.53,
     },
     {
@@ -3709,6 +4039,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:33:10",
       end_secs: 1990.054,
       speaker_name: "Charlie",
+      id: 320,
       start_secs: 1983.04,
     },
     {
@@ -3721,6 +4052,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:33:18",
       end_secs: 1998.279,
       speaker_name: "Charlie",
+      id: 321,
       start_secs: 1990.054,
     },
     {
@@ -3733,6 +4065,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:33:24",
       end_secs: 2004.06,
       speaker_name: "Charlie",
+      id: 322,
       start_secs: 1998.279,
     },
     {
@@ -3745,6 +4078,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:33:31",
       end_secs: 2011.34,
       speaker_name: "Charlie",
+      id: 323,
       start_secs: 2004.31,
     },
     {
@@ -3756,6 +4090,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:33:34",
       end_secs: 2014.009,
       speaker_name: "Charlie",
+      id: 324,
       start_secs: 2011.57,
     },
     {
@@ -3768,6 +4103,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:33:39",
       end_secs: 2019.05,
       speaker_name: "Charlie",
+      id: 325,
       start_secs: 2014.279,
     },
     {
@@ -3780,6 +4116,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:33:42",
       end_secs: 2022.675,
       speaker_name: "Charlie",
+      id: 326,
       start_secs: 2019.35,
     },
     {
@@ -3792,6 +4129,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:33:45",
       end_secs: 2025.56,
       speaker_name: "Charlie",
+      id: 327,
       start_secs: 2022.675,
     },
     {
@@ -3804,6 +4142,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:33:52",
       end_secs: 2032.169,
       speaker_name: "Charlie",
+      id: 328,
       start_secs: 2025.78,
     },
     {
@@ -3816,6 +4155,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:34:02",
       end_secs: 2042.899,
       speaker_name: "Charlie",
+      id: 329,
       start_secs: 2032.459,
     },
     {
@@ -3828,6 +4168,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:34:07",
       end_secs: 2047.219,
       speaker_name: "Charlie",
+      id: 330,
       start_secs: 2043.03,
     },
     {
@@ -3840,6 +4181,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:34:13",
       end_secs: 2053.87,
       speaker_name: "Charlie",
+      id: 331,
       start_secs: 2047.82,
     },
     {
@@ -3852,6 +4194,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:34:18",
       end_secs: 2058.475,
       speaker_name: "Charlie",
+      id: 332,
       start_secs: 2054.1,
     },
     {
@@ -3863,6 +4206,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:34:23",
       end_secs: 2063.319,
       speaker_name: "Charlie",
+      id: 333,
       start_secs: 2058.82,
     },
     {
@@ -3875,6 +4219,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:34:30",
       end_secs: 2070.02,
       speaker_name: "Charlie",
+      id: 334,
       start_secs: 2063.489,
     },
     {
@@ -3887,6 +4232,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:34:35",
       end_secs: 2075.64,
       speaker_name: "Charlie",
+      id: 335,
       start_secs: 2070.109,
     },
     {
@@ -3899,6 +4245,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:34:41",
       end_secs: 2081.84,
       speaker_name: "Patrick",
+      id: 336,
       start_secs: 2076.16,
     },
     {
@@ -3910,6 +4257,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:34:45",
       end_secs: 2085.06,
       speaker_name: "Charlie",
+      id: 337,
       start_secs: 2082.58,
     },
     {
@@ -3921,6 +4269,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:34:47",
       end_secs: 2087.009,
       speaker_name: "Charlie",
+      id: 338,
       start_secs: 2085.67,
     },
     {
@@ -3932,6 +4281,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:34:49",
       end_secs: 2089.54,
       speaker_name: "Charlie",
+      id: 339,
       start_secs: 2087.219,
     },
     {
@@ -3944,6 +4294,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:34:55",
       end_secs: 2095.699,
       speaker_name: "Charlie",
+      id: 340,
       start_secs: 2089.76,
     },
     {
@@ -3956,6 +4307,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:35:02",
       end_secs: 2102.359,
       speaker_name: "Charlie",
+      id: 341,
       start_secs: 2095.71,
     },
     {
@@ -3968,6 +4320,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:35:06",
       end_secs: 2106.709,
       speaker_name: "Charlie",
+      id: 342,
       start_secs: 2102.559,
     },
     {
@@ -3980,6 +4333,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:35:16",
       end_secs: 2116.219,
       speaker_name: "Charlie",
+      id: 343,
       start_secs: 2106.9,
     },
     {
@@ -3992,6 +4346,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:35:29",
       end_secs: 2129.7,
       speaker_name: "Charlie",
+      id: 344,
       start_secs: 2116.219,
     },
     {
@@ -4004,6 +4359,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:35:50",
       end_secs: 2150.85,
       speaker_name: "Charlie",
+      id: 345,
       start_secs: 2129.7,
     },
     {
@@ -4016,6 +4372,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:35:56",
       end_secs: 2156.29,
       speaker_name: "Charlie",
+      id: 346,
       start_secs: 2151.01,
     },
     {
@@ -4028,6 +4385,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:35:58",
       end_secs: 2158.866,
       speaker_name: "Charlie",
+      id: 347,
       start_secs: 2156.29,
     },
     {
@@ -4040,6 +4398,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:36:05",
       end_secs: 2165.041,
       speaker_name: "Charlie",
+      id: 348,
       start_secs: 2158.866,
     },
     {
@@ -4048,6 +4407,7 @@ export const transcript_songhurst = {
       text: "Highly boring, highly complex",
       end_hhmmss: "00:36:05",
       end_secs: 2165.446,
+      id: 349,
       start_secs: 2165.041,
     },
     {
@@ -4055,11 +4415,12 @@ export const transcript_songhurst = {
       speaker_num: 1,
       start_hhmmss: "00:36:05",
       text:
-        "I asked once a group of people, what if any specific sector or category of companies they would invest in, if they could only choose one for the rest of their career.",
+        "Patrick [00:36:05]: I asked once a group of people, what if any specific sector or category of companies they would invest in, if they could only choose one for the rest of their career.",
       starts_new_paragraph: "true",
       end_hhmmss: "00:36:13",
       end_secs: 2173.58,
       speaker_name: "Patrick",
+      id: 350,
       start_secs: 2165.446,
     },
     {
@@ -4072,6 +4433,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:36:20",
       end_secs: 2180.65,
       speaker_name: "Patrick",
+      id: 351,
       start_secs: 2173.719,
     },
     {
@@ -4079,11 +4441,12 @@ export const transcript_songhurst = {
       speaker_num: 2,
       start_hhmmss: "00:36:20",
       text:
-        "I'll go for, if you pick two axes, one co-axis is boredom and the other is complexity.",
+        "Charlie [00:36:21]: I'll go for, if you pick two axes, one co-axis is boredom and the other is complexity.",
       starts_new_paragraph: "true",
       end_hhmmss: "00:36:27",
       end_secs: 2187.19,
       speaker_name: "Charlie",
+      id: 352,
       start_secs: 2180.65,
     },
     {
@@ -4095,6 +4458,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:36:29",
       end_secs: 2189.7,
       speaker_name: "Charlie",
+      id: 353,
       start_secs: 2187.38,
     },
     {
@@ -4107,6 +4471,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:36:37",
       end_secs: 2197.47,
       speaker_name: "Charlie",
+      id: 354,
       start_secs: 2189.809,
     },
     {
@@ -4118,6 +4483,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:36:39",
       end_secs: 2199.22,
       speaker_name: "Charlie",
+      id: 355,
       start_secs: 2197.68,
     },
     {
@@ -4130,6 +4496,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:36:44",
       end_secs: 2204.259,
       speaker_name: "Charlie",
+      id: 356,
       start_secs: 2199.229,
     },
     {
@@ -4142,6 +4509,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:36:47",
       end_secs: 2207.119,
       speaker_name: "Charlie",
+      id: 357,
       start_secs: 2204.41,
     },
     {
@@ -4153,6 +4521,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:36:48",
       end_secs: 2208.339,
       speaker_name: "Charlie",
+      id: 358,
       start_secs: 2207.119,
     },
     {
@@ -4165,6 +4534,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:36:51",
       end_secs: 2211.979,
       speaker_name: "Charlie",
+      id: 359,
       start_secs: 2208.339,
     },
     {
@@ -4176,6 +4546,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:36:54",
       end_secs: 2214.84,
       speaker_name: "Charlie",
+      id: 360,
       start_secs: 2212.299,
     },
     {
@@ -4188,6 +4559,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:37:01",
       end_secs: 2221.16,
       speaker_name: "Charlie",
+      id: 361,
       start_secs: 2215.03,
     },
     {
@@ -4200,6 +4572,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:37:12",
       end_secs: 2232.269,
       speaker_name: "Charlie",
+      id: 362,
       start_secs: 2221.21,
     },
     {
@@ -4212,6 +4585,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:37:18",
       end_secs: 2238.227,
       speaker_name: "Charlie",
+      id: 363,
       start_secs: 2232.38,
     },
     {
@@ -4224,6 +4598,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:37:21",
       end_secs: 2241.66,
       speaker_name: "Charlie",
+      id: 364,
       start_secs: 2238.227,
     },
     {
@@ -4236,6 +4611,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:37:31",
       end_secs: 2251.91,
       speaker_name: "Patrick",
+      id: 365,
       start_secs: 2241.66,
     },
     {
@@ -4247,6 +4623,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:37:32",
       end_secs: 2252.81,
       speaker_name: "Charlie",
+      id: 366,
       start_secs: 2251.91,
     },
     {
@@ -4259,6 +4636,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:37:41",
       end_secs: 2261.72,
       speaker_name: "Charlie",
+      id: 367,
       start_secs: 2252.81,
     },
     {
@@ -4271,6 +4649,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:37:51",
       end_secs: 2271.5,
       speaker_name: "Charlie",
+      id: 368,
       start_secs: 2261.91,
     },
     {
@@ -4283,6 +4662,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:37:56",
       end_secs: 2276.649,
       speaker_name: "Charlie",
+      id: 369,
       start_secs: 2271.81,
     },
     {
@@ -4294,6 +4674,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:38:03",
       end_secs: 2283.14,
       speaker_name: "Charlie",
+      id: 370,
       start_secs: 2277.25,
     },
     {
@@ -4306,6 +4687,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:38:10",
       end_secs: 2290.95,
       speaker_name: "Charlie",
+      id: 371,
       start_secs: 2283.14,
     },
     {
@@ -4317,6 +4699,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:38:14",
       end_secs: 2294.12,
       speaker_name: "Charlie",
+      id: 372,
       start_secs: 2291.17,
     },
     {
@@ -4329,6 +4712,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:38:23",
       end_secs: 2303.75,
       speaker_name: "Charlie",
+      id: 373,
       start_secs: 2294.24,
     },
     {
@@ -4341,6 +4725,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:38:27",
       end_secs: 2307.649,
       speaker_name: "Charlie",
+      id: 374,
       start_secs: 2303.94,
     },
     {
@@ -4353,6 +4738,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:38:31",
       end_secs: 2311.6,
       speaker_name: "Patrick",
+      id: 375,
       start_secs: 2307.649,
     },
     {
@@ -4364,6 +4750,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:38:33",
       end_secs: 2313.799,
       speaker_name: "Patrick",
+      id: 376,
       start_secs: 2311.61,
     },
     {
@@ -4376,6 +4763,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:38:37",
       end_secs: 2317.66,
       speaker_name: "Charlie",
+      id: 377,
       start_secs: 2314.789,
     },
     {
@@ -4387,6 +4775,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:38:41",
       end_secs: 2321.64,
       speaker_name: "Charlie",
+      id: 378,
       start_secs: 2317.719,
     },
     {
@@ -4399,6 +4788,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:38:45",
       end_secs: 2325.36,
       speaker_name: "Charlie",
+      id: 379,
       start_secs: 2321.969,
     },
     {
@@ -4411,6 +4801,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:38:51",
       end_secs: 2331.96,
       speaker_name: "Charlie",
+      id: 380,
       start_secs: 2325.43,
     },
     {
@@ -4423,6 +4814,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:38:56",
       end_secs: 2336.79,
       speaker_name: "Charlie",
+      id: 381,
       start_secs: 2332.12,
     },
     {
@@ -4435,6 +4827,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:39:01",
       end_secs: 2341.81,
       speaker_name: "Charlie",
+      id: 382,
       start_secs: 2337.049,
     },
     {
@@ -4446,6 +4839,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:39:06",
       end_secs: 2346.359,
       speaker_name: "Charlie",
+      id: 383,
       start_secs: 2342.42,
     },
     {
@@ -4457,6 +4851,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:39:08",
       end_secs: 2348.009,
       speaker_name: "Charlie",
+      id: 384,
       start_secs: 2346.51,
     },
     {
@@ -4469,6 +4864,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:39:13",
       end_secs: 2353.25,
       speaker_name: "Charlie",
+      id: 385,
       start_secs: 2348.21,
     },
     {
@@ -4481,6 +4877,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:39:21",
       end_secs: 2361.55,
       speaker_name: "Charlie",
+      id: 386,
       start_secs: 2353.469,
     },
     {
@@ -4492,6 +4889,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:39:25",
       end_secs: 2365.07,
       speaker_name: "Charlie",
+      id: 387,
       start_secs: 2361.55,
     },
     {
@@ -4503,6 +4901,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:39:27",
       end_secs: 2367.374,
       speaker_name: "Charlie",
+      id: 388,
       start_secs: 2365.35,
     },
     {
@@ -4515,6 +4914,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:39:32",
       end_secs: 2372.77,
       speaker_name: "Patrick",
+      id: 389,
       start_secs: 2367.374,
     },
     {
@@ -4527,6 +4927,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:39:37",
       end_secs: 2377.5,
       speaker_name: "Patrick",
+      id: 390,
       start_secs: 2372.889,
     },
     {
@@ -4539,6 +4940,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:39:43",
       end_secs: 2383.46,
       speaker_name: "Charlie",
+      id: 391,
       start_secs: 2377.5,
     },
     {
@@ -4550,6 +4952,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:39:46",
       end_secs: 2386.35,
       speaker_name: "Charlie",
+      id: 392,
       start_secs: 2383.64,
     },
     {
@@ -4561,6 +4964,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:39:49",
       end_secs: 2389.169,
       speaker_name: "Charlie",
+      id: 393,
       start_secs: 2386.55,
     },
     {
@@ -4573,6 +4977,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:39:56",
       end_secs: 2396.66,
       speaker_name: "Charlie",
+      id: 394,
       start_secs: 2389.34,
     },
     {
@@ -4585,6 +4990,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:40:02",
       end_secs: 2402.52,
       speaker_name: "Charlie",
+      id: 395,
       start_secs: 2396.85,
     },
     {
@@ -4597,6 +5003,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:40:12",
       end_secs: 2412.885,
       speaker_name: "Charlie",
+      id: 396,
       start_secs: 2402.76,
     },
     {
@@ -4609,6 +5016,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:40:18",
       end_secs: 2418.79,
       speaker_name: "Charlie",
+      id: 397,
       start_secs: 2413.06,
     },
     {
@@ -4621,6 +5029,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:40:21",
       end_secs: 2421.769,
       speaker_name: "Charlie",
+      id: 398,
       start_secs: 2419.08,
     },
     {
@@ -4633,6 +5042,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:40:35",
       end_secs: 2435.129,
       speaker_name: "Charlie",
+      id: 399,
       start_secs: 2421.929,
     },
     {
@@ -4645,6 +5055,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:40:39",
       end_secs: 2439.92,
       speaker_name: "Charlie",
+      id: 400,
       start_secs: 2435.3,
     },
     {
@@ -4657,6 +5068,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:40:53",
       end_secs: 2453.359,
       speaker_name: "Charlie",
+      id: 401,
       start_secs: 2440.19,
     },
     {
@@ -4669,6 +5081,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:41:00",
       end_secs: 2460.56,
       speaker_name: "Charlie",
+      id: 402,
       start_secs: 2453.67,
     },
     {
@@ -4681,6 +5094,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:41:08",
       end_secs: 2468.29,
       speaker_name: "Charlie",
+      id: 403,
       start_secs: 2460.69,
     },
     {
@@ -4693,6 +5107,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:41:16",
       end_secs: 2476.029,
       speaker_name: "Charlie",
+      id: 404,
       start_secs: 2468.44,
     },
     {
@@ -4704,6 +5119,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:41:18",
       end_secs: 2478.609,
       speaker_name: "Charlie",
+      id: 405,
       start_secs: 2476.17,
     },
     {
@@ -4716,6 +5132,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:41:26",
       end_secs: 2486.24,
       speaker_name: "Charlie",
+      id: 406,
       start_secs: 2478.719,
     },
     {
@@ -4727,6 +5144,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:41:28",
       end_secs: 2488.1,
       speaker_name: "Charlie",
+      id: 407,
       start_secs: 2486.4,
     },
     {
@@ -4735,6 +5153,7 @@ export const transcript_songhurst = {
       text: "Alien Investors",
       end_hhmmss: "00:41:28",
       end_secs: 2488.52,
+      id: 408,
       start_secs: 2488.1,
     },
     {
@@ -4747,6 +5166,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:41:33",
       end_secs: 2493.57,
       speaker_name: "Patrick",
+      id: 409,
       start_secs: 2488.52,
     },
     {
@@ -4759,6 +5179,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:41:40",
       end_secs: 2500.04,
       speaker_name: "Patrick",
+      id: 410,
       start_secs: 2493.809,
     },
     {
@@ -4771,6 +5192,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:41:44",
       end_secs: 2504.08,
       speaker_name: "Patrick",
+      id: 411,
       start_secs: 2500.07,
     },
     {
@@ -4782,6 +5204,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:41:46",
       end_secs: 2506.47,
       speaker_name: "Patrick",
+      id: 412,
       start_secs: 2504.2,
     },
     {
@@ -4793,6 +5216,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:41:48",
       end_secs: 2508.98,
       speaker_name: "Charlie",
+      id: 413,
       start_secs: 2507.15,
     },
     {
@@ -4805,6 +5229,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:41:53",
       end_secs: 2513.27,
       speaker_name: "Charlie",
+      id: 414,
       start_secs: 2509.07,
     },
     {
@@ -4817,6 +5242,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:42:11",
       end_secs: 2531.379,
       speaker_name: "Charlie",
+      id: 415,
       start_secs: 2513.46,
     },
     {
@@ -4829,6 +5255,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:42:16",
       end_secs: 2536.0,
       speaker_name: "Charlie",
+      id: 416,
       start_secs: 2531.46,
     },
     {
@@ -4840,6 +5267,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:42:17",
       end_secs: 2537.649,
       speaker_name: "Charlie",
+      id: 417,
       start_secs: 2536.18,
     },
     {
@@ -4852,6 +5280,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:42:30",
       end_secs: 2550.46,
       speaker_name: "Charlie",
+      id: 418,
       start_secs: 2537.82,
     },
     {
@@ -4863,6 +5292,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:42:32",
       end_secs: 2552.46,
       speaker_name: "Charlie",
+      id: 419,
       start_secs: 2550.62,
     },
     {
@@ -4875,6 +5305,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:42:37",
       end_secs: 2557.02,
       speaker_name: "Charlie",
+      id: 420,
       start_secs: 2552.46,
     },
     {
@@ -4887,6 +5318,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:42:42",
       end_secs: 2562.74,
       speaker_name: "Charlie",
+      id: 421,
       start_secs: 2557.02,
     },
     {
@@ -4899,6 +5331,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:42:50",
       end_secs: 2570.06,
       speaker_name: "Charlie",
+      id: 422,
       start_secs: 2562.89,
     },
     {
@@ -4910,6 +5343,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:42:52",
       end_secs: 2572.27,
       speaker_name: "Charlie",
+      id: 423,
       start_secs: 2570.06,
     },
     {
@@ -4921,6 +5355,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:42:54",
       end_secs: 2574.229,
       speaker_name: "Charlie",
+      id: 424,
       start_secs: 2572.42,
     },
     {
@@ -4932,6 +5367,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:42:55",
       end_secs: 2575.63,
       speaker_name: "Charlie",
+      id: 425,
       start_secs: 2574.359,
     },
     {
@@ -4940,6 +5376,7 @@ export const transcript_songhurst = {
       text: "COVID Impacts",
       end_hhmmss: "00:42:56",
       end_secs: 2576.154,
+      id: 426,
       start_secs: 2575.63,
     },
     {
@@ -4952,6 +5389,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:43:06",
       end_secs: 2586.99,
       speaker_name: "Patrick",
+      id: 427,
       start_secs: 2576.154,
     },
     {
@@ -4964,6 +5402,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:43:15",
       end_secs: 2595.279,
       speaker_name: "Patrick",
+      id: 428,
       start_secs: 2587.12,
     },
     {
@@ -4975,6 +5414,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:43:17",
       end_secs: 2597.39,
       speaker_name: "Charlie",
+      id: 429,
       start_secs: 2595.29,
     },
     {
@@ -4986,6 +5426,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:43:19",
       end_secs: 2599.16,
       speaker_name: "Charlie",
+      id: 430,
       start_secs: 2597.4,
     },
     {
@@ -4998,6 +5439,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:43:24",
       end_secs: 2604.31,
       speaker_name: "Charlie",
+      id: 431,
       start_secs: 2599.22,
     },
     {
@@ -5010,6 +5452,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:43:33",
       end_secs: 2613.67,
       speaker_name: "Charlie",
+      id: 432,
       start_secs: 2604.54,
     },
     {
@@ -5022,6 +5465,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:43:38",
       end_secs: 2618.13,
       speaker_name: "Charlie",
+      id: 433,
       start_secs: 2613.78,
     },
     {
@@ -5034,6 +5478,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:43:44",
       end_secs: 2624.2,
       speaker_name: "Charlie",
+      id: 434,
       start_secs: 2618.349,
     },
     {
@@ -5046,6 +5491,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:43:49",
       end_secs: 2629.72,
       speaker_name: "Charlie",
+      id: 435,
       start_secs: 2624.2,
     },
     {
@@ -5057,6 +5503,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:43:51",
       end_secs: 2631.41,
       speaker_name: "Charlie",
+      id: 436,
       start_secs: 2629.85,
     },
     {
@@ -5069,6 +5516,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:43:56",
       end_secs: 2636.189,
       speaker_name: "Charlie",
+      id: 437,
       start_secs: 2631.47,
     },
     {
@@ -5080,6 +5528,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:43:57",
       end_secs: 2637.81,
       speaker_name: "Charlie",
+      id: 438,
       start_secs: 2636.46,
     },
     {
@@ -5092,6 +5541,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:44:06",
       end_secs: 2646.689,
       speaker_name: "Charlie",
+      id: 439,
       start_secs: 2637.86,
     },
     {
@@ -5103,6 +5553,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:44:09",
       end_secs: 2649.8,
       speaker_name: "Charlie",
+      id: 440,
       start_secs: 2647.079,
     },
     {
@@ -5114,6 +5565,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:44:12",
       end_secs: 2652.32,
       speaker_name: "Charlie",
+      id: 441,
       start_secs: 2649.88,
     },
     {
@@ -5125,6 +5577,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:44:14",
       end_secs: 2654.86,
       speaker_name: "Charlie",
+      id: 442,
       start_secs: 2652.32,
     },
     {
@@ -5137,6 +5590,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:44:22",
       end_secs: 2662.11,
       speaker_name: "Charlie",
+      id: 443,
       start_secs: 2655.08,
     },
     {
@@ -5148,6 +5602,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:44:24",
       end_secs: 2664.29,
       speaker_name: "Charlie",
+      id: 444,
       start_secs: 2662.389,
     },
     {
@@ -5160,6 +5615,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:44:30",
       end_secs: 2670.826,
       speaker_name: "Charlie",
+      id: 445,
       start_secs: 2664.5,
     },
     {
@@ -5172,6 +5628,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:44:36",
       end_secs: 2676.86,
       speaker_name: "Charlie",
+      id: 446,
       start_secs: 2670.826,
     },
     {
@@ -5184,6 +5641,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:44:46",
       end_secs: 2686.47,
       speaker_name: "Charlie",
+      id: 447,
       start_secs: 2677.24,
     },
     {
@@ -5196,6 +5654,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:44:50",
       end_secs: 2690.52,
       speaker_name: "Charlie",
+      id: 448,
       start_secs: 2686.47,
     },
     {
@@ -5207,6 +5666,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:44:53",
       end_secs: 2693.36,
       speaker_name: "Charlie",
+      id: 449,
       start_secs: 2690.66,
     },
     {
@@ -5219,6 +5679,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:44:58",
       end_secs: 2698.15,
       speaker_name: "Charlie",
+      id: 450,
       start_secs: 2693.509,
     },
     {
@@ -5231,6 +5692,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:45:02",
       end_secs: 2702.525,
       speaker_name: "Charlie",
+      id: 451,
       start_secs: 2698.34,
     },
     {
@@ -5243,6 +5705,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:45:11",
       end_secs: 2711.46,
       speaker_name: "Charlie",
+      id: 452,
       start_secs: 2702.78,
     },
     {
@@ -5255,6 +5718,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:45:23",
       end_secs: 2723.86,
       speaker_name: "Charlie",
+      id: 453,
       start_secs: 2711.46,
     },
     {
@@ -5267,6 +5731,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:45:28",
       end_secs: 2728.8,
       speaker_name: "Charlie",
+      id: 454,
       start_secs: 2724.12,
     },
     {
@@ -5279,6 +5744,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:45:35",
       end_secs: 2735.409,
       speaker_name: "Charlie",
+      id: 455,
       start_secs: 2728.88,
     },
     {
@@ -5290,6 +5756,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:45:37",
       end_secs: 2737.2,
       speaker_name: "Charlie",
+      id: 456,
       start_secs: 2735.49,
     },
     {
@@ -5302,6 +5769,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:45:42",
       end_secs: 2742.65,
       speaker_name: "Charlie",
+      id: 457,
       start_secs: 2737.35,
     },
     {
@@ -5314,6 +5782,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:45:47",
       end_secs: 2747.29,
       speaker_name: "Charlie",
+      id: 458,
       start_secs: 2742.75,
     },
     {
@@ -5326,6 +5795,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:46:01",
       end_secs: 2761.21,
       speaker_name: "Charlie",
+      id: 459,
       start_secs: 2747.58,
     },
     {
@@ -5338,6 +5808,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:46:06",
       end_secs: 2766.81,
       speaker_name: "Charlie",
+      id: 460,
       start_secs: 2761.21,
     },
     {
@@ -5349,6 +5820,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:46:09",
       end_secs: 2769.78,
       speaker_name: "Charlie",
+      id: 461,
       start_secs: 2766.96,
     },
     {
@@ -5361,6 +5833,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:46:17",
       end_secs: 2777.779,
       speaker_name: "Charlie",
+      id: 462,
       start_secs: 2770.09,
     },
     {
@@ -5373,6 +5846,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:46:31",
       end_secs: 2791.569,
       speaker_name: "Charlie",
+      id: 463,
       start_secs: 2777.99,
     },
     {
@@ -5385,6 +5859,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:46:40",
       end_secs: 2800.24,
       speaker_name: "Charlie",
+      id: 464,
       start_secs: 2791.899,
     },
     {
@@ -5396,6 +5871,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:46:42",
       end_secs: 2802.77,
       speaker_name: "Charlie",
+      id: 465,
       start_secs: 2800.39,
     },
     {
@@ -5407,6 +5883,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:46:47",
       end_secs: 2807.09,
       speaker_name: "Charlie",
+      id: 466,
       start_secs: 2802.94,
     },
     {
@@ -5419,6 +5896,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:46:51",
       end_secs: 2811.79,
       speaker_name: "Charlie",
+      id: 467,
       start_secs: 2807.35,
     },
     {
@@ -5431,6 +5909,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:47:02",
       end_secs: 2822.029,
       speaker_name: "Charlie",
+      id: 468,
       start_secs: 2811.94,
     },
     {
@@ -5443,6 +5922,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:47:10",
       end_secs: 2830.27,
       speaker_name: "Charlie",
+      id: 469,
       start_secs: 2822.259,
     },
     {
@@ -5455,6 +5935,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:47:23",
       end_secs: 2843.009,
       speaker_name: "Charlie",
+      id: 470,
       start_secs: 2830.5,
     },
     {
@@ -5467,6 +5948,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:47:28",
       end_secs: 2848.13,
       speaker_name: "Charlie",
+      id: 471,
       start_secs: 2843.01,
     },
     {
@@ -5479,6 +5961,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:47:31",
       end_secs: 2851.96,
       speaker_name: "Charlie",
+      id: 472,
       start_secs: 2848.24,
     },
     {
@@ -5490,6 +5973,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:47:34",
       end_secs: 2854.5,
       speaker_name: "Charlie",
+      id: 473,
       start_secs: 2852.38,
     },
     {
@@ -5502,6 +5986,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:47:42",
       end_secs: 2862.63,
       speaker_name: "Charlie",
+      id: 474,
       start_secs: 2854.75,
     },
     {
@@ -5513,6 +5998,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:47:43",
       end_secs: 2863.959,
       speaker_name: "Charlie",
+      id: 475,
       start_secs: 2862.92,
     },
     {
@@ -5525,6 +6011,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:47:48",
       end_secs: 2868.339,
       speaker_name: "Charlie",
+      id: 476,
       start_secs: 2864.25,
     },
     {
@@ -5537,6 +6024,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:47:51",
       end_secs: 2871.549,
       speaker_name: "Patrick",
+      id: 477,
       start_secs: 2868.339,
     },
     {
@@ -5549,6 +6037,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:47:56",
       end_secs: 2876.279,
       speaker_name: "Patrick",
+      id: 478,
       start_secs: 2871.55,
     },
     {
@@ -5561,6 +6050,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:48:07",
       end_secs: 2887.29,
       speaker_name: "Patrick",
+      id: 479,
       start_secs: 2876.429,
     },
     {
@@ -5572,6 +6062,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:48:09",
       end_secs: 2889.7,
       speaker_name: "Patrick",
+      id: 480,
       start_secs: 2887.39,
     },
     {
@@ -5583,6 +6074,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:48:12",
       end_secs: 2892.17,
       speaker_name: "Patrick",
+      id: 481,
       start_secs: 2889.95,
     },
     {
@@ -5595,6 +6087,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:48:18",
       end_secs: 2898.169,
       speaker_name: "Patrick",
+      id: 482,
       start_secs: 2892.25,
     },
     {
@@ -5607,6 +6100,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:48:24",
       end_secs: 2904.779,
       speaker_name: "Patrick",
+      id: 483,
       start_secs: 2898.389,
     },
     {
@@ -5618,6 +6112,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:48:28",
       end_secs: 2908.54,
       speaker_name: "Charlie",
+      id: 484,
       start_secs: 2904.779,
     },
     {
@@ -5629,6 +6124,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:48:31",
       end_secs: 2911.98,
       speaker_name: "Charlie",
+      id: 485,
       start_secs: 2908.55,
     },
     {
@@ -5641,6 +6137,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:48:43",
       end_secs: 2923.0,
       speaker_name: "Charlie",
+      id: 486,
       start_secs: 2912.16,
     },
     {
@@ -5653,6 +6150,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:48:55",
       end_secs: 2935.509,
       speaker_name: "Charlie",
+      id: 487,
       start_secs: 2923.27,
     },
     {
@@ -5665,6 +6163,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:49:02",
       end_secs: 2942.149,
       speaker_name: "Charlie",
+      id: 488,
       start_secs: 2935.72,
     },
     {
@@ -5677,6 +6176,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:49:09",
       end_secs: 2949.643,
       speaker_name: "Charlie",
+      id: 489,
       start_secs: 2942.36,
     },
     {
@@ -5688,6 +6188,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:49:09",
       end_secs: 2949.672,
       speaker_name: "Patrick",
+      id: 490,
       start_secs: 2949.643,
     },
     {
@@ -5700,6 +6201,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:49:17",
       end_secs: 2957.15,
       speaker_name: "Patrick",
+      id: 491,
       start_secs: 2949.672,
     },
     {
@@ -5712,6 +6214,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:49:21",
       end_secs: 2961.38,
       speaker_name: "Patrick",
+      id: 492,
       start_secs: 2957.16,
     },
     {
@@ -5723,6 +6226,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:49:23",
       end_secs: 2963.23,
       speaker_name: "Patrick",
+      id: 493,
       start_secs: 2961.38,
     },
     {
@@ -5735,6 +6239,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:49:30",
       end_secs: 2970.5,
       speaker_name: "Charlie",
+      id: 494,
       start_secs: 2963.23,
     },
     {
@@ -5747,6 +6252,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:49:37",
       end_secs: 2977.0,
       speaker_name: "Charlie",
+      id: 495,
       start_secs: 2970.64,
     },
     {
@@ -5759,6 +6265,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:49:42",
       end_secs: 2982.94,
       speaker_name: "Charlie",
+      id: 496,
       start_secs: 2977.14,
     },
     {
@@ -5771,6 +6278,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:49:50",
       end_secs: 2990.41,
       speaker_name: "Charlie",
+      id: 497,
       start_secs: 2983.42,
     },
     {
@@ -5783,6 +6291,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:49:58",
       end_secs: 2998.319,
       speaker_name: "Charlie",
+      id: 498,
       start_secs: 2990.59,
     },
     {
@@ -5795,6 +6304,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:50:04",
       end_secs: 3004.029,
       speaker_name: "Charlie",
+      id: 499,
       start_secs: 2998.639,
     },
     {
@@ -5806,6 +6316,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:50:05",
       end_secs: 3005.629,
       speaker_name: "Charlie",
+      id: 500,
       start_secs: 3004.029,
     },
     {
@@ -5817,6 +6328,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:50:07",
       end_secs: 3007.45,
       speaker_name: "Charlie",
+      id: 501,
       start_secs: 3005.799,
     },
     {
@@ -5829,6 +6341,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:50:14",
       end_secs: 3014.19,
       speaker_name: "Charlie",
+      id: 502,
       start_secs: 3007.72,
     },
     {
@@ -5841,6 +6354,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:50:20",
       end_secs: 3020.95,
       speaker_name: "Charlie",
+      id: 503,
       start_secs: 3014.53,
     },
     {
@@ -5852,6 +6366,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:50:23",
       end_secs: 3023.54,
       speaker_name: "Charlie",
+      id: 504,
       start_secs: 3021.099,
     },
     {
@@ -5864,6 +6379,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:50:27",
       end_secs: 3027.69,
       speaker_name: "Charlie",
+      id: 505,
       start_secs: 3023.709,
     },
     {
@@ -5876,6 +6392,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:50:31",
       end_secs: 3031.13,
       speaker_name: "Charlie",
+      id: 506,
       start_secs: 3027.69,
     },
     {
@@ -5887,6 +6404,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:50:35",
       end_secs: 3035.759,
       speaker_name: "Charlie",
+      id: 507,
       start_secs: 3031.39,
     },
     {
@@ -5899,6 +6417,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:50:43",
       end_secs: 3043.099,
       speaker_name: "Charlie",
+      id: 508,
       start_secs: 3035.849,
     },
     {
@@ -5911,6 +6430,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:50:50",
       end_secs: 3050.839,
       speaker_name: "Charlie",
+      id: 509,
       start_secs: 3043.229,
     },
     {
@@ -5923,6 +6443,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:51:00",
       end_secs: 3060.009,
       speaker_name: "Charlie",
+      id: 510,
       start_secs: 3051.03,
     },
     {
@@ -5935,6 +6456,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:51:08",
       end_secs: 3068.49,
       speaker_name: "Charlie",
+      id: 511,
       start_secs: 3060.049,
     },
     {
@@ -5947,6 +6469,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:51:24",
       end_secs: 3084.91,
       speaker_name: "Charlie",
+      id: 512,
       start_secs: 3068.52,
     },
     {
@@ -5959,6 +6482,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:51:36",
       end_secs: 3096.47,
       speaker_name: "Charlie",
+      id: 513,
       start_secs: 3084.94,
     },
     {
@@ -5971,6 +6495,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:51:39",
       end_secs: 3099.71,
       speaker_name: "Charlie",
+      id: 514,
       start_secs: 3096.549,
     },
     {
@@ -5983,6 +6508,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:51:43",
       end_secs: 3103.68,
       speaker_name: "Charlie",
+      id: 515,
       start_secs: 3099.82,
     },
     {
@@ -5995,6 +6521,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:51:49",
       end_secs: 3109.83,
       speaker_name: "Charlie",
+      id: 516,
       start_secs: 3103.91,
     },
     {
@@ -6007,6 +6534,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:52:01",
       end_secs: 3121.83,
       speaker_name: "Charlie",
+      id: 517,
       start_secs: 3109.95,
     },
     {
@@ -6019,6 +6547,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:52:05",
       end_secs: 3125.769,
       speaker_name: "Charlie",
+      id: 518,
       start_secs: 3122.09,
     },
     {
@@ -6031,6 +6560,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:52:09",
       end_secs: 3129.71,
       speaker_name: "Charlie",
+      id: 519,
       start_secs: 3125.94,
     },
     {
@@ -6042,6 +6572,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:52:12",
       end_secs: 3132.069,
       speaker_name: "Charlie",
+      id: 520,
       start_secs: 3129.88,
     },
     {
@@ -6053,6 +6584,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:52:15",
       end_secs: 3135.609,
       speaker_name: "Charlie",
+      id: 521,
       start_secs: 3132.18,
     },
     {
@@ -6065,6 +6597,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:52:31",
       end_secs: 3151.65,
       speaker_name: "Charlie",
+      id: 522,
       start_secs: 3135.73,
     },
     {
@@ -6076,6 +6609,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:52:33",
       end_secs: 3153.715,
       speaker_name: "Charlie",
+      id: 523,
       start_secs: 3151.72,
     },
     {
@@ -6088,6 +6622,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:52:41",
       end_secs: 3161.14,
       speaker_name: "Charlie",
+      id: 524,
       start_secs: 3154.04,
     },
     {
@@ -6100,6 +6635,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:52:52",
       end_secs: 3172.86,
       speaker_name: "Charlie",
+      id: 525,
       start_secs: 3161.58,
     },
     {
@@ -6111,6 +6647,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:52:55",
       end_secs: 3175.2,
       speaker_name: "Charlie",
+      id: 526,
       start_secs: 3172.97,
     },
     {
@@ -6123,6 +6660,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:52:59",
       end_secs: 3179.29,
       speaker_name: "Charlie",
+      id: 527,
       start_secs: 3175.27,
     },
     {
@@ -6135,6 +6673,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:53:11",
       end_secs: 3191.77,
       speaker_name: "Charlie",
+      id: 528,
       start_secs: 3179.35,
     },
     {
@@ -6147,6 +6686,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:53:18",
       end_secs: 3198.01,
       speaker_name: "Patrick",
+      id: 529,
       start_secs: 3192.31,
     },
     {
@@ -6159,6 +6699,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:53:24",
       end_secs: 3204.629,
       speaker_name: "Charlie",
+      id: 530,
       start_secs: 3198.01,
     },
     {
@@ -6171,6 +6712,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:53:30",
       end_secs: 3210.18,
       speaker_name: "Charlie",
+      id: 531,
       start_secs: 3204.789,
     },
     {
@@ -6183,6 +6725,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:53:36",
       end_secs: 3216.05,
       speaker_name: "Charlie",
+      id: 532,
       start_secs: 3210.41,
     },
     {
@@ -6194,6 +6737,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:53:36",
       end_secs: 3216.87,
       speaker_name: "Charlie",
+      id: 533,
       start_secs: 3216.31,
     },
     {
@@ -6205,6 +6749,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:53:37",
       end_secs: 3217.769,
       speaker_name: "Charlie",
+      id: 534,
       start_secs: 3216.87,
     },
     {
@@ -6216,6 +6761,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:53:40",
       end_secs: 3220.22,
       speaker_name: "Charlie",
+      id: 535,
       start_secs: 3218.009,
     },
     {
@@ -6227,6 +6773,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:53:43",
       end_secs: 3223.649,
       speaker_name: "Charlie",
+      id: 536,
       start_secs: 3220.4,
     },
     {
@@ -6238,6 +6785,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:53:46",
       end_secs: 3226.272,
       speaker_name: "Charlie",
+      id: 537,
       start_secs: 3223.74,
     },
     {
@@ -6246,6 +6794,7 @@ export const transcript_songhurst = {
       text: "Mis-valued Assets",
       end_hhmmss: "00:53:46",
       end_secs: 3226.603,
+      id: 538,
       start_secs: 3226.272,
     },
     {
@@ -6258,6 +6807,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:53:50",
       end_secs: 3230.569,
       speaker_name: "Patrick",
+      id: 539,
       start_secs: 3226.603,
     },
     {
@@ -6270,6 +6820,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:53:58",
       end_secs: 3238.22,
       speaker_name: "Charlie",
+      id: 540,
       start_secs: 3230.569,
     },
     {
@@ -6281,6 +6832,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:54:01",
       end_secs: 3241.129,
       speaker_name: "Charlie",
+      id: 541,
       start_secs: 3238.629,
     },
     {
@@ -6293,6 +6845,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:54:10",
       end_secs: 3250.969,
       speaker_name: "Charlie",
+      id: 542,
       start_secs: 3241.22,
     },
     {
@@ -6304,6 +6857,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:54:12",
       end_secs: 3252.55,
       speaker_name: "Charlie",
+      id: 543,
       start_secs: 3250.969,
     },
     {
@@ -6315,6 +6869,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:54:15",
       end_secs: 3255.06,
       speaker_name: "Charlie",
+      id: 544,
       start_secs: 3252.55,
     },
     {
@@ -6326,6 +6881,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:54:17",
       end_secs: 3257.229,
       speaker_name: "Charlie",
+      id: 545,
       start_secs: 3255.12,
     },
     {
@@ -6337,6 +6893,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:54:21",
       end_secs: 3261.56,
       speaker_name: "Charlie",
+      id: 546,
       start_secs: 3257.65,
     },
     {
@@ -6348,6 +6905,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:54:23",
       end_secs: 3263.549,
       speaker_name: "Charlie",
+      id: 547,
       start_secs: 3261.62,
     },
     {
@@ -6359,6 +6917,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:54:25",
       end_secs: 3265.84,
       speaker_name: "Charlie",
+      id: 548,
       start_secs: 3264.09,
     },
     {
@@ -6371,6 +6930,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:54:33",
       end_secs: 3273.93,
       speaker_name: "Charlie",
+      id: 549,
       start_secs: 3265.95,
     },
     {
@@ -6383,6 +6943,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:54:52",
       end_secs: 3292.15,
       speaker_name: "Charlie",
+      id: 550,
       start_secs: 3274.18,
     },
     {
@@ -6395,6 +6956,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:55:07",
       end_secs: 3307.159,
       speaker_name: "Charlie",
+      id: 551,
       start_secs: 3292.33,
     },
     {
@@ -6407,6 +6969,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:55:14",
       end_secs: 3314.64,
       speaker_name: "Charlie",
+      id: 552,
       start_secs: 3307.34,
     },
     {
@@ -6419,6 +6982,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:55:19",
       end_secs: 3319.1,
       speaker_name: "Patrick",
+      id: 553,
       start_secs: 3315.71,
     },
     {
@@ -6431,6 +6995,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:55:23",
       end_secs: 3323.759,
       speaker_name: "Patrick",
+      id: 554,
       start_secs: 3319.15,
     },
     {
@@ -6443,6 +7008,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:55:29",
       end_secs: 3329.18,
       speaker_name: "Patrick",
+      id: 555,
       start_secs: 3323.84,
     },
     {
@@ -6455,6 +7021,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:55:38",
       end_secs: 3338.1,
       speaker_name: "Charlie",
+      id: 556,
       start_secs: 3329.73,
     },
     {
@@ -6467,6 +7034,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:55:41",
       end_secs: 3341.42,
       speaker_name: "Charlie",
+      id: 557,
       start_secs: 3338.71,
     },
     {
@@ -6479,6 +7047,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:55:52",
       end_secs: 3352.04,
       speaker_name: "Charlie",
+      id: 558,
       start_secs: 3341.67,
     },
     {
@@ -6491,6 +7060,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:56:00",
       end_secs: 3360.294,
       speaker_name: "Charlie",
+      id: 559,
       start_secs: 3352.23,
     },
     {
@@ -6503,6 +7073,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:56:07",
       end_secs: 3367.17,
       speaker_name: "Charlie",
+      id: 560,
       start_secs: 3360.294,
     },
     {
@@ -6515,6 +7086,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:56:13",
       end_secs: 3373.87,
       speaker_name: "Charlie",
+      id: 561,
       start_secs: 3367.24,
     },
     {
@@ -6527,6 +7099,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:56:17",
       end_secs: 3377.939,
       speaker_name: "Charlie",
+      id: 562,
       start_secs: 3374.099,
     },
     {
@@ -6539,6 +7112,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:56:24",
       end_secs: 3384.63,
       speaker_name: "Charlie",
+      id: 563,
       start_secs: 3378.05,
     },
     {
@@ -6550,6 +7124,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:56:27",
       end_secs: 3387.665,
       speaker_name: "Charlie",
+      id: 564,
       start_secs: 3384.63,
     },
     {
@@ -6562,6 +7137,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:56:44",
       end_secs: 3404.64,
       speaker_name: "Charlie",
+      id: 565,
       start_secs: 3387.84,
     },
     {
@@ -6573,6 +7149,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:56:47",
       end_secs: 3407.15,
       speaker_name: "Charlie",
+      id: 566,
       start_secs: 3404.86,
     },
     {
@@ -6585,6 +7162,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:56:51",
       end_secs: 3411.37,
       speaker_name: "Charlie",
+      id: 567,
       start_secs: 3407.3,
     },
     {
@@ -6597,6 +7175,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:57:04",
       end_secs: 3424.48,
       speaker_name: "Charlie",
+      id: 568,
       start_secs: 3411.52,
     },
     {
@@ -6609,6 +7188,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:57:28",
       end_secs: 3448.34,
       speaker_name: "Charlie",
+      id: 569,
       start_secs: 3424.48,
     },
     {
@@ -6620,6 +7200,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:57:30",
       end_secs: 3450.799,
       speaker_name: "Patrick",
+      id: 570,
       start_secs: 3449.07,
     },
     {
@@ -6632,6 +7213,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:57:37",
       end_secs: 3457.56,
       speaker_name: "Patrick",
+      id: 571,
       start_secs: 3450.799,
     },
     {
@@ -6644,6 +7226,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:57:41",
       end_secs: 3461.1,
       speaker_name: "Patrick",
+      id: 572,
       start_secs: 3457.6,
     },
     {
@@ -6656,6 +7239,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:57:57",
       end_secs: 3477.03,
       speaker_name: "Charlie",
+      id: 573,
       start_secs: 3461.68,
     },
     {
@@ -6667,6 +7251,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:57:57",
       end_secs: 3477.423,
       speaker_name: "Patrick",
+      id: 574,
       start_secs: 3477.03,
     },
     {
@@ -6678,6 +7263,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:57:59",
       end_secs: 3479.96,
       speaker_name: "Patrick",
+      id: 575,
       start_secs: 3477.59,
     },
     {
@@ -6689,6 +7275,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:58:02",
       end_secs: 3482.48,
       speaker_name: "Patrick",
+      id: 576,
       start_secs: 3480.01,
     },
     {
@@ -6701,6 +7288,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:58:10",
       end_secs: 3490.06,
       speaker_name: "Charlie",
+      id: 577,
       start_secs: 3483.2,
     },
     {
@@ -6713,6 +7301,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:58:15",
       end_secs: 3495.61,
       speaker_name: "Charlie",
+      id: 578,
       start_secs: 3490.23,
     },
     {
@@ -6725,6 +7314,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:58:27",
       end_secs: 3507.92,
       speaker_name: "Charlie",
+      id: 579,
       start_secs: 3495.7,
     },
     {
@@ -6737,6 +7327,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:58:34",
       end_secs: 3514.54,
       speaker_name: "Charlie",
+      id: 580,
       start_secs: 3508.379,
     },
     {
@@ -6748,6 +7339,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:58:36",
       end_secs: 3516.38,
       speaker_name: "Charlie",
+      id: 581,
       start_secs: 3514.81,
     },
     {
@@ -6760,6 +7352,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:58:41",
       end_secs: 3521.839,
       speaker_name: "Charlie",
+      id: 582,
       start_secs: 3516.6,
     },
     {
@@ -6772,6 +7365,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:58:46",
       end_secs: 3526.159,
       speaker_name: "Charlie",
+      id: 583,
       start_secs: 3521.98,
     },
     {
@@ -6784,6 +7378,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:59:01",
       end_secs: 3541.089,
       speaker_name: "Charlie",
+      id: 584,
       start_secs: 3526.32,
     },
     {
@@ -6796,6 +7391,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:59:16",
       end_secs: 3556.21,
       speaker_name: "Charlie",
+      id: 585,
       start_secs: 3541.28,
     },
     {
@@ -6804,6 +7400,7 @@ export const transcript_songhurst = {
       text: "Information Curation",
       end_hhmmss: "00:59:16",
       end_secs: 3556.213,
+      id: 586,
       start_secs: 3556.21,
     },
     {
@@ -6816,6 +7413,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:59:24",
       end_secs: 3564.19,
       speaker_name: "Patrick",
+      id: 587,
       start_secs: 3556.213,
     },
     {
@@ -6827,6 +7425,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:59:26",
       end_secs: 3566.51,
       speaker_name: "Patrick",
+      id: 588,
       start_secs: 3564.19,
     },
     {
@@ -6839,6 +7438,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:59:36",
       end_secs: 3576.2,
       speaker_name: "Patrick",
+      id: 589,
       start_secs: 3566.59,
     },
     {
@@ -6851,6 +7451,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:59:44",
       end_secs: 3584.0,
       speaker_name: "Charlie",
+      id: 590,
       start_secs: 3577.149,
     },
     {
@@ -6863,6 +7464,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:59:51",
       end_secs: 3591.29,
       speaker_name: "Charlie",
+      id: 591,
       start_secs: 3584.23,
     },
     {
@@ -6875,6 +7477,7 @@ export const transcript_songhurst = {
       end_hhmmss: "00:59:55",
       end_secs: 3595.244,
       speaker_name: "Charlie",
+      id: 592,
       start_secs: 3591.42,
     },
     {
@@ -6884,7 +7487,9 @@ export const transcript_songhurst = {
         "“If you hang out with people smarter, harder working, and morally better than oneself, you always live in a funnel of positive serendipity because effectively you are dragged upwards to the mean benchmark, which is higher than oneself.”",
       end_hhmmss: "00:59:55",
       end_secs: 3595.805,
+      id: 593,
       start_secs: 3595.244,
+      liked: true,
     },
     {
       kind: "spoken",
@@ -6896,6 +7501,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:00:02",
       end_secs: 3602.01,
       speaker_name: "Charlie",
+      id: 594,
       start_secs: 3595.82,
     },
     {
@@ -6908,6 +7514,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:00:11",
       end_secs: 3611.06,
       speaker_name: "Charlie",
+      id: 595,
       start_secs: 3602.27,
     },
     {
@@ -6920,6 +7527,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:00:28",
       end_secs: 3628.24,
       speaker_name: "Charlie",
+      id: 596,
       start_secs: 3611.34,
     },
     {
@@ -6931,6 +7539,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:00:30",
       end_secs: 3630.589,
       speaker_name: "Patrick",
+      id: 597,
       start_secs: 3628.24,
     },
     {
@@ -6943,6 +7552,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:00:34",
       end_secs: 3634.27,
       speaker_name: "Patrick",
+      id: 598,
       start_secs: 3630.639,
     },
     {
@@ -6955,6 +7565,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:00:40",
       end_secs: 3640.859,
       speaker_name: "Patrick",
+      id: 599,
       start_secs: 3634.35,
     },
     {
@@ -6966,6 +7577,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:00:41",
       end_secs: 3641.87,
       speaker_name: "Charlie",
+      id: 600,
       start_secs: 3640.859,
     },
     {
@@ -6977,6 +7589,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:00:42",
       end_secs: 3642.79,
       speaker_name: "Charlie",
+      id: 601,
       start_secs: 3641.96,
     },
     {
@@ -6989,6 +7602,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:00:54",
       end_secs: 3654.349,
       speaker_name: "Charlie",
+      id: 602,
       start_secs: 3642.86,
     },
     {
@@ -7000,6 +7614,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:00:56",
       end_secs: 3656.962,
       speaker_name: "Charlie",
+      id: 603,
       start_secs: 3654.49,
     },
     {
@@ -7011,6 +7626,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:00:58",
       end_secs: 3658.19,
       speaker_name: "Patrick",
+      id: 604,
       start_secs: 3656.962,
     },
     {
@@ -7023,6 +7639,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:01:03",
       end_secs: 3663.42,
       speaker_name: "Patrick",
+      id: 605,
       start_secs: 3658.19,
     },
     {
@@ -7034,6 +7651,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:01:04",
       end_secs: 3664.2,
       speaker_name: "Charlie",
+      id: 606,
       start_secs: 3663.87,
     },
     {
@@ -7046,6 +7664,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:01:09",
       end_secs: 3669.259,
       speaker_name: "Charlie",
+      id: 607,
       start_secs: 3664.2,
     },
     {
@@ -7058,6 +7677,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:01:16",
       end_secs: 3676.31,
       speaker_name: "Charlie",
+      id: 608,
       start_secs: 3669.48,
     },
     {
@@ -7070,6 +7690,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:01:26",
       end_secs: 3686.03,
       speaker_name: "Charlie",
+      id: 609,
       start_secs: 3676.77,
     },
     {
@@ -7081,6 +7702,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:01:28",
       end_secs: 3688.199,
       speaker_name: "Charlie",
+      id: 610,
       start_secs: 3686.19,
     },
     {
@@ -7093,6 +7715,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:01:40",
       end_secs: 3700.0,
       speaker_name: "Charlie",
+      id: 611,
       start_secs: 3688.199,
     },
     {
@@ -7104,6 +7727,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:01:43",
       end_secs: 3703.49,
       speaker_name: "Charlie",
+      id: 612,
       start_secs: 3700.09,
     },
     {
@@ -7116,6 +7740,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:01:49",
       end_secs: 3709.53,
       speaker_name: "Charlie",
+      id: 613,
       start_secs: 3703.73,
     },
     {
@@ -7127,6 +7752,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:01:52",
       end_secs: 3712.645,
       speaker_name: "Charlie",
+      id: 614,
       start_secs: 3709.78,
     },
     {
@@ -7135,6 +7761,7 @@ export const transcript_songhurst = {
       text: "Temporal Inevitability",
       end_hhmmss: "01:01:53",
       end_secs: 3713.051,
+      id: 615,
       start_secs: 3712.645,
     },
     {
@@ -7146,6 +7773,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:01:54",
       end_secs: 3714.74,
       speaker_name: "Patrick",
+      id: 616,
       start_secs: 3713.051,
     },
     {
@@ -7158,6 +7786,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:02:00",
       end_secs: 3720.57,
       speaker_name: "Patrick",
+      id: 617,
       start_secs: 3714.99,
     },
     {
@@ -7170,6 +7799,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:02:06",
       end_secs: 3726.329,
       speaker_name: "Charlie",
+      id: 618,
       start_secs: 3720.57,
     },
     {
@@ -7182,6 +7812,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:02:17",
       end_secs: 3737.92,
       speaker_name: "Charlie",
+      id: 619,
       start_secs: 3726.66,
     },
     {
@@ -7194,6 +7825,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:02:27",
       end_secs: 3747.72,
       speaker_name: "Charlie",
+      id: 620,
       start_secs: 3738.15,
     },
     {
@@ -7205,6 +7837,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:02:33",
       end_secs: 3753.729,
       speaker_name: "Charlie",
+      id: 621,
       start_secs: 3749.08,
     },
     {
@@ -7217,6 +7850,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:02:46",
       end_secs: 3766.31,
       speaker_name: "Charlie",
+      id: 622,
       start_secs: 3754.08,
     },
     {
@@ -7228,6 +7862,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:02:49",
       end_secs: 3769.52,
       speaker_name: "Charlie",
+      id: 623,
       start_secs: 3766.31,
     },
     {
@@ -7240,6 +7875,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:02:57",
       end_secs: 3777.8,
       speaker_name: "Charlie",
+      id: 624,
       start_secs: 3769.82,
     },
     {
@@ -7251,6 +7887,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:02:58",
       end_secs: 3778.752,
       speaker_name: "Charlie",
+      id: 625,
       start_secs: 3778.119,
     },
     {
@@ -7263,6 +7900,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:03:11",
       end_secs: 3791.72,
       speaker_name: "Charlie",
+      id: 626,
       start_secs: 3778.752,
     },
     {
@@ -7274,6 +7912,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:03:14",
       end_secs: 3794.63,
       speaker_name: "Charlie",
+      id: 627,
       start_secs: 3792.11,
     },
     {
@@ -7286,6 +7925,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:03:33",
       end_secs: 3813.11,
       speaker_name: "Charlie",
+      id: 628,
       start_secs: 3794.88,
     },
     {
@@ -7298,6 +7938,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:03:41",
       end_secs: 3821.23,
       speaker_name: "Charlie",
+      id: 629,
       start_secs: 3813.16,
     },
     {
@@ -7310,6 +7951,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:03:46",
       end_secs: 3826.6,
       speaker_name: "Charlie",
+      id: 630,
       start_secs: 3821.94,
     },
     {
@@ -7322,6 +7964,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:03:51",
       end_secs: 3831.62,
       speaker_name: "Charlie",
+      id: 631,
       start_secs: 3826.6,
     },
     {
@@ -7334,6 +7977,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:03:55",
       end_secs: 3835.149,
       speaker_name: "Charlie",
+      id: 632,
       start_secs: 3831.75,
     },
     {
@@ -7345,6 +7989,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:03:57",
       end_secs: 3837.82,
       speaker_name: "Charlie",
+      id: 633,
       start_secs: 3835.41,
     },
     {
@@ -7356,6 +8001,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:04:00",
       end_secs: 3840.72,
       speaker_name: "Charlie",
+      id: 634,
       start_secs: 3837.82,
     },
     {
@@ -7367,6 +8013,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:04:01",
       end_secs: 3841.77,
       speaker_name: "Charlie",
+      id: 635,
       start_secs: 3841.01,
     },
     {
@@ -7379,6 +8026,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:04:08",
       end_secs: 3848.2,
       speaker_name: "Charlie",
+      id: 636,
       start_secs: 3841.91,
     },
     {
@@ -7391,6 +8039,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:04:18",
       end_secs: 3858.46,
       speaker_name: "Charlie",
+      id: 637,
       start_secs: 3848.469,
     },
     {
@@ -7403,6 +8052,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:04:21",
       end_secs: 3861.39,
       speaker_name: "Charlie",
+      id: 638,
       start_secs: 3858.7,
     },
     {
@@ -7415,6 +8065,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:04:27",
       end_secs: 3867.219,
       speaker_name: "Charlie",
+      id: 639,
       start_secs: 3861.51,
     },
     {
@@ -7427,6 +8078,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:04:31",
       end_secs: 3871.92,
       speaker_name: "Charlie",
+      id: 640,
       start_secs: 3867.379,
     },
     {
@@ -7439,6 +8091,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:04:47",
       end_secs: 3887.459,
       speaker_name: "Charlie",
+      id: 641,
       start_secs: 3872.05,
     },
     {
@@ -7451,6 +8104,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:04:57",
       end_secs: 3897.66,
       speaker_name: "Patrick",
+      id: 642,
       start_secs: 3887.459,
     },
     {
@@ -7463,6 +8117,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:05:02",
       end_secs: 3902.369,
       speaker_name: "Patrick",
+      id: 643,
       start_secs: 3897.83,
     },
     {
@@ -7475,6 +8130,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:05:10",
       end_secs: 3910.49,
       speaker_name: "Patrick",
+      id: 644,
       start_secs: 3902.87,
     },
     {
@@ -7487,6 +8143,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:05:16",
       end_secs: 3916.41,
       speaker_name: "Patrick",
+      id: 645,
       start_secs: 3910.59,
     },
     {
@@ -7498,6 +8155,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:05:20",
       end_secs: 3920.742,
       speaker_name: "Charlie",
+      id: 646,
       start_secs: 3916.41,
     },
     {
@@ -7509,6 +8167,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:05:22",
       end_secs: 3922.439,
       speaker_name: "Charlie",
+      id: 647,
       start_secs: 3920.742,
     },
     {
@@ -7521,6 +8180,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:05:34",
       end_secs: 3934.534,
       speaker_name: "Charlie",
+      id: 648,
       start_secs: 3922.9,
     },
     {
@@ -7532,6 +8192,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:05:36",
       end_secs: 3936.11,
       speaker_name: "Charlie",
+      id: 649,
       start_secs: 3934.69,
     },
     {
@@ -7543,6 +8204,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:05:37",
       end_secs: 3937.939,
       speaker_name: "Patrick",
+      id: 650,
       start_secs: 3936.11,
     },
     {
@@ -7554,6 +8216,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:05:40",
       end_secs: 3940.19,
       speaker_name: "Patrick",
+      id: 651,
       start_secs: 3938.08,
     },
     {
@@ -7565,6 +8228,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:05:42",
       end_secs: 3942.77,
       speaker_name: "Patrick",
+      id: 652,
       start_secs: 3940.19,
     },
     {
@@ -7577,6 +8241,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:05:50",
       end_secs: 3950.089,
       speaker_name: "Patrick",
+      id: 653,
       start_secs: 3942.77,
     },
     {
@@ -7589,6 +8254,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:05:57",
       end_secs: 3957.239,
       speaker_name: "Patrick",
+      id: 654,
       start_secs: 3950.32,
     },
     {
@@ -7600,6 +8266,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:05:57",
       end_secs: 3957.67,
       speaker_name: "Patrick",
+      id: 655,
       start_secs: 3957.33,
     },
     {
@@ -7611,6 +8278,7 @@ export const transcript_songhurst = {
       end_hhmmss: "01:06:06",
       end_secs: 3966.38,
       speaker_name: "Charlie",
+      id: 656,
       start_secs: 3961.21,
     },
   ],

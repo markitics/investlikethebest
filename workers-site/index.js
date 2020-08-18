@@ -37,6 +37,35 @@ async function handleEvent(event) {
    */
   // options.mapRequestToAsset = handlePrefix(/^\/docs/);
 
+  // That was default boilerplate commented-out suggestion,
+  // but we need to do the following, so the root /index.html is always used
+  // and we avoid errors like "could not find about/index.html in your content namespace"
+  // if someone doesn't start on the homepage.
+  // that is, is someone refreshes their browser while on /episode/181,
+  // or sends a link to a friend, who arrives on the website on any page other than the homepage.
+  // Copying from https://stackoverflow.com/a/58439234/870121
+  options.mapRequestToAsset = (req) => {
+    // First let's apply the default handler, which we imported from
+    // '@cloudflare/kv-asset-handler' at the top of the file. We do
+    // this because the default handler already has logic to detect
+    // paths that should map to HTML files, for which it appends
+    // `/index.html` to the path.
+    req = mapRequestToAsset(req);
+
+    // Now we can detect if the default handler decided to map to
+    // index.html in some specific directory.
+    if (req.url.endsWith("/index.html")) {
+      // Indeed. Let's change it to instead map to the root `/index.html`.
+      // This avoids the need to do a redundant lookup that we know will
+      // fail.
+      return new Request(`${new URL(req.url).origin}/index.html`, req);
+    } else {
+      // The default handler decided this is not an HTML page. It's probably
+      // an image, CSS, or JS file. Leave it as-is.
+      return req;
+    }
+  };
+
   try {
     if (DEBUG) {
       // customize caching

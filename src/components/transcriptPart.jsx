@@ -1,5 +1,6 @@
 import React from "react";
 import PlayFromButton from "./transcript/playFromButton";
+import LikeButton from "./likeButton";
 
 function TranscriptPart({ part }) {
   const renderClasses = (part) => {
@@ -14,6 +15,7 @@ function TranscriptPart({ part }) {
     <div className="transcriptPart">
       {part.kind === "spoken" && <PlayFromButton part={part} />}
       <div className={renderClasses(part)}>{part.text}</div>
+      <LikeButton part={part} />
     </div>
   );
 }
